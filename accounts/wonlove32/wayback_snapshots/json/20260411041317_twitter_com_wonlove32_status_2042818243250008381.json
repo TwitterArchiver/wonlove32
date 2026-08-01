@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2042818243250008381",
+    "created_at": "2026-04-11T04:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042818243250008381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675334984931098631",
+          "start": 3,
+          "username": "qwq_7obii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042818243250008381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042452489555907044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwq_7obii: 我想问一下穷逼这个圈子怎么退呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2042818243250008381",
+        "created_at": "2026-04-11T04:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042818243250008381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675334984931098631",
+              "start": 3,
+              "username": "qwq_7obii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042818243250008381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042452489555907044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwq_7obii: 我想问一下穷逼这个圈子怎么退呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675334984931098631",
+        "conversation_id": "2042452489555907044",
+        "created_at": "2026-04-10T03:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042452489555907044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042452489555907044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18234,
+          "like_count": 430,
+          "quote_count": 3,
+          "reply_count": 77,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下穷逼这个圈子怎么退呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T02:46:12.000Z",
+        "description": "le",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/IxEnOF6dfE"
+              }
+            ]
+          }
+        },
+        "id": "1675334984931098631",
+        "location": "我的心为恐惧和欲望而跳动 ",
+        "name": "薄荷纸",
+        "pinned_tweet_id": "2042613440020099196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041696997007093760/0_-D3HPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 68,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/IxEnOF6dfE",
+        "username": "qwq_7obii",
+        "verified": false
+      }
+    ]
+  }
+}

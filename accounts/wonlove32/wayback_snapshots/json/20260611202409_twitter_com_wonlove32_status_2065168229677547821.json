@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2065168229677547821",
+    "created_at": "2026-06-11T20:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065168229677547821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553278286796451840",
+          "start": 3,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065168229677547821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065002511262437593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XuanZai12138: 我觉得好多人都只是浅浅的喜欢我 我好难过呀 他们会讲你很可爱呀之类的话 但我和他们讲我难过的事情我繁杂的小事 他们就显得没有那么有兴趣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2065168229677547821",
+        "created_at": "2026-06-11T20:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065168229677547821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553278286796451840",
+              "start": 3,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065168229677547821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065002511262437593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XuanZai12138: 我觉得好多人都只是浅浅的喜欢我 我好难过呀 他们会讲你很可爱呀之类的话 但我和他们讲我难过的事情我繁杂的小事 他们就显得没有那么有兴趣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2065002511262437593",
+        "created_at": "2026-06-11T09:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065002511262437593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065002511262437593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1942,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得好多人都只是浅浅的喜欢我 我好难过呀 他们会讲你很可爱呀之类的话 但我和他们讲我难过的事情我繁杂的小事 他们就显得没有那么有兴趣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065134245681786880/YQyESBVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 88,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1224
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男\n接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064539358628052992/X3RQ0DMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 120,
+          "like_count": 10881,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 4100
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

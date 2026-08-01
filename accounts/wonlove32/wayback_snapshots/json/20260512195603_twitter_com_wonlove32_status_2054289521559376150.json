@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054289521559376150",
+    "created_at": "2026-05-12T19:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054289521559376150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783110187856871424",
+          "start": 3,
+          "username": "YiCuo88404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054289521559376150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054287810816078016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiCuo88404: 现在给你三个选择\n1.亲亲我\n2.亲亲我\n3.亲亲我\n好了 你选吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054289521559376150",
+        "created_at": "2026-05-12T19:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054289521559376150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783110187856871424",
+              "start": 3,
+              "username": "YiCuo88404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054289521559376150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054287810816078016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiCuo88404: 现在给你三个选择\n1.亲亲我\n2.亲亲我\n3.亲亲我\n好了 你选吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783110187856871424",
+        "conversation_id": "2054287810816078016",
+        "created_at": "2026-05-12T19:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054287810816078016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054287810816078016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在给你三个选择\n1.亲亲我\n2.亲亲我\n3.亲亲我\n好了 你选吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 68,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T12:26:29.000Z",
+        "description": "发疯用 女高🚪纯绿52 非绿128",
+        "id": "1783110187856871424",
+        "location": "日本 东京",
+        "name": "Yuki.",
+        "pinned_tweet_id": "2046302039001710720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042604156805169152/7R0GT01M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 529,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 297
+        },
+        "username": "YiCuo88404",
+        "verified": false
+      }
+    ]
+  }
+}

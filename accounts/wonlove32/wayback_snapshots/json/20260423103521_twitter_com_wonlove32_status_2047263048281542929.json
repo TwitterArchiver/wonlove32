@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2046906102047297547",
+    "created_at": "2026-04-23T10:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047263048281542929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041223587873312769",
+          "start": 0,
+          "username": "duorendusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047263048281542929",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046906102047297547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duorendusk 精神科能开到吗 怎么描述症状啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2046906089720160256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgSPl5aoAAccDs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2046906102047297547",
+        "created_at": "2026-04-23T10:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047263048281542929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047263048281542929",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046906102047297547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 精神科能开到吗 怎么描述症状啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046906089720160256"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2046906102047297547",
+        "created_at": "2026-04-22T10:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046906102047297547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRWTu6eyyf",
+              "end": 43,
+              "expanded_url": "https://x.com/duorendusk/status/2046906102047297547/photo/1",
+              "media_key": "3_2046906089720160256",
+              "start": 20,
+              "url": "https://t.co/kRWTu6eyyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906102047297547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3748,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医院里的价格反倒比外面药店的价格便宜了 https://t.co/kRWTu6eyyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 62,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 273,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

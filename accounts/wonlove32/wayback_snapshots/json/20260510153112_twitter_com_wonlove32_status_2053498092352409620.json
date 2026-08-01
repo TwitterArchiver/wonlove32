@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053498080797052928"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053498092352409620",
+    "created_at": "2026-05-10T15:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053498092352409620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2LKtUStuIn",
+          "end": 72,
+          "expanded_url": "https://x.com/wonlove32/status/2053498092352409620/photo/1",
+          "media_key": "3_2053498080797052928",
+          "start": 49,
+          "url": "https://t.co/2LKtUStuIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053498092352409620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲友去安徽了还得过两个月才回广东，小罪也暂时过不来。我一个人呆在这精神状态好差  做什么都没动力 https://t.co/2LKtUStuIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_2053498080797052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH99n-Ta0AAmOWq.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053498080797052928"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053498092352409620",
+        "created_at": "2026-05-10T15:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053498092352409620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LKtUStuIn",
+              "end": 72,
+              "expanded_url": "https://x.com/wonlove32/status/2053498092352409620/photo/1",
+              "media_key": "3_2053498080797052928",
+              "start": 49,
+              "url": "https://t.co/2LKtUStuIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053498092352409620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友去安徽了还得过两个月才回广东，小罪也暂时过不来。我一个人呆在这精神状态好差  做什么都没动力 https://t.co/2LKtUStuIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053495538151301120/-SUC1GXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 63,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

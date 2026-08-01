@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714639205642241",
+          "name": "Korean actors"
+        }
+      }
+    ],
+    "conversation_id": "2069396892426068091",
+    "created_at": "2026-06-23T12:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069396892426068091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chrryever/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chrryever/status/2069392977731199481",
+          "start": 7,
+          "url": "https://t.co/3HOdRacE6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069396892426068091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069392977731199481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我姐姐我妈妈 https://t.co/3HOdRacE6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3056,
+        "media_key": "3_2069392964523364352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf17-cbkAAd8gZ.jpg",
+        "width": 2296
+      },
+      {
+        "height": 3056,
+        "media_key": "3_2069392962602270720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf173SaAAAn9N_.jpg",
+        "width": 2296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          }
+        ],
+        "conversation_id": "2069396892426068091",
+        "created_at": "2026-06-23T12:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069396892426068091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chrryever/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chrryever/status/2069392977731199481",
+              "start": 7,
+              "url": "https://t.co/3HOdRacE6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069396892426068091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069392977731199481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我姐姐我妈妈 https://t.co/3HOdRacE6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069392964523364352",
+            "3_2069392962602270720"
+          ]
+        },
+        "author_id": "1696079796508487680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          }
+        ],
+        "conversation_id": "2069392977731199481",
+        "created_at": "2026-06-23T12:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069392977731199481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "원빈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOnxY07bwL",
+              "end": 42,
+              "expanded_url": "https://x.com/chrryever/status/2069392977731199481/photo/1",
+              "media_key": "3_2069392964523364352",
+              "start": 19,
+              "url": "https://t.co/XOnxY07bwL"
+            },
+            {
+              "display_url": "pic.x.com/XOnxY07bwL",
+              "end": 42,
+              "expanded_url": "https://x.com/chrryever/status/2069392977731199481/photo/1",
+              "media_key": "3_2069392962602270720",
+              "start": 19,
+              "url": "https://t.co/XOnxY07bwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392977731199481",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 6499,
+          "like_count": 209,
+          "quote_count": 65,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "reply_settings": "following",
+        "text": "260623 위버스 #원빈\n\n👩🏻 https://t.co/XOnxY07bwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069105555726278656/ODOGQzTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 87,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T08:38:36.000Z",
+        "description": "토냥... (덕..ㅠ)",
+        "id": "1696079796508487680",
+        "name": "cherry..",
+        "pinned_tweet_id": "1986810435551846816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744351926043738112/IwspBsUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20340,
+          "following_count": 37,
+          "like_count": 7169,
+          "listed_count": 102,
+          "media_count": 9397,
+          "tweet_count": 12002
+        },
+        "url": "",
+        "username": "chrryever",
+        "verified": true
+      }
+    ]
+  }
+}

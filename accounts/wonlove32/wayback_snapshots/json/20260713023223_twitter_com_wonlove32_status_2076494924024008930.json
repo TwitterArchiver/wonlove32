@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2076490648396644726",
+    "created_at": "2026-07-13T02:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076494924024008930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076494924024008930",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076490648396644726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lvovl3 劳拉也容易戒断"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2076490648396644726",
+        "created_at": "2026-07-13T02:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076494924024008930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076494924024008930",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076490648396644726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lvovl3 劳拉也容易戒断"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2076490648396644726",
+        "created_at": "2026-07-13T02:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076490648396644726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azlxy1/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/azlxy1/status/2076319230933553251",
+              "start": 46,
+              "url": "https://t.co/AjXreImm97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076490648396644726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076319230933553251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "这是原因吗！\n但是我不记得我有没有在戒断pr……\n但是我大概吃了六片劳拉西泮\n这对吗……？ https://t.co/AjXreImm97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076281009918914561/IjFueCAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 89,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1410
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人\n人生是被恐惧追赶着逃跑\n梦想是像普通人一样的身体",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2074645061342826708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072863807450529793/WGetqfPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 453,
+          "like_count": 3750,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 4087
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

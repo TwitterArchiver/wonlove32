@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2066464932783366237",
+    "created_at": "2026-06-15T10:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066464932783366237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032392923418165249",
+          "start": 3,
+          "username": "sillnuunee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066464932783366237",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30995
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065820538199736461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sillnuunee: 아니얘들아 미래는원래안보이는거야 미래가보이면 정신과가야돼 걱정하지마"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2066464932783366237",
+        "created_at": "2026-06-15T10:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066464932783366237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032392923418165249",
+              "start": 3,
+              "username": "sillnuunee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066464932783366237",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30995
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065820538199736461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sillnuunee: 아니얘들아 미래는원래안보이는거야 미래가보이면 정신과가야돼 걱정하지마"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032392923418165249",
+        "conversation_id": "2065820538199736461",
+        "created_at": "2026-06-13T15:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065820538199736461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065820538199736461",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5636,
+          "impression_count": 3028521,
+          "like_count": 67688,
+          "quote_count": 3072,
+          "reply_count": 116,
+          "retweet_count": 30995
+        },
+        "reply_settings": "everyone",
+        "text": "아니얘들아 미래는원래안보이는거야 미래가보이면 정신과가야돼 걱정하지마"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066262494210064384/4ft-pEHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 86,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1234
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T09:46:58.000Z",
+        "description": "뽀또 개레전드 방송 안돼 뽀또 안돼 아 뽀또 한번만 진짜 뽀또 한번만 안돼요 형 몇살이에요 이런건 어린이들이나 먹는거예요 야 너 지금 이 과자 비하했구나 자 여러분들",
+        "id": "2032392923418165249",
+        "location": "디엠알림안옴",
+        "name": "실눈이",
+        "pinned_tweet_id": "2064698016506986509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048690976240332800/QSBMoTkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 195,
+          "like_count": 6681,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2280
+        },
+        "username": "sillnuunee",
+        "verified": false
+      }
+    ]
+  }
+}

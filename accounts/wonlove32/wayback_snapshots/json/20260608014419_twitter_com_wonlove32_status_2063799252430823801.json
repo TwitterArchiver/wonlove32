@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2063788609518633388",
+    "created_at": "2026-06-08T01:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063799252430823801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063799252430823801",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063798820329451774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2063788609518633388",
+        "created_at": "2026-06-08T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063799252430823801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063799252430823801",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063798820329451774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2063788609518633388",
+        "created_at": "2026-06-08T01:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063798820329451774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063798820329451774",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063798498202648847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 对职业倒是没滤镜，只是寻思着以后写论文可以用的上老公🌚（老公：so？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063368408952164352/6Av-OMtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 90,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1206
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/美丽伤口 我爱我身上的每一道疤痕哪怕它们真的很丑陋\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika\n 互fo请私信 有时候看不到 查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "elkvika"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 70,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 47,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "赵二怀里",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2063414867953152238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 16,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 538
+        },
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

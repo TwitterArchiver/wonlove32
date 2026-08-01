@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2056860879975784900",
+    "created_at": "2026-05-20T14:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057109491523752215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057109491523752215",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056860879975784900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 普瑞的话神内和精神科都可以罢  最好描述慢性病这样就能开到纸质处方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2056860879975784900",
+        "created_at": "2026-05-20T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057109491523752215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057109491523752215",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056860879975784900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 普瑞的话神内和精神科都可以罢  最好描述慢性病这样就能开到纸质处方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2056860879975784900",
+        "created_at": "2026-05-19T22:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056860879975784900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056860879975784900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美片和普瑞巴林的处方怎么开啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 87,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046760464089325568/rHNw9PRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12200,
+          "following_count": 259,
+          "like_count": 3362,
+          "listed_count": 24,
+          "media_count": 559,
+          "tweet_count": 2351
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

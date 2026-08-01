@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047425036777377888",
+    "created_at": "2026-04-23T21:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047425036777377888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1740012227124744192",
+          "start": 3,
+          "username": "dejvvinthenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047425036777377888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047350092353699975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dejvvinthenight: 我每次看私信都会笑。那些给我发自己是纯情男大的你们自己不会笑吗？谁家纯情男大上着学还开着梯子急头白脸地在推特给女孩儿私信认识一下、香草泥啊，重新定义纯情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047425036777377888",
+        "created_at": "2026-04-23T21:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047425036777377888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1740012227124744192",
+              "start": 3,
+              "username": "dejvvinthenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047425036777377888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047350092353699975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dejvvinthenight: 我每次看私信都会笑。那些给我发自己是纯情男大的你们自己不会笑吗？谁家纯情男大上着学还开着梯子急头白脸地在推特给女孩儿私信认识一下、香草泥啊，重新定义纯情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740012227124744192",
+        "conversation_id": "2047350092353699975",
+        "created_at": "2026-04-23T16:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047350092353699975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047350092353699975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6191,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 111,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我每次看私信都会笑。那些给我发自己是纯情男大的你们自己不会笑吗？谁家纯情男大上着学还开着梯子急头白脸地在推特给女孩儿私信认识一下、香草泥啊，重新定义纯情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 63,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T14:10:29.000Z",
+        "description": "born to live fast and die young｜intp-t｜174 140｜ switch｜可以叫我岛｜180以下请别私信我｜ask me anything https://t.co/VAFDH0qs8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wetislandme701…",
+                "end": 111,
+                "expanded_url": "https://ngl.link/wetislandme70185",
+                "start": 88,
+                "url": "https://t.co/VAFDH0qs8p"
+              }
+            ]
+          }
+        },
+        "id": "1740012227124744192",
+        "location": "Mars",
+        "name": "wetislandme",
+        "pinned_tweet_id": "1858054622427881818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046374978061561856/oSg1mvA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 74,
+          "like_count": 1277,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1274
+        },
+        "username": "dejvvinthenight",
+        "verified": false
+      }
+    ]
+  }
+}

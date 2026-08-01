@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2041960814727590281",
+    "created_at": "2026-04-11T17:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043011843678179599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857752227269718021",
+          "start": 0,
+          "username": "Altair_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043011843678179599",
+    "in_reply_to_user_id": "1857752227269718021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041960814727590281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Altair_2006 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2041960814727590281",
+        "created_at": "2026-04-11T17:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043011843678179599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857752227269718021",
+              "start": 0,
+              "username": "Altair_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043011843678179599",
+        "in_reply_to_user_id": "1857752227269718021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041960814727590281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Altair_2006 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857752227269718021",
+        "conversation_id": "2041960814727590281",
+        "created_at": "2026-04-08T19:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041960814727590281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "青年"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "青年音"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041960814727590281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我挺好奇你们对在主页发🐮的人，的看法是什么 #青年 #青年音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 13,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T11:47:12.000Z",
+        "description": "不知道，反正喜欢发推",
+        "id": "1857752227269718021",
+        "name": "凪風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041980155426697216/jws5jAPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "Altair_2006",
+        "verified": false
+      }
+    ]
+  }
+}

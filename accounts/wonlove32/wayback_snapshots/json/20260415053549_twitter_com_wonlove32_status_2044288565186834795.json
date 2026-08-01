@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2041920453569343781",
+    "created_at": "2026-04-15T05:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044288565186834795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1841948058252410880",
+          "start": 0,
+          "username": "se31298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044288565186834795",
+    "in_reply_to_user_id": "1841948058252410880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041920453569343781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@se31298 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2041920453569343781",
+        "created_at": "2026-04-15T05:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044288565186834795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1841948058252410880",
+              "start": 0,
+              "username": "se31298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044288565186834795",
+        "in_reply_to_user_id": "1841948058252410880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041920453569343781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@se31298 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841948058252410880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2041920453569343781",
+        "created_at": "2026-04-08T16:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041920453569343781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041920453569343781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子真的服了，你们这些sb黄推女用头像可不可以不要用我们家百合漫画的头像啊，老子看着你们不知道这个漫画，还顶着这个头像去买b看的老子一股无名火，不要再侮辱我们家百合了好吗？这么漫画老子看了一百多话没卖肉，你们卖上了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 39,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T21:07:00.000Z",
+        "description": "看我主页不如私信找我聊天",
+        "id": "1841948058252410880",
+        "location": "浙江台州",
+        "name": "乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042615042269708288/UIm0H1JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 23,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 286
+        },
+        "username": "se31298",
+        "verified": false
+      }
+    ]
+  }
+}

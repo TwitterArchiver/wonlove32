@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2051022500289769558",
+    "created_at": "2026-05-03T19:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051022808055209999"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051022808055209999",
+    "in_reply_to_user_id": "2041827098244046848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051022500289769558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前还是推特的时候根本没有那么多人机，真是闹麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051022488013066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHayFghbUAAnVLl.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051022488025628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHayFgkbAAA7ZNL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2051022500289769558",
+        "created_at": "2026-05-03T19:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051022808055209999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051022808055209999",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051022500289769558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前还是推特的时候根本没有那么多人机，真是闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051022488013066240",
+            "3_2051022488025628672"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051022500289769558",
+        "created_at": "2026-05-03T19:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051022500289769558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVpiRPigGt",
+              "end": 41,
+              "expanded_url": "https://x.com/wonlove32/status/2051022500289769558/photo/1",
+              "media_key": "3_2051022488013066240",
+              "start": 18,
+              "url": "https://t.co/DVpiRPigGt"
+            },
+            {
+              "display_url": "pic.x.com/DVpiRPigGt",
+              "end": 41,
+              "expanded_url": "https://x.com/wonlove32/status/2051022500289769558/photo/1",
+              "media_key": "3_2051022488025628672",
+              "start": 18,
+              "url": "https://t.co/DVpiRPigGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051022500289769558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天上线就顾着屏蔽这些东西 好累 https://t.co/DVpiRPigGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 58,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

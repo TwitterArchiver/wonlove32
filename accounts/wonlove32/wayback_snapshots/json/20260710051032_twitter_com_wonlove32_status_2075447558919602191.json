@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2075270647752605706",
+    "created_at": "2026-07-10T05:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075447558919602191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879184489940938752",
+          "start": 0,
+          "username": "wanyulliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075447558919602191",
+    "in_reply_to_user_id": "1879184489940938752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075437145364521027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanyulliu ꒦ິ^꒦ິ谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2075270647752605706",
+        "created_at": "2026-07-10T05:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075447558919602191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879184489940938752",
+              "start": 0,
+              "username": "wanyulliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075447558919602191",
+        "in_reply_to_user_id": "1879184489940938752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075437145364521027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanyulliu ꒦ິ^꒦ິ谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879184489940938752",
+        "conversation_id": "2075270647752605706",
+        "created_at": "2026-07-10T04:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075437145364521027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075437145364521027",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075270647752605706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 宝贝少割点呀 好好生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075251307234082816/HXgMIBFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 89,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T15:11:24.000Z",
+        "description": "燝\nOD｜餐券\n看到我了说明你看到了彭丽媛的现任妻子\n然后习近平被我在1989年6月4日在天安门广场操死后斩首\n这就是著名的8964天安门斩首屠杀独裁国贼习近平\n全网最爱彭丽媛小粉红习近平的爱国爱共产党主义账号\n🇨🇳🇨🇳🇨🇳",
+        "id": "1879184489940938752",
+        "location": "89.64km",
+        "name": "雪Yuki",
+        "pinned_tweet_id": "2044575374382952664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930503792291962880/OO5-6IXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 48,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "wanyulliu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054229707068198943",
+    "created_at": "2026-05-12T16:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054238338924826994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240205975790841864",
+          "start": 0,
+          "username": "Spike88290706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054238338924826994",
+    "in_reply_to_user_id": "1240205975790841864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054235312428306583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spike88290706 我不行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054229707068198943",
+        "created_at": "2026-05-12T16:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054238338924826994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240205975790841864",
+              "start": 0,
+              "username": "Spike88290706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054238338924826994",
+        "in_reply_to_user_id": "1240205975790841864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054235312428306583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spike88290706 我不行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240205975790841864",
+        "conversation_id": "2054229707068198943",
+        "created_at": "2026-05-12T16:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054235312428306583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054235312428306583",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054229707068198943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我将用最直白，最直接，最不绕弯子，最客观，最正确，最系统，最真实，最简略，最容易理解，最不卖关子的方式告诉你：向家里要点生活费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053888688522924032/m1pIoMd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 67,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:18:49.000Z",
+        "description": "",
+        "id": "1240205975790841864",
+        "name": "Hzcccccccc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328912272060649472/oZVAlK8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Spike88290706",
+        "verified": false
+      }
+    ]
+  }
+}

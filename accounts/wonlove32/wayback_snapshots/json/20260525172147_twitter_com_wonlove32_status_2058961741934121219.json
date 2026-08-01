@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058872780523962368"
+      ],
+      "media_source_tweet_id": [
+        "2058872790992945609"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2058961741934121219",
+    "created_at": "2026-05-25T17:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058961741934121219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903994645304283136",
+          "start": 3,
+          "username": "dandandanm12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJmeUquWjl",
+          "end": 85,
+          "expanded_url": "https://x.com/dandandanm12/status/2058872790992945609/photo/1",
+          "media_key": "3_2058872780523962368",
+          "start": 62,
+          "url": "https://t.co/uJmeUquWjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058961741934121219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872790992945609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dandandanm12: 我管你们什么粉籍什么立场拿女艺人小时候照片，用素媛案玩这种梗，你们全家族谱飞升畜生道了 https://t.co/uJmeUquWjl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2058872780523962368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKV4rDaAAACFCO.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058872780523962368"
+          ],
+          "media_source_tweet_id": [
+            "2058872790992945609"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2058961741934121219",
+        "created_at": "2026-05-25T17:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058961741934121219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903994645304283136",
+              "start": 3,
+              "username": "dandandanm12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJmeUquWjl",
+              "end": 85,
+              "expanded_url": "https://x.com/dandandanm12/status/2058872790992945609/photo/1",
+              "media_key": "3_2058872780523962368",
+              "start": 62,
+              "url": "https://t.co/uJmeUquWjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058961741934121219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872790992945609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dandandanm12: 我管你们什么粉籍什么立场拿女艺人小时候照片，用素媛案玩这种梗，你们全家族谱飞升畜生道了 https://t.co/uJmeUquWjl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058872780523962368"
+          ]
+        },
+        "author_id": "1903994645304283136",
+        "conversation_id": "2058872790992945609",
+        "created_at": "2026-05-25T11:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058872790992945609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJmeUquWjl",
+              "end": 67,
+              "expanded_url": "https://x.com/dandandanm12/status/2058872790992945609/photo/1",
+              "media_key": "3_2058872780523962368",
+              "start": 44,
+              "url": "https://t.co/uJmeUquWjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872790992945609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 62873,
+          "like_count": 1871,
+          "quote_count": 13,
+          "reply_count": 182,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我管你们什么粉籍什么立场拿女艺人小时候照片，用素媛案玩这种梗，你们全家族谱飞升畜生道了 https://t.co/uJmeUquWjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:18:02.000Z",
+        "description": "中文特供版希尔顿前拎包小妹 Kanye前妻 skims主理人 哈佛大学法学生 亿万富翁 小西北妈妈",
+        "id": "1903994645304283136",
+        "name": "小西北妈妈",
+        "pinned_tweet_id": "2030852243965333929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043307613493018625/2n1nwJDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 6,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 203
+        },
+        "username": "dandandanm12",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2060719374550679691",
+    "created_at": "2026-05-30T13:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060719374550679691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060719374550679691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天蛮糟糕的但是翻相册一看到朴元彬笑得像个小孩子我就想哭 什么都好了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2060719374550679691",
+        "created_at": "2026-05-30T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060719374550679691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060719374550679691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天蛮糟糕的但是翻相册一看到朴元彬笑得像个小孩子我就想哭 什么都好了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481643803189248/h9w2L8NY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 88,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1097
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2061049338760200651",
+    "created_at": "2026-05-31T20:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061190367110930544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906339730511560704",
+          "start": 0,
+          "username": "wuaichun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061190367110930544",
+    "in_reply_to_user_id": "1906339730511560704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061049338760200651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuaichun 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061049331231367168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpRcmSaIAAkNP5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2061049338760200651",
+        "created_at": "2026-05-31T20:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061190367110930544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906339730511560704",
+              "start": 0,
+              "username": "wuaichun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061190367110930544",
+        "in_reply_to_user_id": "1906339730511560704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061049338760200651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuaichun 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061049331231367168"
+          ]
+        },
+        "author_id": "1906339730511560704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061049338760200651",
+        "created_at": "2026-05-31T11:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061049338760200651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LqEyoGww1Y",
+              "end": 42,
+              "expanded_url": "https://x.com/wuaichun/status/2061049338760200651/photo/1",
+              "media_key": "3_2061049331231367168",
+              "start": 19,
+              "url": "https://t.co/LqEyoGww1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061049338760200651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12733,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我崩溃了，谁家鸡腿面里面是炸鸡腿啊… https://t.co/LqEyoGww1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061185631414583296/fEP4lp3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 87,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1105
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T13:36:34.000Z",
+        "description": "找个地方说话｜",
+        "id": "1906339730511560704",
+        "name": "大智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974162252283719680/hCgbgySF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 126,
+          "like_count": 4622,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1338
+        },
+        "username": "wuaichun",
+        "verified": false
+      }
+    ]
+  }
+}

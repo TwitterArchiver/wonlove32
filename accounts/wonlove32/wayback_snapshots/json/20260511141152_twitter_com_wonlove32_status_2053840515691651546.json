@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2053831308179390967",
+    "created_at": "2026-05-11T14:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053840515691651546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845194453818253312",
+          "start": 0,
+          "username": "misaki5193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053840515691651546",
+    "in_reply_to_user_id": "1845194453818253312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053831308179390967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaki5193 我对晚安有阴影，会癫痫 上次一个人洗完澡就抽搐到摔倒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2053831308179390967",
+        "created_at": "2026-05-11T14:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053840515691651546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845194453818253312",
+              "start": 0,
+              "username": "misaki5193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053840515691651546",
+        "in_reply_to_user_id": "1845194453818253312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053831308179390967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki5193 我对晚安有阴影，会癫痫 上次一个人洗完澡就抽搐到摔倒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845194453818253312",
+        "conversation_id": "2053831308179390967",
+        "created_at": "2026-05-11T13:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053831308179390967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053831308179390967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得晚安没有网上说那么差 6t真没啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053833656339402752/BVSoZDmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 64,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:07:04.000Z",
+        "description": "",
+        "id": "1845194453818253312",
+        "name": "罪",
+        "pinned_tweet_id": "2038665602328568152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043361454989209601/QffaspXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 22,
+          "like_count": 748,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 210
+        },
+        "username": "misaki5193",
+        "verified": false
+      }
+    ]
+  }
+}

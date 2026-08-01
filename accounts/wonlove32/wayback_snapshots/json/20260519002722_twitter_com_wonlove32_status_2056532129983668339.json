@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056404181062496256"
+      ],
+      "media_source_tweet_id": [
+        "2056404186305274299"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2056532129983668339",
+    "created_at": "2026-05-19T00:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056532129983668339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2952230804",
+          "start": 3,
+          "username": "ace_343"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/knAMiyJbxP",
+          "end": 40,
+          "expanded_url": "https://x.com/ace_343/status/2056404186305274299/photo/1",
+          "media_key": "3_2056404181062496256",
+          "start": 17,
+          "url": "https://t.co/knAMiyJbxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056532129983668339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056404186305274299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ace_343: ふーん https://t.co/knAMiyJbxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2056404181062496256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInQtRbbsAA-azp.jpg",
+        "width": 1577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056404181062496256"
+          ],
+          "media_source_tweet_id": [
+            "2056404186305274299"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2056532129983668339",
+        "created_at": "2026-05-19T00:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056532129983668339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2952230804",
+              "start": 3,
+              "username": "ace_343"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knAMiyJbxP",
+              "end": 40,
+              "expanded_url": "https://x.com/ace_343/status/2056404186305274299/photo/1",
+              "media_key": "3_2056404181062496256",
+              "start": 17,
+              "url": "https://t.co/knAMiyJbxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056532129983668339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056404186305274299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ace_343: ふーん https://t.co/knAMiyJbxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056404181062496256"
+          ]
+        },
+        "author_id": "2952230804",
+        "conversation_id": "2056404186305274299",
+        "created_at": "2026-05-18T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056404186305274299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knAMiyJbxP",
+              "end": 27,
+              "expanded_url": "https://x.com/ace_343/status/2056404186305274299/photo/1",
+              "media_key": "3_2056404181062496256",
+              "start": 4,
+              "url": "https://t.co/knAMiyJbxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056404186305274299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 804,
+          "impression_count": 57384,
+          "like_count": 9217,
+          "quote_count": 21,
+          "reply_count": 1,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "ふーん https://t.co/knAMiyJbxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056475724736032768/jBuO2tC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-30T15:05:45.000Z",
+        "description": "【右固定】ﾘﾊﾞ✖︎ ...ﾍﾞﾘ(GF)実(ｷﾒﾂ)直(呪)尾(ｺﾞ)ホ(MHA)保(怪8)ナグ(skdy)など⚠︎ No AI training & Repost is prohibited.ｱｲｺﾝへの使用はﾂｲｯﾀ-のみ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ace_343?utm_me…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ace_343?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/4qaqmR5wWm"
+              }
+            ]
+          }
+        },
+        "id": "2952230804",
+        "location": "通頒準備中…(目標:5月中にご案内)",
+        "name": "ゼータζ",
+        "pinned_tweet_id": "1878367529288048975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365727291750318082/pgHztH6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37090,
+          "following_count": 3,
+          "like_count": 198,
+          "listed_count": 157,
+          "media_count": 307,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/4qaqmR5wWm",
+        "username": "ace_343",
+        "verified": false
+      }
+    ]
+  }
+}

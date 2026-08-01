@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059750503941366187",
+    "created_at": "2026-05-27T21:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T22:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059750503941366187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059750503941366187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的发这是啥意思 为啥只有手冲录音发不出去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059750503941366187",
+        "created_at": "2026-05-27T21:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059750503941366187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059750503941366187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的发这是啥意思 为啥只有手冲录音发不出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1078
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

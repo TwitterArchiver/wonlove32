@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054845260388593665"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054845270433968527",
+    "created_at": "2026-05-14T08:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054845270433968527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3lOREMwox",
+          "end": 30,
+          "expanded_url": "https://x.com/wonlove32/status/2054845270433968527/photo/1",
+          "media_key": "3_2054845260388593665",
+          "start": 7,
+          "url": "https://t.co/D3lOREMwox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054845270433968527",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瞬间养胃了。 https://t.co/D3lOREMwox"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054845270433968527].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054845270433968527",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054845270433968527"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2054845260388593665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRG4JXbcAE6rKk.jpg",
+        "width": 532
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054806468935761920/HqwHCApT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 81,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

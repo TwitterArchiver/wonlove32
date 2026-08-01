@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2044544631862669814",
+    "created_at": "2026-04-15T22:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T23:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044544631862669814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2044247185911619701",
+          "start": 7,
+          "url": "https://t.co/5CjXUItMZn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044544631862669814",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044247185911619701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "167……! https://t.co/5CjXUItMZn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2044544631862669814",
+        "created_at": "2026-04-15T22:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044544631862669814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2044247185911619701",
+              "start": 7,
+              "url": "https://t.co/5CjXUItMZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044544631862669814",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044247185911619701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "167……! https://t.co/5CjXUItMZn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044247185911619701",
+        "created_at": "2026-04-15T02:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044247185911619701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044247185911619701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2269,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果要在这几个称呼里选你最喜欢的，你会选？\n1.宝宝 \n2.老婆\n3. 哈尼\n4.心肝宝贝甜蜜饯\n 5.女朋友\n 6.亲爱的 \n7.小狗 \n8.姐姐or妹妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 53,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5603,
+          "following_count": 58,
+          "like_count": 5832,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1438
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

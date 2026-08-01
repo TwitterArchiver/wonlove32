@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2070180778420613586",
+    "created_at": "2026-06-26T10:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070460957919486083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623338102004797440",
+          "start": 0,
+          "username": "rumuru2powod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070460957919486083",
+    "in_reply_to_user_id": "1623338102004797440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070435586729820596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rumuru2powod 耳机多贵啊，送键盘也不是不行 看她玩什么游戏，或者裙子和游戏周边呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2070180778420613586",
+        "created_at": "2026-06-26T10:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070460957919486083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623338102004797440",
+              "start": 0,
+              "username": "rumuru2powod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070460957919486083",
+        "in_reply_to_user_id": "1623338102004797440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070435586729820596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rumuru2powod 耳机多贵啊，送键盘也不是不行 看她玩什么游戏，或者裙子和游戏周边呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623338102004797440",
+        "conversation_id": "2070180778420613586",
+        "created_at": "2026-06-26T09:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070435586729820596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070435586729820596",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070409939387097171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我还没和她见过面，我们距离几千公里，而且她现在不在家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069608163096051712/a5z8ijI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 87,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T15:09:14.000Z",
+        "description": "会回关发风景照的、有活人感的\nLynske = Lyn17\nPixiv：https://t.co/6aLDbWmUHT\ndiscord：lynske299792458\nmygame：https://t.co/VM2cB7z4mI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/93007313",
+                "end": 59,
+                "expanded_url": "https://www.pixiv.net/users/93007313",
+                "start": 36,
+                "url": "https://t.co/6aLDbWmUHT"
+              },
+              {
+                "display_url": "lynske.itch.io/chasing-winter",
+                "end": 114,
+                "expanded_url": "https://lynske.itch.io/chasing-winter",
+                "start": 91,
+                "url": "https://t.co/VM2cB7z4mI"
+              }
+            ]
+          }
+        },
+        "id": "1623338102004797440",
+        "location": "日本",
+        "name": "Lynske",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020457173382488064/nUVOMqti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 557,
+          "like_count": 8907,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "rumuru2powod",
+        "verified": false
+      }
+    ]
+  }
+}

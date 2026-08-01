@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2068964038630162587",
+    "created_at": "2026-06-22T07:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068964038630162587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qv_nemu/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/qv_nemu/status/2068565947041079381",
+          "start": 3,
+          "url": "https://t.co/HsVQDgTrdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068964038630162587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068565947041079381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉。 https://t.co/HsVQDgTrdg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2068964038630162587",
+        "created_at": "2026-06-22T07:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068964038630162587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qv_nemu/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qv_nemu/status/2068565947041079381",
+              "start": 3,
+              "url": "https://t.co/HsVQDgTrdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964038630162587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068565947041079381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉。 https://t.co/HsVQDgTrdg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008946494007857155",
+        "conversation_id": "2068565947041079381",
+        "created_at": "2026-06-21T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068565947041079381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068565947041079381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3798,
+          "impression_count": 2841579,
+          "like_count": 40378,
+          "quote_count": 3475,
+          "reply_count": 121,
+          "retweet_count": 3456
+        },
+        "reply_settings": "everyone",
+        "text": "家庭環境悪い女は何も上手くいかないよ\n父親に愛されなかったら何も上手くいかない全部拗らせる\n家庭環境のせいにしてる私も他責思考しか出来ない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068962109271273472/LAIDVVKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 87,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:59:13.000Z",
+        "description": "学生",
+        "id": "2008946494007857155",
+        "name": "±",
+        "pinned_tweet_id": "2055767583878721924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009711052414758912/6Beq_Oac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 261,
+          "like_count": 6304,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 3397
+        },
+        "url": "",
+        "username": "qv_nemu",
+        "verified": false
+      }
+    ]
+  }
+}

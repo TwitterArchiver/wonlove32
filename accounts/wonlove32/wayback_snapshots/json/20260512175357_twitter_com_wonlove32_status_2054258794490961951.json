@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054257000931119524",
+    "created_at": "2026-05-12T17:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054258794490961951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240205975790841864",
+          "start": 0,
+          "username": "Spike88290706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054258794490961951",
+    "in_reply_to_user_id": "1240205975790841864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054258377359028481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spike88290706 好想rua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2054258365942112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIxGZLaoAAb2pb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054257000931119524",
+        "created_at": "2026-05-12T17:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054258794490961951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240205975790841864",
+              "start": 0,
+              "username": "Spike88290706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054258794490961951",
+        "in_reply_to_user_id": "1240205975790841864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054258377359028481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spike88290706 好想rua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054258365942112256"
+          ]
+        },
+        "author_id": "1240205975790841864",
+        "conversation_id": "2054257000931119524",
+        "created_at": "2026-05-12T17:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054258377359028481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7T2BbZ2pU6",
+              "end": 45,
+              "expanded_url": "https://x.com/Spike88290706/status/2054258377359028481/photo/1",
+              "media_key": "3_2054258365942112256",
+              "start": 22,
+              "url": "https://t.co/7T2BbZ2pU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054258377359028481",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054257000931119524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 这种大橘最好欺负了😁 https://t.co/7T2BbZ2pU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053888688522924032/m1pIoMd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 67,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:18:49.000Z",
+        "description": "",
+        "id": "1240205975790841864",
+        "name": "Hzcccccccc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328912272060649472/oZVAlK8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "Spike88290706",
+        "verified": false
+      }
+    ]
+  }
+}

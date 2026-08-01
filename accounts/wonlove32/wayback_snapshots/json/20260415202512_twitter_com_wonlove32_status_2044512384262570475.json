@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2042581073385918672",
+    "created_at": "2026-04-15T20:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044512384262570475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1850146224764243969",
+          "start": 0,
+          "username": "SzgGed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044512384262570475",
+    "in_reply_to_user_id": "1850146224764243969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044512068263723515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SzgGed 搞不懂为什么就这么想离开我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2042581073385918672",
+        "created_at": "2026-04-15T20:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044512384262570475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1850146224764243969",
+              "start": 0,
+              "username": "SzgGed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044512384262570475",
+        "in_reply_to_user_id": "1850146224764243969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044512068263723515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SzgGed 搞不懂为什么就这么想离开我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850146224764243969",
+        "conversation_id": "2042581073385918672",
+        "created_at": "2026-04-15T20:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044512068263723515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044512068263723515",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042581073385918672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 错的又并不是你  为什么要伤心呢 对于你来说是孽缘 对他们来说是正缘 错过你了就再也遇不到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 45,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T12:03:36.000Z",
+        "description": "",
+        "id": "1850146224764243969",
+        "name": "Zzzsssed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859670890256257024/3Fl_UhSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 222,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "SzgGed",
+        "verified": false
+      }
+    ]
+  }
+}

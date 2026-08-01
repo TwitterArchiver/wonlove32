@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047319851862200823",
+    "created_at": "2026-04-23T14:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047319851862200823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1853119011619487744",
+          "start": 3,
+          "username": "StarryLove_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047319851862200823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047006426246340862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarryLove_1005: 我是十足十的悲观主义者，脑海里一刻不停地预演着所有离别，总觉得和所有人的遇见都一定是bad ending。这种想法很没必要，但我没法向别人解释我无法控制。其实保护自己和他人最好的方式，是最开始就不要认识，对不起，哎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047319851862200823",
+        "created_at": "2026-04-23T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047319851862200823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1853119011619487744",
+              "start": 3,
+              "username": "StarryLove_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047319851862200823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047006426246340862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarryLove_1005: 我是十足十的悲观主义者，脑海里一刻不停地预演着所有离别，总觉得和所有人的遇见都一定是bad ending。这种想法很没必要，但我没法向别人解释我无法控制。其实保护自己和他人最好的方式，是最开始就不要认识，对不起，哎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853119011619487744",
+        "conversation_id": "2047006426246340862",
+        "created_at": "2026-04-22T17:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047006426246340862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047006426246340862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5621,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我是十足十的悲观主义者，脑海里一刻不停地预演着所有离别，总觉得和所有人的遇见都一定是bad ending。这种想法很没必要，但我没法向别人解释我无法控制。其实保护自己和他人最好的方式，是最开始就不要认识，对不起，哎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 62,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T16:56:31.000Z",
+        "description": "謝謝你成為了我的幾分之幾@imsry4what //一只千纸鹤 落在我的肩膀上@chessiaya1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "imsry4what"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "chessiaya1"
+              }
+            ]
+          }
+        },
+        "id": "1853119011619487744",
+        "location": "不聊天不线下不接定制不接广没有🚪",
+        "name": "420",
+        "pinned_tweet_id": "1990614538270695887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043860260629426177/_nTVWFaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5424,
+          "following_count": 70,
+          "like_count": 6497,
+          "listed_count": 10,
+          "media_count": 88,
+          "tweet_count": 2158
+        },
+        "username": "StarryLove_1005",
+        "verified": false
+      }
+    ]
+  }
+}

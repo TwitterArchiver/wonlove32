@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2068718330970882236",
+    "created_at": "2026-06-21T15:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068718330970882236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068718330970882236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068628235991322772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 严禁任何人碰苯二氮卓类药物！\n\n阿普唑仑、劳拉西泮、氯硝西泮等，一律禁碰！苯二氮卓类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为苯二氮卓而活的“苯二鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2068718330970882236",
+        "created_at": "2026-06-21T15:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068718330970882236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068718330970882236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068628235991322772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 严禁任何人碰苯二氮卓类药物！\n\n阿普唑仑、劳拉西泮、氯硝西泮等，一律禁碰！苯二氮卓类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为苯二氮卓而活的“苯二鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2068628235991322772",
+        "created_at": "2026-06-21T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068628235991322772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcoreWTF/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/breakcoreWTF/status/2068498998105985298",
+              "start": 142,
+              "url": "https://t.co/WurfuKf0kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068628235991322772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3175,
+          "like_count": 24,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068498998105985298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰苯二氮卓类药物！\n\n阿普唑仑、劳拉西泮、氯硝西泮等，一律禁碰！苯二氮卓类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为苯二氮卓而活的“苯二鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾苯二氮卓类！ https://t.co/WurfuKf0kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068620849381261313/Y0VIiguV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 87,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 官号 @Psycho_Wiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Psycho_Wiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "2068189223023477117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 107,
+          "like_count": 11622,
+          "listed_count": 8,
+          "media_count": 721,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

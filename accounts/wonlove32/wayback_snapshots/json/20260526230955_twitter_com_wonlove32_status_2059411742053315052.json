@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059411742053315052",
+    "created_at": "2026-05-26T23:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059411742053315052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1800768760040841216",
+          "start": 3,
+          "username": "MrsNeverForget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059411742053315052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058942548396380407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrsNeverForget: 你们不管异性恋同性恋，做爱约炮约调的时候让对方带个劫匪同款头套真的不想笑吗。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059411742053315052",
+        "created_at": "2026-05-26T23:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059411742053315052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1800768760040841216",
+              "start": 3,
+              "username": "MrsNeverForget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059411742053315052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058942548396380407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrsNeverForget: 你们不管异性恋同性恋，做爱约炮约调的时候让对方带个劫匪同款头套真的不想笑吗。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800768760040841216",
+        "conversation_id": "2058942548396380407",
+        "created_at": "2026-05-25T16:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058942548396380407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058942548396380407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 132856,
+          "like_count": 2136,
+          "quote_count": 19,
+          "reply_count": 101,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "你们不管异性恋同性恋，做爱约炮约调的时候让对方带个劫匪同款头套真的不想笑吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1024
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T05:55:13.000Z",
+        "description": "06 Le/4i 什么都发 | 心理年龄达到了惊人的14岁，你就让让我吧。 | 不要叫我姐姐，不约不线下不交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=QyIukyoq",
+                "start": 0,
+                "url": "https://t.co/uohLGA8B4v"
+              }
+            ]
+          }
+        },
+        "id": "1800768760040841216",
+        "location": "29元包年千G流量VPN",
+        "name": "细雪",
+        "pinned_tweet_id": "2049467285480608126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003306096199630850/CQiVgVIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 69,
+          "like_count": 1465,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/uohLGA8B4v",
+        "username": "MrsNeverForget",
+        "verified": false
+      }
+    ]
+  }
+}

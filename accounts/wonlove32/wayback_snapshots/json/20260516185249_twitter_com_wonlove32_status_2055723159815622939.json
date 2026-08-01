@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055723149074018304"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2055723159815622939",
+    "created_at": "2026-05-16T18:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055723159815622939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUbKy7g4Rx",
+          "end": 93,
+          "expanded_url": "https://x.com/wonlove32/status/2055723159815622939/photo/1",
+          "media_key": "3_2055723149074018304",
+          "start": 70,
+          "url": "https://t.co/kUbKy7g4Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055723159815622939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前追星认识的亲友。还记得我焦虑的时候她会在上课的时候折纸猫猫逗我开心，本来约好了要一起去追线下，但后来我变成毒唯就开始冷暴力然后单删…。 https://t.co/kUbKy7g4Rx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055723159815622939].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055723159815622939",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055723159815622939"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 306,
+        "media_key": "3_2055723149074018304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdlT_kasAAXFbk.jpg",
+        "width": 838
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055257802726338560/6TISjt39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 83,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

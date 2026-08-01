@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2062085351615991978",
+    "created_at": "2026-06-03T09:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062104070123651347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964686739282526208",
+          "start": 0,
+          "username": "NewNewHowYoung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062104070123651347",
+    "in_reply_to_user_id": "1964686739282526208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062085351615991978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewNewHowYoung 我恨有钱入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2062085351615991978",
+        "created_at": "2026-06-03T09:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062104070123651347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964686739282526208",
+              "start": 0,
+              "username": "NewNewHowYoung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062104070123651347",
+        "in_reply_to_user_id": "1964686739282526208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062085351615991978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewNewHowYoung 我恨有钱入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964686739282526208",
+        "conversation_id": "2062085351615991978",
+        "created_at": "2026-06-03T08:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062085351615991978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062085351615991978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再上两年学又要多花十几万，有点不想上了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1163
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:46:53.000Z",
+        "description": "",
+        "id": "1964686739282526208",
+        "location": "距离你21km",
+        "name": "宇宙无敌大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968123970730987522/JBqM22MT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 616,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 899
+        },
+        "username": "NewNewHowYoung",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043809010563068259",
+    "created_at": "2026-04-13T21:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043809010563068259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969689682222170112",
+          "start": 3,
+          "username": "justakittyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043809010563068259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043671777193410680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @justakittyc: 只有被口完还和女生亲嘴的男的才有资格被口知道吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043809010563068259",
+        "created_at": "2026-04-13T21:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043809010563068259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969689682222170112",
+              "start": 3,
+              "username": "justakittyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043809010563068259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043671777193410680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @justakittyc: 只有被口完还和女生亲嘴的男的才有资格被口知道吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969689682222170112",
+        "conversation_id": "2043671777193410680",
+        "created_at": "2026-04-13T12:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043671777193410680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043671777193410680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 89520,
+          "like_count": 849,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "只有被口完还和女生亲嘴的男的才有资格被口知道吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 18,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:06:39.000Z",
+        "description": "可以叫我咪咪/碎碎念狂魔-最近变身大力小厨娘一枚💪🏻/只和感兴趣的人交友/@mmsyzwdkadxmdx悄悄话存储地^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "mmsyzwdkadxmdx"
+              }
+            ]
+          }
+        },
+        "id": "1969689682222170112",
+        "location": "谢谢你喜欢我^ ^",
+        "name": "🐱",
+        "pinned_tweet_id": "2026505152983871997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969690815841931264/RPPMz8GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4404,
+          "following_count": 62,
+          "like_count": 4223,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2085
+        },
+        "username": "justakittyc",
+        "verified": false
+      }
+    ]
+  }
+}

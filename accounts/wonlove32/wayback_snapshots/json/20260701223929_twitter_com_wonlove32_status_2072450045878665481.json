@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2072450045878665481",
+    "created_at": "2026-07-01T22:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072450045878665481"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072450045878665481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我到底是怎么了  昨天特别平淡所以我唯一期待的只有od，磕了之后特别难受因为我发现情绪稳定到刷特别好笑的视频也笑不出来，流眼泪后好多了虽然又开始想吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2072450045878665481",
+        "created_at": "2026-07-01T22:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072450045878665481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072450045878665481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底是怎么了  昨天特别平淡所以我唯一期待的只有od，磕了之后特别难受因为我发现情绪稳定到刷特别好笑的视频也笑不出来，流眼泪后好多了虽然又开始想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071715749941698560/1df8dxOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 87,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2068754208204227059",
+    "created_at": "2026-06-21T18:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068770776132772143"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068770776132772143",
+    "in_reply_to_user_id": "2041827098244046848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068754208204227059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁被吞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2068754196665638912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWw-yvaoAA9VE7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2068754196690874368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWw-y1bsAAnStl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2068754208204227059",
+        "created_at": "2026-06-21T18:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068770776132772143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068770776132772143",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068754208204227059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁被吞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068754196665638912",
+            "3_2068754196690874368"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068754208204227059",
+        "created_at": "2026-06-21T17:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068754208204227059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vuUA2jEar",
+              "end": 28,
+              "expanded_url": "https://x.com/wonlove32/status/2068754208204227059/photo/1",
+              "media_key": "3_2068754196665638912",
+              "start": 5,
+              "url": "https://t.co/6vuUA2jEar"
+            },
+            {
+              "display_url": "pic.x.com/6vuUA2jEar",
+              "end": 28,
+              "expanded_url": "https://x.com/wonlove32/status/2068754208204227059/photo/1",
+              "media_key": "3_2068754196690874368",
+              "start": 5,
+              "url": "https://t.co/6vuUA2jEar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068754208204227059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厉害不! https://t.co/6vuUA2jEar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068620849381261313/Y0VIiguV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 87,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

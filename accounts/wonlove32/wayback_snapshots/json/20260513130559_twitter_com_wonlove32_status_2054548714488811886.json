@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054219135941558272"
+      ],
+      "media_source_tweet_id": [
+        "2054219198197555571"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054548714488811886",
+    "created_at": "2026-05-13T13:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054548714488811886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "3D"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "119773120",
+          "start": 3,
+          "username": "ayunoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8HAttwlxs",
+          "end": 52,
+          "expanded_url": "https://x.com/ayunoko/status/2054219198197555571/video/1",
+          "media_key": "13_2054219135941558272",
+          "start": 29,
+          "url": "https://t.co/z8HAttwlxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054548714488811886",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 805
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054219198197555571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayunoko: ₍⸍⸌̣ʷ̣̫⸍̣⸌₎ #3D https://t.co/z8HAttwlxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8738,
+        "height": 1490,
+        "media_key": "13_2054219135941558272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054219135941558272/img/sT-eG3SiaavliZgp.jpg",
+        "public_metrics": {
+          "view_count": 15947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054219135941558272/vid/avc1/1948x1490/VgWjrmhKFnZbP9nC.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054219135941558272/vid/avc1/352x270/WbAt1NUSxgWeoOyZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054219135941558272/vid/avc1/940x720/1lo-7OYl9xpMEZHB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054219135941558272/pl/MEBhKYQKGg6xdcq_.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054219135941558272/vid/avc1/470x360/WtqwSI8rj7zgaTnS.mp4"
+          }
+        ],
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054219135941558272"
+          ],
+          "media_source_tweet_id": [
+            "2054219198197555571"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054548714488811886",
+        "created_at": "2026-05-13T13:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054548714488811886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "3D"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "119773120",
+              "start": 3,
+              "username": "ayunoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8HAttwlxs",
+              "end": 52,
+              "expanded_url": "https://x.com/ayunoko/status/2054219198197555571/video/1",
+              "media_key": "13_2054219135941558272",
+              "start": 29,
+              "url": "https://t.co/z8HAttwlxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054548714488811886",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 805
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054219198197555571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayunoko: ₍⸍⸌̣ʷ̣̫⸍̣⸌₎ #3D https://t.co/z8HAttwlxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054219135941558272"
+          ]
+        },
+        "author_id": "119773120",
+        "conversation_id": "2054219198197555571",
+        "created_at": "2026-05-12T15:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054219198197555571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "3D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8HAttwlxs",
+              "end": 39,
+              "expanded_url": "https://x.com/ayunoko/status/2054219198197555571/video/1",
+              "media_key": "13_2054219135941558272",
+              "start": 16,
+              "url": "https://t.co/z8HAttwlxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054219198197555571",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 90698,
+          "like_count": 4873,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 805
+        },
+        "reply_settings": "everyone",
+        "text": "₍⸍⸌̣ʷ̣̫⸍̣⸌₎ #3D https://t.co/z8HAttwlxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 80,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-04T16:12:40.000Z",
+        "description": "(鮎/ayu)イラストレーター Thank you for always https://t.co/L9Q8vHklUN(版権不可)ホラーゲームが好き🐰🦊🐺🐸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ayunoko",
+                "end": 60,
+                "expanded_url": "http://skeb.jp/@ayunoko",
+                "start": 37,
+                "url": "https://t.co/L9Q8vHklUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/ayunoko",
+                "end": 23,
+                "expanded_url": "https://potofu.me/ayunoko",
+                "start": 0,
+                "url": "https://t.co/x45lXCHREJ"
+              }
+            ]
+          }
+        },
+        "id": "119773120",
+        "location": "Gifu",
+        "name": "ayu",
+        "pinned_tweet_id": "1591676042477207552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689287077169401856/bLjp004g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160184,
+          "following_count": 478,
+          "like_count": 5716,
+          "listed_count": 1406,
+          "media_count": 3726,
+          "tweet_count": 22202
+        },
+        "url": "https://t.co/x45lXCHREJ",
+        "username": "ayunoko",
+        "verified": false
+      }
+    ]
+  }
+}

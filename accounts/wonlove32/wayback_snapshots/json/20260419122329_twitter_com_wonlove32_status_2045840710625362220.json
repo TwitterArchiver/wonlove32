@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042090477328216064"
+      ],
+      "media_source_tweet_id": [
+        "2042091154272088570"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045840710625362220",
+    "created_at": "2026-04-19T12:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045840710625362220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YEuXse9nxM",
+          "end": 33,
+          "expanded_url": "https://x.com/yihuaaart/status/2042091154272088570/video/1",
+          "media_key": "13_2042090477328216064",
+          "start": 10,
+          "url": "https://t.co/YEuXse9nxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045840710625362220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我好好开车啊喂。 https://t.co/YEuXse9nxM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045840710625362220].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045840710625362220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045840710625362220"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66033,
+        "height": 1280,
+        "media_key": "13_2042090477328216064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042090477328216064/img/3hPVa-ECNjghB8qj.jpg",
+        "public_metrics": {
+          "view_count": 202907
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042090477328216064/vid/avc1/320x568/hAXLmU4kfoxfZ8-i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042090477328216064/vid/avc1/480x852/etrbEIkMeMKf_1r9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042090477328216064/vid/avc1/720x1280/XZypSkpMeo4wqium.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042090477328216064/pl/wbaIGVk2wOXNRHlG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 57,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

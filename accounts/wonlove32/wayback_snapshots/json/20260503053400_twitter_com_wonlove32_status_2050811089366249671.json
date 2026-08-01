@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "1850462838386819311",
+    "created_at": "2026-05-03T05:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050811089366249671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824731467815010305",
+          "start": 0,
+          "username": "ChunQingXiaoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050811089366249671",
+    "in_reply_to_user_id": "1824731467815010305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850462838386819311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunQingXiaoQ 喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136633,
+        "height": 1280,
+        "media_key": "7_1850461273542340608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1850461273542340608/pu/img/tpolxLej56EO32hF.jpg",
+        "public_metrics": {
+          "view_count": 665105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850461273542340608/pu/vid/avc1/320x568/MlTkc3a_7gdOWe82.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850461273542340608/pu/vid/avc1/480x852/OchN11XvKISQBGer.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850461273542340608/pu/vid/avc1/720x1280/w_C4z6RUelQwt5pR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1850461273542340608/pu/pl/ECpT-HxPcqoQul1n.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "1850462838386819311",
+        "created_at": "2026-05-03T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050811089366249671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824731467815010305",
+              "start": 0,
+              "username": "ChunQingXiaoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050811089366249671",
+        "in_reply_to_user_id": "1824731467815010305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850462838386819311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunQingXiaoQ 喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1850461273542340608"
+          ]
+        },
+        "author_id": "1824731467815010305",
+        "conversation_id": "1850462838386819311",
+        "created_at": "2024-10-27T09:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T10:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850462838386819311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "指奸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir0YKFgCJC",
+              "end": 167,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1850462838386819311/video/1",
+              "media_key": "7_1850461273542340608",
+              "start": 144,
+              "url": "https://t.co/Ir0YKFgCJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850462838386819311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1906,
+          "impression_count": 1350344,
+          "like_count": 6915,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "指奸纯享版\n佩服手能动这么久不酸，能一直扣十几分钟🙏🏻\n他一直在刺激我体内的各种敏感点，手指非常灵活…\n我目前被开发的是四个，（从入口到宫颈口）最爽的不是g点，而是靠近宫颈附近的一个点，只要一碰到就会浑身发软爽翻天。再同时舔阴蒂的话不出一分钟就会喷水求饶，有点类似男生的龟头责？\n#指奸 https://t.co/Ir0YKFgCJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 56,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨视频内同款玩具在🍑：小泉的玩具店 https://t.co/kQEkDHWuoN丨玩具抽奖微博：https://t.co/GYuWjm1s1N丨欢迎来社群讨论交流",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop174469421.taobao.com/?spm=a21n57.sh…",
+                "end": 57,
+                "expanded_url": "https://shop174469421.taobao.com/?spm=a21n57.shop_search.0.0.6946523cILYqmG",
+                "start": 34,
+                "url": "https://t.co/kQEkDHWuoN"
+              },
+              {
+                "display_url": "weibo.com/u/9030909197",
+                "end": 88,
+                "expanded_url": "https://weibo.com/u/9030909197",
+                "start": 65,
+                "url": "https://t.co/GYuWjm1s1N"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "只此一个号无完整版",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766188,
+          "following_count": 29,
+          "like_count": 4012,
+          "listed_count": 1172,
+          "media_count": 169,
+          "tweet_count": 3478
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

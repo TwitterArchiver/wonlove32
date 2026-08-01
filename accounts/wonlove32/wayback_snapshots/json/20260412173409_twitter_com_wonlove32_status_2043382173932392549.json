@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043382173932392549",
+    "created_at": "2026-04-12T17:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043382173932392549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036654418221993984",
+          "start": 3,
+          "username": "uu_tree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043382173932392549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043228354950865052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_tree: 小心翼翼地搞砸了很多关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043382173932392549",
+        "created_at": "2026-04-12T17:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043382173932392549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036654418221993984",
+              "start": 3,
+              "username": "uu_tree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043382173932392549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043228354950865052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uu_tree: 小心翼翼地搞砸了很多关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036654418221993984",
+        "conversation_id": "2043228354950865052",
+        "created_at": "2026-04-12T07:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043228354950865052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043228354950865052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10206,
+          "like_count": 230,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "小心翼翼地搞砸了很多关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 19,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T04:01:26.000Z",
+        "description": "爱哭的小女孩 /白羊座/私信只回口令",
+        "id": "2036654418221993984",
+        "location": "🚪88/188",
+        "name": "uu",
+        "pinned_tweet_id": "2042951374984613901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039341352232845312/qT1nNXeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 51,
+          "like_count": 236,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 214
+        },
+        "username": "uu_tree",
+        "verified": false
+      }
+    ]
+  }
+}

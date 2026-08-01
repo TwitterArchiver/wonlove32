@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045850079316291941",
+    "created_at": "2026-04-19T13:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045850079316291941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rrrrrr126168/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rrrrrr126168/status/1958207992933065038",
+          "start": 11,
+          "url": "https://t.co/jQUAxsp3tI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045850079316291941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958207992933065038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢。我也想被这样。 https://t.co/jQUAxsp3tI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 292656,
+        "height": 720,
+        "media_key": "13_1958205157512196096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958205157512196096/img/fBAn3bqVn10L8fA7.jpg",
+        "public_metrics": {
+          "view_count": 150012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157512196096/vid/avc1/480x270/jtzZAhMjDVyvpuOx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157512196096/vid/avc1/640x360/jgMUvbEdebmI5gVb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157512196096/vid/avc1/1280x720/Z3GNa_yeHKeZtD-N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958205157512196096/pl/a28eGe28RG-svNY2.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 360113,
+        "height": 720,
+        "media_key": "13_1958205157566717952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958205157566717952/img/1mDhxJBHyD9wxRv_.jpg",
+        "public_metrics": {
+          "view_count": 37416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157566717952/vid/avc1/480x270/vubOWpbQk3_cN1MF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157566717952/vid/avc1/640x360/dyIqyg9Zk-1QgzOj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157566717952/vid/avc1/1280x720/rOpcOa04OrqHiUub.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958205157566717952/pl/wL2Og830f_x4niwm.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 262241,
+        "height": 720,
+        "media_key": "13_1958205157524824064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958205157524824064/img/4KH2zvamrcNyjjss.jpg",
+        "public_metrics": {
+          "view_count": 43166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157524824064/vid/avc1/480x270/rWHrtg8aOs8a8R9w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157524824064/vid/avc1/640x360/L6O5nCLDukEsRw_j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157524824064/vid/avc1/1280x720/UFRaksdPDg-c1-vE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958205157524824064/pl/d94nRgrkpvXDmlc4.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 383313,
+        "height": 720,
+        "media_key": "13_1958205157570904065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958205157570904065/img/Nk_MIiLhVdXltSFH.jpg",
+        "public_metrics": {
+          "view_count": 48519
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157570904065/vid/avc1/480x270/59vSJCqWkLxwIVdW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157570904065/vid/avc1/640x360/H8iY8QKIwU6OwJYy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958205157570904065/vid/avc1/1280x720/BSzGADRSKCz-J1xr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958205157570904065/pl/mCZb40pPECWLBgq6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045850079316291941",
+        "created_at": "2026-04-19T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045850079316291941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rrrrrr126168/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rrrrrr126168/status/1958207992933065038",
+              "start": 11,
+              "url": "https://t.co/jQUAxsp3tI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045850079316291941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958207992933065038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢。我也想被这样。 https://t.co/jQUAxsp3tI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958205157512196096",
+            "13_1958205157566717952",
+            "13_1958205157524824064",
+            "13_1958205157570904065"
+          ]
+        },
+        "author_id": "1795566397143347200",
+        "conversation_id": "1958207992933065038",
+        "created_at": "2025-08-20T16:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T17:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958207992933065038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9Y3rUiTne",
+              "end": 169,
+              "expanded_url": "https://x.com/rrrrrr126168/status/1958207992933065038/video/1",
+              "media_key": "13_1958205157512196096",
+              "start": 146,
+              "url": "https://t.co/l9Y3rUiTne"
+            },
+            {
+              "display_url": "pic.x.com/l9Y3rUiTne",
+              "end": 169,
+              "expanded_url": "https://x.com/rrrrrr126168/status/1958207992933065038/video/1",
+              "media_key": "13_1958205157566717952",
+              "start": 146,
+              "url": "https://t.co/l9Y3rUiTne"
+            },
+            {
+              "display_url": "pic.x.com/l9Y3rUiTne",
+              "end": 169,
+              "expanded_url": "https://x.com/rrrrrr126168/status/1958207992933065038/video/1",
+              "media_key": "13_1958205157524824064",
+              "start": 146,
+              "url": "https://t.co/l9Y3rUiTne"
+            },
+            {
+              "display_url": "pic.x.com/l9Y3rUiTne",
+              "end": 169,
+              "expanded_url": "https://x.com/rrrrrr126168/status/1958207992933065038/video/1",
+              "media_key": "13_1958205157570904065",
+              "start": 146,
+              "url": "https://t.co/l9Y3rUiTne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958207992933065038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1706,
+          "impression_count": 438844,
+          "like_count": 3036,
+          "quote_count": 15,
+          "reply_count": 30,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "深夜骨科/睡奸💤 一些隐忍克制又刺激的🍚\n\n妹妹来到住在东京的哥哥家，晚上一起房间睡时一直诱惑哥哥，妹妹每天都装睡中间经历好多天拉扯期，最后还是忍不住do了。直接去看原片吧cut的时候忍不住倍速，大槻响和一彻也是老搭档了，蛮经典的。最后很多内心独白戏终于哥哥有一天上钩了（一些骨科po文情节 https://t.co/l9Y3rUiTne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 57,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T21:23:00.000Z",
+        "description": "用来纪录一些以前的观影repo📝｜ 非礼勿视 welcome友好女宝交流🥰 ｜看心情  好的一般的坏的 當豆瓣記錄🎯",
+        "id": "1795566397143347200",
+        "name": "荔枝奶fufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930632127995121664/2JLKNj6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14905,
+          "following_count": 43,
+          "like_count": 134,
+          "listed_count": 15,
+          "media_count": 27,
+          "tweet_count": 73
+        },
+        "username": "rrrrrr126168",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047513249646833664"
+      ],
+      "media_source_tweet_id": [
+        "2047513605730681194"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2048159490747588775",
+    "created_at": "2026-04-25T21:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048159490747588775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1244063120915660800",
+          "start": 3,
+          "username": "Eurasian1qqer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXhBB2YSwC",
+          "end": 87,
+          "expanded_url": "https://x.com/Eurasian1qqer/status/2047513605730681194/photo/1",
+          "media_key": "3_2047513249646833664",
+          "start": 64,
+          "url": "https://t.co/oXhBB2YSwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048159490747588775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047513605730681194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eurasian1qqer: 调查了一下这个γ-羟基丁酸，这东西就是大名鼎鼎的神仙水。还妇女报呢，把强奸意图直接抹除了 https://t.co/oXhBB2YSwC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2047513249646833664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo6c84a8AA2b-e.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047513249646833664"
+          ],
+          "media_source_tweet_id": [
+            "2047513605730681194"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2048159490747588775",
+        "created_at": "2026-04-25T21:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048159490747588775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1244063120915660800",
+              "start": 3,
+              "username": "Eurasian1qqer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXhBB2YSwC",
+              "end": 87,
+              "expanded_url": "https://x.com/Eurasian1qqer/status/2047513605730681194/photo/1",
+              "media_key": "3_2047513249646833664",
+              "start": 64,
+              "url": "https://t.co/oXhBB2YSwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048159490747588775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047513605730681194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eurasian1qqer: 调查了一下这个γ-羟基丁酸，这东西就是大名鼎鼎的神仙水。还妇女报呢，把强奸意图直接抹除了 https://t.co/oXhBB2YSwC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047513249646833664"
+          ]
+        },
+        "author_id": "1244063120915660800",
+        "conversation_id": "2047513605730681194",
+        "created_at": "2026-04-24T03:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047513605730681194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXhBB2YSwC",
+              "end": 68,
+              "expanded_url": "https://x.com/Eurasian1qqer/status/2047513605730681194/photo/1",
+              "media_key": "3_2047513249646833664",
+              "start": 45,
+              "url": "https://t.co/oXhBB2YSwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047513605730681194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 59982,
+          "like_count": 1593,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "调查了一下这个γ-羟基丁酸，这东西就是大名鼎鼎的神仙水。还妇女报呢，把强奸意图直接抹除了 https://t.co/oXhBB2YSwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047898156487331840/glzC3kNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T00:45:53.000Z",
+        "description": "2024年11月30日之前信息非本人所发/爆裂大乌魂，即乌克雅利安人/你不喜欢的样子我都有/闭关锁国中/你解释得清你骂的支那是什么东西吗？/被我拉黑＝你妈暴毙认证/混外推/你一开源，我就学习",
+        "id": "1244063120915660800",
+        "name": "/uhg/及/k/联合王国🇺🇦-UkrAryan🐍🟥⬛️",
+        "pinned_tweet_id": "2044686469772738690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023575427961262080/OYNfMMBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 303,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 518
+        },
+        "username": "Eurasian1qqer",
+        "verified": false
+      }
+    ]
+  }
+}

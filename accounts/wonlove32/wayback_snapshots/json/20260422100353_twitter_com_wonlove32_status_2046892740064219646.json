@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2046883730917404990",
+    "created_at": "2026-04-22T10:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046892740064219646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783461199348396032",
+          "start": 0,
+          "username": "watever177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046892740064219646",
+    "in_reply_to_user_id": "1783461199348396032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046883730917404990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watever177 太可爱了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2046883730917404990",
+        "created_at": "2026-04-22T10:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046892740064219646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783461199348396032",
+              "start": 0,
+              "username": "watever177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046892740064219646",
+        "in_reply_to_user_id": "1783461199348396032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046883730917404990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watever177 太可爱了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783461199348396032",
+        "conversation_id": "2046883730917404990",
+        "created_at": "2026-04-22T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046883730917404990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046883730917404990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8390,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开了张卡给麦麦刷 一个多月了 \n看了一下消费记录 全是麦当劳🤨真M来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045943444334669825/b4LJ2sAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 62,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T11:41:06.000Z",
+        "description": "ℕ𝕊𝔽𝕎 🔞｜真实原创博主｜仅有此号及日常号@177watever 其他皆假⚠️｜唯二入门渠道 https://t.co/ARgspG4ZLR ｜https://t.co/u0DZJiHMHj | 预览群 https://t.co/U2wdDw3FPB｜合作请带照自介｜𝒮𝓊𝒾𝓋ℯ𝓏 𝓋ℴ𝓉𝓇ℯ 𝒸œ𝓊𝓇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "177watever"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansone.co/watever177",
+                "end": 71,
+                "expanded_url": "http://fansone.co/watever177",
+                "start": 48,
+                "url": "https://t.co/ARgspG4ZLR"
+              },
+              {
+                "display_url": "t.me/watever17du_bot",
+                "end": 96,
+                "expanded_url": "http://t.me/watever17du_bot",
+                "start": 73,
+                "url": "https://t.co/u0DZJiHMHj"
+              },
+              {
+                "display_url": "t.me/preview17place",
+                "end": 126,
+                "expanded_url": "http://t.me/preview17place",
+                "start": 103,
+                "url": "https://t.co/U2wdDw3FPB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/watever177",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/watever177",
+                "start": 0,
+                "url": "https://t.co/UCPKyfQkSm"
+              }
+            ]
+          }
+        },
+        "id": "1783461199348396032",
+        "location": "唯一入🚪请认准！错任何一个字母都是搬运",
+        "name": "17°",
+        "pinned_tweet_id": "2034616200899236090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910900645151809537/7nEFo3dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642965,
+          "following_count": 118,
+          "like_count": 3440,
+          "listed_count": 973,
+          "media_count": 187,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/UCPKyfQkSm",
+        "username": "watever177",
+        "verified": true
+      }
+    ]
+  }
+}

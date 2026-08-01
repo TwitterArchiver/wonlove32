@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057441193282482606",
+    "created_at": "2026-05-21T15:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057485172107526287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957003297761656832",
+          "start": 0,
+          "username": "Naga1kite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057485172107526287",
+    "in_reply_to_user_id": "1957003297761656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057468825935958312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naga1kite 低的话可以打娱乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057441193282482606",
+        "created_at": "2026-05-21T15:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057485172107526287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957003297761656832",
+              "start": 0,
+              "username": "Naga1kite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057485172107526287",
+        "in_reply_to_user_id": "1957003297761656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057468825935958312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naga1kite 低的话可以打娱乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957003297761656832",
+        "conversation_id": "2057441193282482606",
+        "created_at": "2026-05-21T14:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057468825935958312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468825935958312",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057441193282482606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我也想玩，不卡段位吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405380494585856/BYiJ7HB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 87,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T08:55:45.000Z",
+        "description": "かねほし  依存症  自発苦手 社交苦手",
+        "id": "1957003297761656832",
+        "location": "日本",
+        "name": "蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054092707522564096/YOqv-3P7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 79
+        },
+        "username": "Naga1kite",
+        "verified": false
+      }
+    ]
+  }
+}

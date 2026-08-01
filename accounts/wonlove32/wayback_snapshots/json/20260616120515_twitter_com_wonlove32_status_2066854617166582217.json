@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2066851837601534117",
+    "created_at": "2026-06-16T12:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066854617166582217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421766018897125378",
+          "start": 0,
+          "username": "nakunatoidda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066854617166582217",
+    "in_reply_to_user_id": "1421766018897125378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066851837601534117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakunatoidda 没有看法啊啊，但是我建议物理脱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2066851837601534117",
+        "created_at": "2026-06-16T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066854617166582217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421766018897125378",
+              "start": 0,
+              "username": "nakunatoidda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066854617166582217",
+        "in_reply_to_user_id": "1421766018897125378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066851837601534117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakunatoidda 没有看法啊啊，但是我建议物理脱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421766018897125378",
+        "conversation_id": "2066851837601534117",
+        "created_at": "2026-06-16T11:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066851837601534117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066851837601534117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家对没脱毛是什么看法...。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066262494210064384/4ft-pEHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 87,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1240
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T09:33:37.000Z",
+        "description": "🇨🇳&🇭🇰 顺女 intp 性向不确定 擦边非黄推 ‖\n喹硫平用药中 Ⅰ\nds退圈 Ⅰ\n女权、孩随母姓支持者（xp不代表现实意愿）Ⅰ\n\n随缘交交朋友",
+        "id": "1421766018897125378",
+        "name": "不能哭",
+        "pinned_tweet_id": "2035043643661459626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019296832577540096/HXSfZIZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 554,
+          "like_count": 6814,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 2009
+        },
+        "username": "nakunatoidda",
+        "verified": false
+      }
+    ]
+  }
+}

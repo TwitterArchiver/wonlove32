@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2062056287853261214",
+    "created_at": "2026-06-03T06:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062056287853261214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991025043359608833",
+          "start": 3,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062056287853261214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062017688055246893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qingxuntlrr: 把药灌进我大脑吧，神经损伤算个屁，这些傻逼事我一个都不想记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2062056287853261214",
+        "created_at": "2026-06-03T06:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062056287853261214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991025043359608833",
+              "start": 3,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062056287853261214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062017688055246893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qingxuntlrr: 把药灌进我大脑吧，神经损伤算个屁，这些傻逼事我一个都不想记得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991025043359608833",
+        "conversation_id": "2062017688055246893",
+        "created_at": "2026-06-03T03:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062017688055246893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062017688055246893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "把药灌进我大脑吧，神经损伤算个屁，这些傻逼事我一个都不想记得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 88,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1158
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-xun\nлаванда：（\n不营业了，专心唐氏😂\n*来找我互fo吧",
+        "id": "1991025043359608833",
+        "name": "Qingxun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735081757675520/Geeba8ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 486,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 173
+        },
+        "username": "Qingxuntlrr",
+        "verified": false
+      }
+    ]
+  }
+}

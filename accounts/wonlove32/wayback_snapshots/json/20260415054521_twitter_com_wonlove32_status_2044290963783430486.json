@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2044290963783430486",
+    "created_at": "2026-04-15T05:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044290963783430486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873264746218299392",
+          "start": 3,
+          "username": "HiKitty1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044290963783430486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044141837875560830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiKitty1024: 和现生的人比太淫荡，和推特的人比太正经，我们这种骚得不彻底，又不正经的人在哪里都格格不入无人问津……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2044290963783430486",
+        "created_at": "2026-04-15T05:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044290963783430486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873264746218299392",
+              "start": 3,
+              "username": "HiKitty1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044290963783430486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044141837875560830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiKitty1024: 和现生的人比太淫荡，和推特的人比太正经，我们这种骚得不彻底，又不正经的人在哪里都格格不入无人问津……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873264746218299392",
+        "conversation_id": "2044141837875560830",
+        "created_at": "2026-04-14T19:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044141837875560830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044141837875560830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和现生的人比太淫荡，和推特的人比太正经，我们这种骚得不彻底，又不正经的人在哪里都格格不入无人问津……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 39,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T07:08:24.000Z",
+        "description": "infp/欲望强/希望跟大家好好相处/会分享生活/比较日常的账号/比较好色蒽对",
+        "id": "1873264746218299392",
+        "name": "xuan@x-x",
+        "pinned_tweet_id": "2044138591001993650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873265002733522944/KVHDIcd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 90,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "HiKitty1024",
+        "verified": false
+      }
+    ]
+  }
+}

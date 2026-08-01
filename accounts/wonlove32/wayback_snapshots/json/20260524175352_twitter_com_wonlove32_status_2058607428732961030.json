@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057732757246378479",
+    "created_at": "2026-05-24T17:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058607428732961030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992854465322553345",
+          "start": 0,
+          "username": "dark1023072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058607428732961030",
+    "in_reply_to_user_id": "1992854465322553345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057732757246378479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dark1023072 宝宝你没开私信 问问坐标::&gt;_&lt;::"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057732757246378479",
+        "created_at": "2026-05-24T17:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058607428732961030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992854465322553345",
+              "start": 0,
+              "username": "dark1023072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058607428732961030",
+        "in_reply_to_user_id": "1992854465322553345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057732757246378479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dark1023072 宝宝你没开私信 问问坐标::&gt;_&lt;::"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992854465322553345",
+        "conversation_id": "2057732757246378479",
+        "created_at": "2026-05-22T07:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057732757246378479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057732757246378479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出售SSRI药物、情绪稳定剂、z药，认为自己情绪或者睡眠需要药物干预的有意者可以私聊我，仅支持同城"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 88,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T07:15:21.000Z",
+        "description": "",
+        "id": "1992854465322553345",
+        "name": "dark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049335267434336256/oJUWLYi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 36,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "dark1023072",
+        "verified": false
+      }
+    ]
+  }
+}

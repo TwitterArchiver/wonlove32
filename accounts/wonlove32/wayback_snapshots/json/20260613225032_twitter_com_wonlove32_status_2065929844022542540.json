@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065929835013083136"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2065929844022542540",
+    "created_at": "2026-06-13T22:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065929844022542540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDCDF21Pg0",
+          "end": 44,
+          "expanded_url": "https://x.com/wonlove32/status/2065929844022542540/photo/1",
+          "media_key": "3_2065929835013083136",
+          "start": 21,
+          "url": "https://t.co/CDCDF21Pg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065929844022542540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想点菜啊我o啥都没药效了还有啥能玩的。 https://t.co/CDCDF21Pg0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065929844022542540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065929844022542540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065929844022542540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_2065929835013083136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuoPTrWEAAjdT9.jpg",
+        "width": 1169
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065187370891460608/e1hXIs8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1228
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

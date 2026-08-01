@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043949080397918471",
+    "created_at": "2026-04-14T07:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043950111714337049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1989425441606959104",
+          "start": 0,
+          "username": "qz7TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043950111714337049",
+    "in_reply_to_user_id": "1989425441606959104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043949537358741770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qz7TvT 呵呵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043949080397918471",
+        "created_at": "2026-04-14T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043950111714337049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1989425441606959104",
+              "start": 0,
+              "username": "qz7TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043950111714337049",
+        "in_reply_to_user_id": "1989425441606959104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043949537358741770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qz7TvT 呵呵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989425441606959104",
+        "conversation_id": "2043949080397918471",
+        "created_at": "2026-04-14T07:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043949537358741770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043949537358741770",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043949080397918471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 网上这么说现实肯定还是处姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 18,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T20:09:38.000Z",
+        "description": "只希望平静一生",
+        "id": "1989425441606959104",
+        "name": "qz6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039537194294222848/FUMhIjyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 96
+        },
+        "username": "qz7TvT",
+        "verified": false
+      }
+    ]
+  }
+}

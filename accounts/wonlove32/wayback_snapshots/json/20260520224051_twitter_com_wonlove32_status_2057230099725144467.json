@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057230099725144467",
+    "created_at": "2026-05-20T22:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057230099725144467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wonlove32/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wonlove32/status/2057228740397252634",
+          "start": 22,
+          "url": "https://t.co/HGds896wMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057230099725144467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057228740397252634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯我天塌了 刚上微信然后固排跟我说他卖号了 https://t.co/HGds896wMB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057230099725144467",
+        "created_at": "2026-05-20T22:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057230099725144467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonlove32/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wonlove32/status/2057228740397252634",
+              "start": 22,
+              "url": "https://t.co/HGds896wMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057230099725144467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057228740397252634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯我天塌了 刚上微信然后固排跟我说他卖号了 https://t.co/HGds896wMB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057228740397252634",
+        "created_at": "2026-05-20T22:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057228740397252634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057228740397252634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在打任何竞技游戏都不喜欢被带飞 跟好朋友一起除外，感觉毫无游戏体验，我只想变成高手带妹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

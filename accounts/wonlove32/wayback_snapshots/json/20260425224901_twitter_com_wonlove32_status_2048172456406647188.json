@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2048172456406647188",
+    "created_at": "2026-04-25T22:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T23:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048172456406647188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567543722170253313",
+          "start": 3,
+          "username": "ouO1nieowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048172456406647188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048070159051653625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouO1nieowo: 我真的特别喜欢一打开手机就铺天盖地的消息 这种带来的安心感填补了不能每时每刻黏在一起的空缺 也很喜欢对方向我袒露的情感需求 被需要时我特别幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2048172456406647188",
+        "created_at": "2026-04-25T22:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048172456406647188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567543722170253313",
+              "start": 3,
+              "username": "ouO1nieowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048172456406647188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048070159051653625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ouO1nieowo: 我真的特别喜欢一打开手机就铺天盖地的消息 这种带来的安心感填补了不能每时每刻黏在一起的空缺 也很喜欢对方向我袒露的情感需求 被需要时我特别幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2048070159051653625",
+        "created_at": "2026-04-25T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048070159051653625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048070159051653625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5527,
+          "like_count": 150,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢一打开手机就铺天盖地的消息 这种带来的安心感填补了不能每时每刻黏在一起的空缺 也很喜欢对方向我袒露的情感需求 被需要时我特别幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047898156487331840/glzC3kNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己/置顶推广自辨",
+        "id": "1567543722170253313",
+        "location": "🚪188/388/520/1314",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2029278292415840553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11258,
+          "following_count": 39,
+          "like_count": 1004,
+          "listed_count": 39,
+          "media_count": 38,
+          "tweet_count": 756
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

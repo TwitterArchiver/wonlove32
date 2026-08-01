@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043405530862100771",
+    "created_at": "2026-04-12T19:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043405530862100771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amoursoull/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/amoursoull/status/2043075614555419051",
+          "start": 11,
+          "url": "https://t.co/I7ZT1tsYhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043405530862100771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043075614555419051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好幸福我嫉妒得要哭了 https://t.co/I7ZT1tsYhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13966,
+        "height": 720,
+        "media_key": "13_2036826784831090688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036826784831090688/img/tB40Fs4ncMoCQvGY.jpg",
+        "public_metrics": {
+          "view_count": 5409876
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036826784831090688/vid/avc1/480x270/H-hy_x1VEYfX0Fuh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036826784831090688/vid/avc1/640x360/6gKVFmE8kMmyqInJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036826784831090688/vid/avc1/1280x720/jM7px8PtoO3ed9b0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036826784831090688/pl/xxTB-c8qJl5gOk5a.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043405530862100771",
+        "created_at": "2026-04-12T19:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043405530862100771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amoursoull/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/amoursoull/status/2043075614555419051",
+              "start": 11,
+              "url": "https://t.co/I7ZT1tsYhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043405530862100771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043075614555419051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好幸福我嫉妒得要哭了 https://t.co/I7ZT1tsYhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036826784831090688"
+          ],
+          "media_source_tweet_id": [
+            "2036826855203016802"
+          ]
+        },
+        "author_id": "1382295008615800838",
+        "conversation_id": "2043075614555419051",
+        "created_at": "2026-04-11T21:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043075614555419051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3CBiGsjJz",
+              "end": 23,
+              "expanded_url": "https://x.com/VgWgypKER24wJEX/status/2036826855203016802/video/1",
+              "media_key": "13_2036826784831090688",
+              "start": 0,
+              "url": "https://t.co/I3CBiGsjJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043075614555419051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 980,
+          "impression_count": 337160,
+          "like_count": 8127,
+          "quote_count": 100,
+          "reply_count": 14,
+          "retweet_count": 1267
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I3CBiGsjJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 19,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T11:30:21.000Z",
+        "description": "Love Gallery 🤍",
+        "id": "1382295008615800838",
+        "location": "New York, USA",
+        "name": "ᥫ᭡",
+        "pinned_tweet_id": "2037224251615310190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035129150361477120/Ld_wEAdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84258,
+          "following_count": 0,
+          "like_count": 69831,
+          "listed_count": 94,
+          "media_count": 1461,
+          "tweet_count": 5168
+        },
+        "username": "amoursoull",
+        "verified": true
+      }
+    ]
+  }
+}

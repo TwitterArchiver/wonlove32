@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2041790180005441766",
+    "created_at": "2026-04-08T18:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041952397975761053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239985064294985728",
+          "start": 0,
+          "username": "Cloudyyyyyyyo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041952397975761053",
+    "in_reply_to_user_id": "1239985064294985728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041790180005441766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cloudyyyyyyyo5 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2041790171633594368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXlV94asAArroS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2041790180005441766",
+        "created_at": "2026-04-08T18:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041952397975761053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239985064294985728",
+              "start": 0,
+              "username": "Cloudyyyyyyyo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041952397975761053",
+        "in_reply_to_user_id": "1239985064294985728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041790180005441766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cloudyyyyyyyo5 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041790171633594368"
+          ]
+        },
+        "author_id": "1239985064294985728",
+        "conversation_id": "2041790180005441766",
+        "created_at": "2026-04-08T08:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041790180005441766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XtZBeYfCs",
+              "end": 26,
+              "expanded_url": "https://x.com/Cloudyyyyyyyo5/status/2041790180005441766/photo/1",
+              "media_key": "3_2041790171633594368",
+              "start": 3,
+              "url": "https://t.co/8XtZBeYfCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041790180005441766",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19156,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…… https://t.co/8XtZBeYfCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T18:41:02.000Z",
+        "description": "祝你我天天开心 睡个好觉 挺无趣一人 礼貌的私信会回复 174 81kg 肉都长腿上了",
+        "id": "1239985064294985728",
+        "location": "麦当劳取餐码 0505",
+        "name": "freewind",
+        "pinned_tweet_id": "1586545802822176768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038080252371775489/cmeIKGUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 49,
+          "like_count": 101,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 308
+        },
+        "username": "Cloudyyyyyyyo5",
+        "verified": false
+      }
+    ]
+  }
+}

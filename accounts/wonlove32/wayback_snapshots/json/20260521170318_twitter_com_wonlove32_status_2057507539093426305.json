@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057507295802843136"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057507539093426305",
+    "created_at": "2026-05-21T17:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057507539093426305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3wB9kyH39",
+          "end": 33,
+          "expanded_url": "https://x.com/wonlove32/status/2057507539093426305/video/1",
+          "media_key": "13_2057507295802843136",
+          "start": 10,
+          "url": "https://t.co/p3wB9kyH39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057507539093426305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这火舞好帅呀想嫁。 https://t.co/p3wB9kyH39"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057507539093426305].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057507539093426305",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057507539093426305"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12143,
+        "height": 592,
+        "media_key": "13_2057507295802843136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057507295802843136/img/bwyvQGasWkYViSDC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057507295802843136/vid/avc1/582x270/rzU1WKd-liHf30uc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057507295802843136/vid/avc1/778x360/BgIxtH3i9uenW3eb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057507295802843136/vid/avc1/1280x592/V1X7t27ir4_IB_x0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057507295802843136/pl/x85GdsJ7EkXBWJ8i.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405380494585856/BYiJ7HB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 87,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

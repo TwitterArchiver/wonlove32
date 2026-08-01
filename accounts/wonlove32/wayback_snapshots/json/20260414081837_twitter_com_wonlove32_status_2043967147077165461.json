@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043967134145929216"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043967147077165461",
+    "created_at": "2026-04-14T08:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043967147077165461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPPzIROel8",
+          "end": 27,
+          "expanded_url": "https://x.com/wonlove32/status/2043967147077165461/photo/1",
+          "media_key": "3_2043967134145929216",
+          "start": 4,
+          "url": "https://t.co/lPPzIROel8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043967147077165461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/lPPzIROel8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_2043967134145929216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2hR3NXYAAaB7W.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043967134145929216"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043967147077165461",
+        "created_at": "2026-04-14T08:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043967147077165461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPPzIROel8",
+              "end": 27,
+              "expanded_url": "https://x.com/wonlove32/status/2043967147077165461/photo/1",
+              "media_key": "3_2043967134145929216",
+              "start": 4,
+              "url": "https://t.co/lPPzIROel8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043967147077165461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/lPPzIROel8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 19,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

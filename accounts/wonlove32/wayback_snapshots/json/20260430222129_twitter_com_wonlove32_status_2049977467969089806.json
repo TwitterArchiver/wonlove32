@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049977467969089806",
+    "created_at": "2026-04-30T22:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049977467969089806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1218553739012988929",
+          "start": 3,
+          "username": "yihuaaart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049977467969089806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 748
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046591993707671967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yihuaaart: 有宝宝点菜：边缘行为蹭蹭\n面对面姿势实在美味！女主扭腰好涩会找让自己爽的点然后一直蹭。而且两个人凑的好近，有一段是女主边撸边蹭左手搂着男主脖子感觉已经亲起来了🤤\n两个人快高潮时候男主手一直在乱摸，而且男主涂黑色的指甲油！手垂下来时候的青筋！谁的xp…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049977467969089806].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049977467969089806",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049977467969089806"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 248048,
+        "height": 720,
+        "media_key": "13_2046590498744471552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046590498744471552/img/vUNKqQ80p3t795Nx.jpg",
+        "public_metrics": {
+          "view_count": 564490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046590498744471552/vid/avc1/478x270/xOrvWI30c8rKBr6y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046590498744471552/vid/avc1/638x360/NwQqMh_fiz5ndnEk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046590498744471552/vid/avc1/1276x720/EK5nbC1yasPW9npc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046590498744471552/pl/SfzsK5b5Mv3HowrH.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046590498744471552"
+          ]
+        },
+        "author_id": "1218553739012988929",
+        "conversation_id": "2046591993707671967",
+        "created_at": "2026-04-21T14:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046591993707671967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mW5osuTkNB",
+              "end": 169,
+              "expanded_url": "https://x.com/yihuaaart/status/2046591993707671967/video/1",
+              "media_key": "13_2046590498744471552",
+              "start": 146,
+              "url": "https://t.co/mW5osuTkNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046591993707671967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10286,
+          "impression_count": 484377,
+          "like_count": 20802,
+          "quote_count": 12,
+          "reply_count": 58,
+          "retweet_count": 748
+        },
+        "reply_settings": "everyone",
+        "text": "有宝宝点菜：边缘行为蹭蹭\n面对面姿势实在美味！女主扭腰好涩会找让自己爽的点然后一直蹭。而且两个人凑的好近，有一段是女主边撸边蹭左手搂着男主脖子感觉已经亲起来了🤤\n两个人快高潮时候男主手一直在乱摸，而且男主涂黑色的指甲油！手垂下来时候的青筋！谁的xp！喘得也好daddy\n原推见水印\n#女性向 https://t.co/mW5osuTkNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 53,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-18T15:20:34.000Z",
+        "description": "人活着就是要吃美丽的饭、吃爽口的饭。\n努力成为一名做女性向口味饭的好厨子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=tjelsUQQ&from=%E6%B9%98%E6%B9%98%E5%85%B0%E5%AD%90",
+                "start": 0,
+                "url": "https://t.co/DtEgM1NG7x"
+              }
+            ]
+          }
+        },
+        "id": "1218553739012988929",
+        "location": "自用梯子！便宜好用！有需要的宝宝可以试试～",
+        "name": "湘湘兰子",
+        "pinned_tweet_id": "2041541789837115415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324988957327360/1BrZ9-Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177186,
+          "following_count": 160,
+          "like_count": 749,
+          "listed_count": 177,
+          "media_count": 97,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/DtEgM1NG7x",
+        "username": "yihuaaart",
+        "verified": false
+      }
+    ]
+  }
+}

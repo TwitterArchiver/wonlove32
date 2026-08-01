@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2050771950314963175",
+    "created_at": "2026-05-03T19:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051019795127238955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009990272177020928",
+          "start": 0,
+          "username": "bbbbbbk0520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051019795127238955",
+    "in_reply_to_user_id": "2009990272177020928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051015064921276517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbbbbk0520 对 我也是。做不到性爱分离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2050771950314963175",
+        "created_at": "2026-05-03T19:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051019795127238955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009990272177020928",
+              "start": 0,
+              "username": "bbbbbbk0520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051019795127238955",
+        "in_reply_to_user_id": "2009990272177020928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051015064921276517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbbbbk0520 对 我也是。做不到性爱分离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009990272177020928",
+        "conversation_id": "2050771950314963175",
+        "created_at": "2026-05-03T19:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051015064921276517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051015064921276517",
+        "in_reply_to_user_id": "2009990272177020928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051007004995645657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 准确地说是还没见到有资格可以使用我的人 可能我太自负了 也可能我奇怪标准太高了 不过我相信好机器配好驾驶员 好马配好鞍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 58,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T14:07:27.000Z",
+        "description": "细云龙",
+        "id": "2009990272177020928",
+        "name": "一支细云龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048752544915275776/6jnMKeBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 36,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 288
+        },
+        "username": "bbbbbbk0520",
+        "verified": false
+      }
+    ]
+  }
+}

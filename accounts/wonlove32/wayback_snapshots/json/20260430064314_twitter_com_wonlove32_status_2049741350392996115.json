@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049741350392996115",
+    "created_at": "2026-04-30T06:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049741350392996115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1941398737840111623",
+          "start": 3,
+          "username": "loooolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049741350392996115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049426509274988800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loooolzaozimin: 广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2049741350392996115",
+        "created_at": "2026-04-30T06:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049741350392996115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1941398737840111623",
+              "start": 3,
+              "username": "loooolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049741350392996115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049426509274988800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loooolzaozimin: 广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941398737840111623",
+        "conversation_id": "2049426509274988800",
+        "created_at": "2026-04-29T09:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049426509274988800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049426509274988800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 25016,
+          "like_count": 570,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 51,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "2032329380845011431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042573347343712256/Cdo-ax9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7722,
+          "following_count": 27,
+          "like_count": 156,
+          "listed_count": 7,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "username": "loooolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

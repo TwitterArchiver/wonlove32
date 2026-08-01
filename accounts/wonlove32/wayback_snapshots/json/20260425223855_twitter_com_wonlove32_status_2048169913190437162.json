@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2048169913190437162",
+    "created_at": "2026-04-25T22:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T23:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048169913190437162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802614728625377280",
+          "start": 3,
+          "username": "Hggg751309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048169913190437162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047971257187279356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hggg751309: 你不撸，精液就会堆积在体内。所以，不撸就是在内射自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2048169913190437162",
+        "created_at": "2026-04-25T22:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048169913190437162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802614728625377280",
+              "start": 3,
+              "username": "Hggg751309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048169913190437162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047971257187279356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hggg751309: 你不撸，精液就会堆积在体内。所以，不撸就是在内射自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802614728625377280",
+        "conversation_id": "2047971257187279356",
+        "created_at": "2026-04-25T09:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047971257187279356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047971257187279356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 92296,
+          "like_count": 1018,
+          "quote_count": 7,
+          "reply_count": 122,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "你不撸，精液就会堆积在体内。所以，不撸就是在内射自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047898156487331840/glzC3kNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T08:10:28.000Z",
+        "description": "喜欢女的 /176 / switch",
+        "id": "1802614728625377280",
+        "name": "射手上了",
+        "pinned_tweet_id": "2012542915273261159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008363009413197824/LguUEAmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4916,
+          "following_count": 262,
+          "like_count": 663,
+          "listed_count": 27,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "username": "Hggg751309",
+        "verified": false
+      }
+    ]
+  }
+}

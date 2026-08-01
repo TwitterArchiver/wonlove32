@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2071906807833121082",
+    "created_at": "2026-06-30T22:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072091542869913805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        },
+        {
+          "end": 28,
+          "id": "1845194453818253312",
+          "start": 17,
+          "username": "misaki5193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072091542869913805",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071906807833121082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 笑死我了@misaki5193"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071906804070567936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDkQshXUAAe141.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071906805316276224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDkQxKXUAAqdrx.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-06-30T22:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072091542869913805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 28,
+              "id": "1845194453818253312",
+              "start": 17,
+              "username": "misaki5193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072091542869913805",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071906807833121082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 笑死我了@misaki5193"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071906804070567936",
+            "3_2071906805316276224"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-06-30T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071906807833121082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YK3LUrPeUZ",
+              "end": 55,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2071906807833121082/photo/1",
+              "media_key": "3_2071906804070567936",
+              "start": 32,
+              "url": "https://t.co/YK3LUrPeUZ"
+            },
+            {
+              "display_url": "pic.x.com/YK3LUrPeUZ",
+              "end": 55,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2071906807833121082/photo/1",
+              "media_key": "3_2071906805316276224",
+              "start": 32,
+              "url": "https://t.co/YK3LUrPeUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071906807833121082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2735,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥夺舍了外国入的账号并向枢纽发出宝子你的盐野义来自何处的问候 https://t.co/YK3LUrPeUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071715749941698560/1df8dxOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 88,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 166,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:07:04.000Z",
+        "description": "",
+        "id": "1845194453818253312",
+        "name": "罪",
+        "pinned_tweet_id": "2038665602328568152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043361454989209601/QffaspXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 21,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "misaki5193",
+        "verified": false
+      }
+    ]
+  }
+}

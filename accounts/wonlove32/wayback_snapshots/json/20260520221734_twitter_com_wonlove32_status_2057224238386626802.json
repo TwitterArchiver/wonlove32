@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057224238386626802",
+    "created_at": "2026-05-20T22:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057224238386626802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fadai202202/status/2057103206434697521",
+          "start": 5,
+          "url": "https://t.co/muu6H0Ucq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057224238386626802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057103206434697521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好笑。 https://t.co/muu6H0Ucq8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057224238386626802",
+        "created_at": "2026-05-20T22:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057224238386626802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fadai202202/status/2057103206434697521",
+              "start": 5,
+              "url": "https://t.co/muu6H0Ucq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057224238386626802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057103206434697521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好笑。 https://t.co/muu6H0Ucq8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2057103206434697521",
+        "created_at": "2026-05-20T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057103206434697521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057103206434697521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19746,
+          "like_count": 115,
+          "quote_count": 3,
+          "reply_count": 161,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们你们被送100包奶油火鸡面会开心吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14281,
+          "following_count": 1,
+          "like_count": 962,
+          "listed_count": 13,
+          "media_count": 127,
+          "tweet_count": 920
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

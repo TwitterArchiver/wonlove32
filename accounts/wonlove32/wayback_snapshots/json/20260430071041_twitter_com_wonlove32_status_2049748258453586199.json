@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049748258453586199",
+    "created_at": "2026-04-30T07:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049748258453586199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/otxiashu/statu…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/otxiashu/status/2049367322947912082",
+          "start": 50,
+          "url": "https://t.co/kH97DydvyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049748258453586199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049367322947912082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苯海索这个垃圾药到底是谁在o，试过一次谵妄就不想再碰了。为了pr的药效我可以一天不吃饭就当减肥了。 https://t.co/kH97DydvyY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2049748258453586199",
+        "created_at": "2026-04-30T07:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049748258453586199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/otxiashu/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/otxiashu/status/2049367322947912082",
+              "start": 50,
+              "url": "https://t.co/kH97DydvyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049748258453586199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049367322947912082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苯海索这个垃圾药到底是谁在o，试过一次谵妄就不想再碰了。为了pr的药效我可以一天不吃饭就当减肥了。 https://t.co/kH97DydvyY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2049367322947912082",
+        "created_at": "2026-04-29T05:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049367322947912082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049367322947912082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11810,
+          "like_count": 298,
+          "quote_count": 11,
+          "reply_count": 22,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "真正强大的oder:\n美金刚（精神分裂享受者）、右美沙芬（高原攀登者）、金刚烷胺（影子人操纵者）、苯海索（谵妄拥有者）、普瑞巴林（永远保持空腹之人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 51,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 530,
+          "like_count": 9869,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

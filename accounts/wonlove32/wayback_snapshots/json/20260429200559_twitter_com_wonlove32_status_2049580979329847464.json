@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049580979329847464",
+    "created_at": "2026-04-29T20:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049580979329847464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/21savage714/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/21savage714/status/2049195931824992626",
+          "start": 5,
+          "url": "https://t.co/n2SZKsJZGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049580979329847464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049195931824992626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天。 https://t.co/n2SZKsJZGc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2049580979329847464",
+        "created_at": "2026-04-29T20:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049580979329847464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/21savage714/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/21savage714/status/2049195931824992626",
+              "start": 5,
+              "url": "https://t.co/n2SZKsJZGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049580979329847464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049195931824992626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天。 https://t.co/n2SZKsJZGc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817286603787948032",
+        "conversation_id": "2049195931824992626",
+        "created_at": "2026-04-28T18:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049195931824992626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049195931824992626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 24157,
+          "like_count": 926,
+          "quote_count": 25,
+          "reply_count": 57,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "你不要用很轻松的语气讲话然后自己偷偷哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048324559561244672/cCi0Vxgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 51,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 170,
+          "like_count": 8095,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053961225478762496"
+      ],
+      "media_source_tweet_id": [
+        "2053961227794075654"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054181694555709473",
+    "created_at": "2026-05-12T12:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054181694555709473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "831048420",
+          "start": 3,
+          "username": "elemmiressoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2DgTyOL2rN",
+          "end": 48,
+          "expanded_url": "https://x.com/elemmiressoul/status/2053961227794075654/photo/1",
+          "media_key": "3_2053961225478762496",
+          "start": 25,
+          "url": "https://t.co/2DgTyOL2rN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054181694555709473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053961227794075654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elemmiressoul: 𝔇𝔞𝔯𝔨. https://t.co/2DgTyOL2rN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2053961225478762496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEi2isWcAAraI8.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053961225478762496"
+          ],
+          "media_source_tweet_id": [
+            "2053961227794075654"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054181694555709473",
+        "created_at": "2026-05-12T12:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054181694555709473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "831048420",
+              "start": 3,
+              "username": "elemmiressoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DgTyOL2rN",
+              "end": 48,
+              "expanded_url": "https://x.com/elemmiressoul/status/2053961227794075654/photo/1",
+              "media_key": "3_2053961225478762496",
+              "start": 25,
+              "url": "https://t.co/2DgTyOL2rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054181694555709473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053961227794075654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elemmiressoul: 𝔇𝔞𝔯𝔨. https://t.co/2DgTyOL2rN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053961225478762496"
+          ]
+        },
+        "author_id": "831048420",
+        "conversation_id": "2053961227794075654",
+        "created_at": "2026-05-11T22:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053961227794075654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DgTyOL2rN",
+              "end": 29,
+              "expanded_url": "https://x.com/elemmiressoul/status/2053961227794075654/photo/1",
+              "media_key": "3_2053961225478762496",
+              "start": 6,
+              "url": "https://t.co/2DgTyOL2rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053961227794075654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 13698,
+          "like_count": 1208,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "𝔇𝔞𝔯𝔨. https://t.co/2DgTyOL2rN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053888688522924032/m1pIoMd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 66,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-18T13:21:57.000Z",
+        "description": "𝐿𝑒𝑡'𝑠 𝑚𝑒𝑒𝑡 𝑖𝑛 𝑚𝑦 𝑒𝑡𝑒𝑟𝑛𝑖𝑡𝑦.࣪ ִֶָ☾. ݁ ˖๋ ࣭ ⭑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/emine.krp…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/emine.krpnr?si=SCz7foNUS3q_Os02Cw02-g",
+                "start": 0,
+                "url": "https://t.co/GbJMGhTwKq"
+              }
+            ]
+          }
+        },
+        "id": "831048420",
+        "location": "☾⭒",
+        "name": "𝕰𝖑𝖊𝖒𝖒𝖎𝖗𝖊",
+        "pinned_tweet_id": "1984343444442267693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961122714090938368/jQ9mEpgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136579,
+          "following_count": 175,
+          "like_count": 109260,
+          "listed_count": 837,
+          "media_count": 9134,
+          "tweet_count": 14912
+        },
+        "url": "https://t.co/GbJMGhTwKq",
+        "username": "elemmiressoul",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049985483967737867",
+    "created_at": "2026-05-01T06:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050095607734554915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589268492326293506",
+          "start": 0,
+          "username": "HHHMan90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050095607734554915",
+    "in_reply_to_user_id": "1589268492326293506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050053822375203159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHHMan90 都不讨厌。这两个称呼都蛮可爱，我讨厌喊另一半骚母狗贱母狗之类的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2049985483967737867",
+        "created_at": "2026-05-01T06:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050095607734554915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589268492326293506",
+              "start": 0,
+              "username": "HHHMan90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050095607734554915",
+        "in_reply_to_user_id": "1589268492326293506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050053822375203159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHHMan90 都不讨厌。这两个称呼都蛮可爱，我讨厌喊另一半骚母狗贱母狗之类的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589268492326293506",
+        "conversation_id": "2049985483967737867",
+        "created_at": "2026-05-01T03:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050053822375203159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050053822375203159",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049985483967737867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 那到底是讨厌小狗还是小猫呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 55,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T14:48:43.000Z",
+        "description": "一个爱打游戏的人",
+        "id": "1589268492326293506",
+        "name": "光光光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007896897621811200/7EYOgCTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "HHHMan90",
+        "verified": false
+      }
+    ]
+  }
+}

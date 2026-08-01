@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043405404345135315",
+    "created_at": "2026-04-12T19:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043405404345135315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942995969043501056",
+          "start": 3,
+          "username": "Aqian0505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043405404345135315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043306740587077942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aqian0505: 当一个人的文字足够真诚，我便会透过文字爱上文字背后的人，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043405404345135315",
+        "created_at": "2026-04-12T19:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043405404345135315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942995969043501056",
+              "start": 3,
+              "username": "Aqian0505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043405404345135315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043306740587077942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aqian0505: 当一个人的文字足够真诚，我便会透过文字爱上文字背后的人，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2043306740587077942",
+        "created_at": "2026-04-12T12:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043306740587077942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043306740587077942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5105,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "当一个人的文字足够真诚，我便会透过文字爱上文字背后的人，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 19,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2040670051381157897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040792220014632960/x_9NIn5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4518,
+          "following_count": 297,
+          "like_count": 11659,
+          "listed_count": 20,
+          "media_count": 98,
+          "tweet_count": 810
+        },
+        "username": "Aqian0505",
+        "verified": false
+      }
+    ]
+  }
+}

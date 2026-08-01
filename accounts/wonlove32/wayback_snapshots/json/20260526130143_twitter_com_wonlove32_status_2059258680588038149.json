@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059257620809306115",
+        "3_2059257620821917696",
+        "3_2059257620847026176",
+        "3_2059257620834443264"
+      ],
+      "media_source_tweet_id": [
+        "2059257641168421178",
+        "2059257641168421178",
+        "2059257641168421178",
+        "2059257641168421178"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714639205642241",
+          "name": "Korean actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2059258680588038149",
+    "created_at": "2026-05-26T13:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059258680588038149"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "원빈"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "WONBIN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696079796508487680",
+          "start": 3,
+          "username": "chrryever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r5KrKsLrPO",
+          "end": 104,
+          "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+          "media_key": "3_2059257620809306115",
+          "start": 81,
+          "url": "https://t.co/r5KrKsLrPO"
+        },
+        {
+          "display_url": "pic.x.com/r5KrKsLrPO",
+          "end": 104,
+          "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+          "media_key": "3_2059257620821917696",
+          "start": 81,
+          "url": "https://t.co/r5KrKsLrPO"
+        },
+        {
+          "display_url": "pic.x.com/r5KrKsLrPO",
+          "end": 104,
+          "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+          "media_key": "3_2059257620847026176",
+          "start": 81,
+          "url": "https://t.co/r5KrKsLrPO"
+        },
+        {
+          "display_url": "pic.x.com/r5KrKsLrPO",
+          "end": 104,
+          "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+          "media_key": "3_2059257620834443264",
+          "start": 81,
+          "url": "https://t.co/r5KrKsLrPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059258680588038149",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059257641168421178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chrryever: 260526 라이즈 인스타 #원빈 #WONBIN \n\n🖤✨ @.chanelofficial @.Matthieu_Blazy https://t.co/r5KrKsLrPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2059257620809306115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPz5U1a0AMFNLK.jpg",
+        "width": 2731
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2059257620821917696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPz5U4bQAARqgg.jpg",
+        "width": 2730
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2059257620847026176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPz5U-aYAAo-Di.jpg",
+        "width": 2730
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2059257620834443264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPz5U7aYAAhav8.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059257620809306115",
+            "3_2059257620821917696",
+            "3_2059257620847026176",
+            "3_2059257620834443264"
+          ],
+          "media_source_tweet_id": [
+            "2059257641168421178",
+            "2059257641168421178",
+            "2059257641168421178",
+            "2059257641168421178"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2059258680588038149",
+        "created_at": "2026-05-26T13:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059258680588038149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "원빈"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "WONBIN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696079796508487680",
+              "start": 3,
+              "username": "chrryever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 104,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620809306115",
+              "start": 81,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 104,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620821917696",
+              "start": 81,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 104,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620847026176",
+              "start": 81,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 104,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620834443264",
+              "start": 81,
+              "url": "https://t.co/r5KrKsLrPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059258680588038149",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059257641168421178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chrryever: 260526 라이즈 인스타 #원빈 #WONBIN \n\n🖤✨ @.chanelofficial @.Matthieu_Blazy https://t.co/r5KrKsLrPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059257620809306115",
+            "3_2059257620821917696",
+            "3_2059257620847026176",
+            "3_2059257620834443264"
+          ]
+        },
+        "author_id": "1696079796508487680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2059257641168421178",
+        "created_at": "2026-05-26T12:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059257641168421178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "원빈"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "WONBIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 89,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620809306115",
+              "start": 66,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 89,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620821917696",
+              "start": 66,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 89,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620847026176",
+              "start": 66,
+              "url": "https://t.co/r5KrKsLrPO"
+            },
+            {
+              "display_url": "pic.x.com/r5KrKsLrPO",
+              "end": 89,
+              "expanded_url": "https://x.com/chrryever/status/2059257641168421178/photo/1",
+              "media_key": "3_2059257620834443264",
+              "start": 66,
+              "url": "https://t.co/r5KrKsLrPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059257641168421178",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1727,
+          "like_count": 105,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 99
+        },
+        "reply_settings": "following",
+        "text": "260526 라이즈 인스타 #원빈 #WONBIN \n\n🖤✨ @.chanelofficial @.Matthieu_Blazy https://t.co/r5KrKsLrPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059053164750651392/1kFxfI2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 90,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T08:38:36.000Z",
+        "description": "토냥... (덕..ㅠ)",
+        "id": "1696079796508487680",
+        "name": "cherry..",
+        "pinned_tweet_id": "1986810435551846816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744351926043738112/IwspBsUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19206,
+          "following_count": 37,
+          "like_count": 6284,
+          "listed_count": 91,
+          "media_count": 8442,
+          "tweet_count": 10911
+        },
+        "username": "chrryever",
+        "verified": true
+      }
+    ]
+  }
+}

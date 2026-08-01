@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2046756996188365306",
+    "created_at": "2026-04-22T09:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046877127510016308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040486559569649664",
+          "start": 0,
+          "username": "Zzzjm1h"
+        },
+        {
+          "end": 20,
+          "id": "1845194453818253312",
+          "start": 9,
+          "username": "misaki5193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046877127510016308",
+    "in_reply_to_user_id": "2040486559569649664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046756996188365306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzzjm1h @misaki5193 闹麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046756979948048384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeKoQta0AAF--S.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2046756996188365306",
+        "created_at": "2026-04-22T09:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046877127510016308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040486559569649664",
+              "start": 0,
+              "username": "Zzzjm1h"
+            },
+            {
+              "end": 20,
+              "id": "1845194453818253312",
+              "start": 9,
+              "username": "misaki5193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046877127510016308",
+        "in_reply_to_user_id": "2040486559569649664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046756996188365306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzzjm1h @misaki5193 闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046756979948048384"
+          ]
+        },
+        "author_id": "2040486559569649664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046756996188365306",
+        "created_at": "2026-04-22T01:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046756996188365306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZcK4mQi7f",
+              "end": 121,
+              "expanded_url": "https://x.com/Zzzjm1h/status/2046756996188365306/photo/1",
+              "media_key": "3_2046756979948048384",
+              "start": 98,
+              "url": "https://t.co/NZcK4mQi7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046756996188365306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8570,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/NZcK4mQi7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045943444334669825/b4LJ2sAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 62,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T17:48:57.000Z",
+        "description": "大家可以礼貌一点吗。\n我会尽量回每一个小女孩的评论的！我爱你们 谢谢你们夸我 谢谢你们喜欢我 希望你们天天开心 一定要幸福\n我是isfp双鱼！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzz60265",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzz60265",
+                "start": 0,
+                "url": "https://t.co/FRaB74Wcpz"
+              }
+            ]
+          }
+        },
+        "id": "2040486559569649664",
+        "name": "Zzz",
+        "pinned_tweet_id": "2042272893460271445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040689744053751808/caxDDCn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 68,
+          "like_count": 4112,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/FRaB74Wcpz",
+        "username": "Zzzjm1h",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:07:04.000Z",
+        "description": "",
+        "id": "1845194453818253312",
+        "name": "罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043361454989209601/QffaspXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 16,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "misaki5193",
+        "verified": false
+      }
+    ]
+  }
+}

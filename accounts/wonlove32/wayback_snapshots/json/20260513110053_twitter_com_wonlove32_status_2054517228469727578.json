@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054517228469727578",
+    "created_at": "2026-05-13T11:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054517228469727578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buzz_wadai_/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/buzz_wadai_/status/2054197513469714683",
+          "start": 11,
+          "url": "https://t.co/xp0Ba2PC0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054517228469727578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054197513469714683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也需要摄入点糖分。 https://t.co/xp0Ba2PC0B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2054197505093718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH5v02a0AA5-Mg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054517228469727578",
+        "created_at": "2026-05-13T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054517228469727578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buzz_wadai_/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/buzz_wadai_/status/2054197513469714683",
+              "start": 11,
+              "url": "https://t.co/xp0Ba2PC0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054517228469727578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054197513469714683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也需要摄入点糖分。 https://t.co/xp0Ba2PC0B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054197505093718016"
+          ]
+        },
+        "author_id": "1177426106867011584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054197513469714683",
+        "created_at": "2026-05-12T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054197513469714683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z93d9hWWBg",
+              "end": 46,
+              "expanded_url": "https://x.com/buzz_wadai_/status/2054197513469714683/photo/1",
+              "media_key": "3_2054197505093718016",
+              "start": 23,
+              "url": "https://t.co/Z93d9hWWBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054197513469714683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 257332,
+          "like_count": 6161,
+          "quote_count": 74,
+          "reply_count": 65,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "はぁ...\nもう人生疲れたしODするわ。。。 https://t.co/Z93d9hWWBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 78,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T03:34:17.000Z",
+        "description": "話題のツイートを投稿してます。",
+        "id": "1177426106867011584",
+        "name": "ネットで話題のツイ図鑑",
+        "pinned_tweet_id": "2053377218244702648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026206370505314304/VfxDKOi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39024,
+          "following_count": 6145,
+          "like_count": 86281,
+          "listed_count": 68,
+          "media_count": 4006,
+          "tweet_count": 65354
+        },
+        "username": "buzz_wadai_",
+        "verified": true
+      }
+    ]
+  }
+}

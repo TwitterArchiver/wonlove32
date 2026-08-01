@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043971251501453337",
+    "created_at": "2026-04-14T20:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T21:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044146402004267081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974718029503352832",
+          "start": 0,
+          "username": "jiajia081119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044146402004267081",
+    "in_reply_to_user_id": "1974718029503352832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044141848684642813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia081119 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043971251501453337",
+        "created_at": "2026-04-14T20:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044146402004267081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974718029503352832",
+              "start": 0,
+              "username": "jiajia081119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044146402004267081",
+        "in_reply_to_user_id": "1974718029503352832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044141848684642813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia081119 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974718029503352832",
+        "conversation_id": "2043971251501453337",
+        "created_at": "2026-04-14T19:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044141848684642813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044141848684642813",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043971251501453337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我想跟正常人玩  一堆男的来跟我交朋友 我说了一句我是男的就全把我拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 33,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T06:07:29.000Z",
+        "description": "♏️08 后来的我什么都有 就是没有我们 4i=1i",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E4%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E4%BD%B3",
+                "start": 0,
+                "url": "https://t.co/E2hFsAsjuL"
+              }
+            ]
+          }
+        },
+        "id": "1974718029503352832",
+        "location": "链接匿名问答",
+        "name": "泪痕",
+        "pinned_tweet_id": "1977814194566357131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027085633974681600/sOjt2z3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 26,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/E2hFsAsjuL",
+        "username": "jiajia081119",
+        "verified": false
+      }
+    ]
+  }
+}

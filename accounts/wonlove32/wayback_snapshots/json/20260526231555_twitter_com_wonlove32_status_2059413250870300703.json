@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059413250870300703",
+    "created_at": "2026-05-26T23:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059413250870300703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787173411179110400",
+          "start": 3,
+          "username": "jlee_526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059413250870300703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059335310648189251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlee_526: 我的少女心事是fps游戏没有天赋。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059413250870300703",
+        "created_at": "2026-05-26T23:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059413250870300703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787173411179110400",
+              "start": 3,
+              "username": "jlee_526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059413250870300703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059335310648189251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlee_526: 我的少女心事是fps游戏没有天赋。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787173411179110400",
+        "conversation_id": "2059335310648189251",
+        "created_at": "2026-05-26T18:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059335310648189251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059335310648189251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2284,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女心事是fps游戏没有天赋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1026
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T17:32:08.000Z",
+        "description": "听爱轰鸣.",
+        "id": "1787173411179110400",
+        "location": "距你0.1km",
+        "name": "yee",
+        "pinned_tweet_id": "1811809923665477821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009486103859118080/YNGy-1OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 39,
+          "like_count": 2486,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1621
+        },
+        "username": "jlee_526",
+        "verified": false
+      }
+    ]
+  }
+}

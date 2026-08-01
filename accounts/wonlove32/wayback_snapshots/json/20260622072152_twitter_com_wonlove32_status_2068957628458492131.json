@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068957617725259776"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2068957628458492131",
+    "created_at": "2026-06-22T07:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068957628458492131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pamcU2s3CL",
+          "end": 28,
+          "expanded_url": "https://x.com/wonlove32/status/2068957628458492131/photo/1",
+          "media_key": "3_2068957617725259776",
+          "start": 5,
+          "url": "https://t.co/pamcU2s3CL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068957628458492131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "七块钱。 https://t.co/pamcU2s3CL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068957617725259776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZp_dPaQAAd6M7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068957617725259776"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2068957628458492131",
+        "created_at": "2026-06-22T07:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068957628458492131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pamcU2s3CL",
+              "end": 28,
+              "expanded_url": "https://x.com/wonlove32/status/2068957628458492131/photo/1",
+              "media_key": "3_2068957617725259776",
+              "start": 5,
+              "url": "https://t.co/pamcU2s3CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068957628458492131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七块钱。 https://t.co/pamcU2s3CL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068908877400485888/LzISF9OJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 87,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1281
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

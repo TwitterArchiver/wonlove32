@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047446495662911618",
+    "created_at": "2026-04-23T22:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T23:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047446495662911618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993659774370758656",
+          "start": 3,
+          "username": "weiyux2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047446495662911618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047226566594494566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiyux2021: 讲一个拼多多购物的小技巧。\n\n1、拼多多刻意弱化了店铺的概念（这点和淘宝有本质区别）；\n\n2、大部分用户是只看链接的，而不会点进店铺；\n\n3、拼多多会根据用户自身的消费习惯来推链接。比如一个手机壳，你认为应该值20它就给你推20的链接，你觉得只值…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047446495662911618",
+        "created_at": "2026-04-23T22:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047446495662911618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993659774370758656",
+              "start": 3,
+              "username": "weiyux2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047446495662911618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047226566594494566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weiyux2021: 讲一个拼多多购物的小技巧。\n\n1、拼多多刻意弱化了店铺的概念（这点和淘宝有本质区别）；\n\n2、大部分用户是只看链接的，而不会点进店铺；\n\n3、拼多多会根据用户自身的消费习惯来推链接。比如一个手机壳，你认为应该值20它就给你推20的链接，你觉得只值…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993659774370758656",
+        "conversation_id": "2047226566594494566",
+        "created_at": "2026-04-23T08:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047226566594494566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047226566594494566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "讲一个拼多多购物的小技巧。\n\n1、拼多多刻意弱化了店铺的概念（这点和淘宝有本质区别）；\n\n2、大部分用户是只看链接的，而不会点进店铺；\n\n3、拼多多会根据用户自身的消费习惯来推链接。比如一个手机壳，你认为应该值20它就给你推20的链接，你觉得只值2块它就给你推2块的链接，哪怕是一模一样的东西。\n\n4、同一家店铺为了匹配不同消费习惯的用户群，一模一样的产品，会在店里上n个不同价位的链接。\n\n5、在拼多多上买东西，特别是大件，可以点进店铺里去看看，很可能有更便宜的链接。\n\n拼夕夕真的是把信息茧房的作用发挥到了极致……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 72667,
+          "like_count": 381,
+          "quote_count": 1,
+          "reply_count": 120,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "讲一个拼多多购物的小技巧。\n\n1、拼多多刻意弱化了店铺的概念（这点和淘宝有本质区别）；\n\n2、大部分用户是只看链接的，而不会点进店铺；\n\n3、拼多多会根据用户自身的消费习惯来推链接。比如一个手机壳，你认为应该值20它就给你推20的链接，你觉得只值2块它就给你推2块的链接，哪怕是一模一样的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 47,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "Manchester, England",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2024371745650774063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28002,
+          "following_count": 203,
+          "like_count": 122,
+          "listed_count": 98,
+          "media_count": 452,
+          "tweet_count": 2757
+        },
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

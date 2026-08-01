@@ -1,0 +1,648 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058457505026781184",
+        "3_2058457505014165504",
+        "3_2058457505014120448"
+      ],
+      "media_source_tweet_id": [
+        "2058457538572742864",
+        "2058457538572742864",
+        "2058457538572742864"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Won Bin",
+          "id": "1063175117792993280",
+          "name": "Won Bin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714639205642241",
+          "name": "Korean actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      }
+    ],
+    "conversation_id": "2058514730105581961",
+    "created_at": "2026-05-24T11:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058514730105581961"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "라이즈"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "RIIZE"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "원빈"
+        },
+        {
+          "end": 61,
+          "start": 54,
+          "tag": "WONBIN"
+        },
+        {
+          "end": 68,
+          "start": 62,
+          "tag": "ウォンビン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1848862615638052865",
+          "start": 3,
+          "username": "10Degrees0904"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NxyIFRgmx",
+          "end": 92,
+          "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+          "media_key": "3_2058457505026781184",
+          "start": 69,
+          "url": "https://t.co/8NxyIFRgmx"
+        },
+        {
+          "display_url": "pic.x.com/8NxyIFRgmx",
+          "end": 92,
+          "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+          "media_key": "3_2058457505014165504",
+          "start": 69,
+          "url": "https://t.co/8NxyIFRgmx"
+        },
+        {
+          "display_url": "pic.x.com/8NxyIFRgmx",
+          "end": 92,
+          "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+          "media_key": "3_2058457505014120448",
+          "start": 69,
+          "url": "https://t.co/8NxyIFRgmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058514730105581961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 581
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058457538572742864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Degrees0904: 260524 Channel B\n\n#라이즈 #RIIZE \n#원빈 #WONBIN #ウォンビン https://t.co/8NxyIFRgmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2758,
+        "media_key": "3_2058457505026781184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEcMdRbsAAu4xS.jpg",
+        "width": 1838
+      },
+      {
+        "height": 3376,
+        "media_key": "3_2058457505014165504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEcMdObMAAZ-qE.jpg",
+        "width": 2250
+      },
+      {
+        "height": 3508,
+        "media_key": "3_2058457505014120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEcMdOagAAx-W1.jpg",
+        "width": 2340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058457505026781184",
+            "3_2058457505014165504",
+            "3_2058457505014120448"
+          ],
+          "media_source_tweet_id": [
+            "2058457538572742864",
+            "2058457538572742864",
+            "2058457538572742864"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          }
+        ],
+        "conversation_id": "2058514730105581961",
+        "created_at": "2026-05-24T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058514730105581961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "라이즈"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "RIIZE"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "원빈"
+            },
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "WONBIN"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "ウォンビン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1848862615638052865",
+              "start": 3,
+              "username": "10Degrees0904"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 92,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505026781184",
+              "start": 69,
+              "url": "https://t.co/8NxyIFRgmx"
+            },
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 92,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505014165504",
+              "start": 69,
+              "url": "https://t.co/8NxyIFRgmx"
+            },
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 92,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505014120448",
+              "start": 69,
+              "url": "https://t.co/8NxyIFRgmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058514730105581961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058457538572742864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Degrees0904: 260524 Channel B\n\n#라이즈 #RIIZE \n#원빈 #WONBIN #ウォンビン https://t.co/8NxyIFRgmx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058457505026781184",
+            "3_2058457505014165504",
+            "3_2058457505014120448"
+          ]
+        },
+        "author_id": "1848862615638052865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Won Bin",
+              "id": "1063175117792993280",
+              "name": "Won Bin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          }
+        ],
+        "conversation_id": "2058457538572742864",
+        "created_at": "2026-05-24T07:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058457538572742864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "라이즈"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "RIIZE"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "원빈"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "WONBIN"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "ウォンビン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 73,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505026781184",
+              "start": 50,
+              "url": "https://t.co/8NxyIFRgmx"
+            },
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 73,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505014165504",
+              "start": 50,
+              "url": "https://t.co/8NxyIFRgmx"
+            },
+            {
+              "display_url": "pic.x.com/8NxyIFRgmx",
+              "end": 73,
+              "expanded_url": "https://x.com/10Degrees0904/status/2058457538572742864/photo/1",
+              "media_key": "3_2058457505014120448",
+              "start": 50,
+              "url": "https://t.co/8NxyIFRgmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058457538572742864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 18675,
+          "like_count": 1435,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "reply_settings": "everyone",
+        "text": "260524 Channel B\n\n#라이즈 #RIIZE \n#원빈 #WONBIN #ウォンビン https://t.co/8NxyIFRgmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 87,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T23:03:47.000Z",
+        "description": "fan account🐈‍⬛",
+        "id": "1848862615638052865",
+        "name": "10Degrees",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878802937369305088/rCf8XlpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 35,
+          "media_count": 111,
+          "tweet_count": 116
+        },
+        "username": "10Degrees0904",
+        "verified": true
+      }
+    ]
+  }
+}

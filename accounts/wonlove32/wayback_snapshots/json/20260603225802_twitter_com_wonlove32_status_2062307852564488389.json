@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2062167008230388172",
+    "created_at": "2026-06-03T22:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T23:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062307852564488389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062307852564488389",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062167008230388172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 y应该是o错了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2062167008230388172",
+        "created_at": "2026-06-03T22:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062307852564488389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062307852564488389",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062167008230388172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 y应该是o错了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2062167008230388172",
+        "created_at": "2026-06-03T13:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062167008230388172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062167008230388172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们od到底怎么有幻觉的，我之前o过一次止痛药然后药味充斥鼻腔 浑身发冷差点死了…最后催吐活过来的…然后就讨厌所有西药了一吃就想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 90,
+          "like_count": 1580,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1171
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 自伤/喜欢美丽伤口/想刺青\n排名第一的哥哥@elkvika 😋\n最喜欢的小宝宝是寿司司@Niki8964quq  \n匿名箱https://t.co/ut4i56f9mf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "elkvika"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Niki8964quq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 92,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 69,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "520m",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2061301513969189290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 10,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 376
+        },
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

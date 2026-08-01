@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2061981387956388096",
+    "created_at": "2026-06-03T01:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061981387956388096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051480686327156736",
+          "start": 3,
+          "username": "King_fn1224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061981387956388096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061791608794956142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @King_fn1224: 我们真的有感情吗，无非就是问问在干嘛，无非就是早安晚安打打游戏发发呆，没话讲就发表情包耗下去，一点意义也没有，你好像从来不好奇我是怎样的人，半夜睡不着觉的时候在干嘛，我发的朋友圈是什么意思，我改的个性签名是啥意思，我的社交圈我的朋友我的爱好，你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2061981387956388096",
+        "created_at": "2026-06-03T01:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061981387956388096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051480686327156736",
+              "start": 3,
+              "username": "King_fn1224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061981387956388096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061791608794956142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @King_fn1224: 我们真的有感情吗，无非就是问问在干嘛，无非就是早安晚安打打游戏发发呆，没话讲就发表情包耗下去，一点意义也没有，你好像从来不好奇我是怎样的人，半夜睡不着觉的时候在干嘛，我发的朋友圈是什么意思，我改的个性签名是啥意思，我的社交圈我的朋友我的爱好，你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051480686327156736",
+        "conversation_id": "2061791608794956142",
+        "created_at": "2026-06-02T12:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061791608794956142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061791608794956142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8000,
+          "like_count": 338,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "我们真的有感情吗，无非就是问问在干嘛，无非就是早安晚安打打游戏发发呆，没话讲就发表情包耗下去，一点意义也没有，你好像从来不好奇我是怎样的人，半夜睡不着觉的时候在干嘛，我发的朋友圈是什么意思，我改的个性签名是啥意思，我的社交圈我的朋友我的爱好，你好像都通通都不在乎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1154
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T01:57:04.000Z",
+        "description": "过🚪看大号@shuigehaijao124 ｜07｜天蝎座♏️｜请提醒我天天开心 喜欢的话可以投喂一下我吗ovo ｜接瓦🥣（命苦的学生党只能周末玩…）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "shuigehaijao124"
+              }
+            ]
+          }
+        },
+        "id": "2051480686327156736",
+        "location": "不约不线下 希望你们天天开心睡个好觉",
+        "name": "骂我只会爽",
+        "pinned_tweet_id": "2051487357480870369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051481533069008896/mCtpuVqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 3,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 96
+        },
+        "username": "King_fn1224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2063014158040477923",
+    "created_at": "2026-06-05T21:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T22:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063014158040477923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717910688168108032",
+          "start": 3,
+          "username": "heizhongcao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063014158040477923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062820298798587915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @heizhongcao: 那些创伤完全没有让人变强大，它让我变得不像一个正常人，没法正常的完成一件事情，没法正常的表达自己的情绪，没法正常的处理事情，也没有办法实现正常人的成长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2063014158040477923",
+        "created_at": "2026-06-05T21:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063014158040477923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717910688168108032",
+              "start": 3,
+              "username": "heizhongcao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063014158040477923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062820298798587915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @heizhongcao: 那些创伤完全没有让人变强大，它让我变得不像一个正常人，没法正常的完成一件事情，没法正常的表达自己的情绪，没法正常的处理事情，也没有办法实现正常人的成长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717910688168108032",
+        "conversation_id": "2062820298798587915",
+        "created_at": "2026-06-05T08:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062820298798587915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062820298798587915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 382,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "那些创伤完全没有让人变强大，它让我变得不像一个正常人，没法正常的完成一件事情，没法正常的表达自己的情绪，没法正常的处理事情，也没有办法实现正常人的成长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013970374725632/KxHFbW45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 90,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1185
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T14:26:53.000Z",
+        "description": "前往幸福的彼端",
+        "id": "1717910688168108032",
+        "name": "黑种草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918266390689267715/seJqV9JS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 320,
+          "like_count": 36601,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 12395
+        },
+        "username": "heizhongcao",
+        "verified": false
+      }
+    ]
+  }
+}

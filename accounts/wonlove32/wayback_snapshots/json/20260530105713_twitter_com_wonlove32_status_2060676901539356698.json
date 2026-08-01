@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060676826322878464",
+        "3_2060676826297688064"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2060676901539356698",
+    "created_at": "2026-05-30T10:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060676901539356698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYFkj9i1HA",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2060676901539356698/video/1",
+          "media_key": "13_2060676826322878464",
+          "start": 14,
+          "url": "https://t.co/mYFkj9i1HA"
+        },
+        {
+          "display_url": "pic.x.com/mYFkj9i1HA",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2060676901539356698/video/1",
+          "media_key": "3_2060676826297688064",
+          "start": 14,
+          "url": "https://t.co/mYFkj9i1HA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060676901539356698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我幸福晕了今晚一直在卖萌🌚 https://t.co/mYFkj9i1HA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060676901539356698].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060676901539356698",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060676901539356698"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8701,
+        "height": 544,
+        "media_key": "13_2060676826322878464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060676826322878464/img/jKsisiIW1oXDVwqx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060676826322878464/vid/avc1/476x270/knof2Q2GsFZ3v5id.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060676826322878464/vid/avc1/634x360/DH2acG1fsXLAM2rV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060676826322878464/vid/avc1/960x544/bCwExHDysdG_T6Bb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060676826322878464/pl/dJKWLyHysm2x3OrS.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060676826297688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj-p9RaYAASeY1.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481643803189248/h9w2L8NY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 88,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1094
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

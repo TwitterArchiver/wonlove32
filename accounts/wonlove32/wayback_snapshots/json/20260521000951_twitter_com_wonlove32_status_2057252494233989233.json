@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057252494233989233",
+    "created_at": "2026-05-21T00:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057252494233989233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622615522872545281",
+          "start": 3,
+          "username": "mianbaogou04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057252494233989233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056078648625774660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mianbaogou04: 喜欢一个人就应该一直喜欢啊，对对方充满好奇 占有  控制   窥探欲望这才是喜欢  聊那么两三天半个月的突然冷淡了是啥意思啊 你告诉这是你这是什么意思呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057252494233989233",
+        "created_at": "2026-05-21T00:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057252494233989233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622615522872545281",
+              "start": 3,
+              "username": "mianbaogou04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057252494233989233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056078648625774660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mianbaogou04: 喜欢一个人就应该一直喜欢啊，对对方充满好奇 占有  控制   窥探欲望这才是喜欢  聊那么两三天半个月的突然冷淡了是啥意思啊 你告诉这是你这是什么意思呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622615522872545281",
+        "conversation_id": "2056078648625774660",
+        "created_at": "2026-05-17T18:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056078648625774660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056078648625774660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 56507,
+          "like_count": 1375,
+          "quote_count": 9,
+          "reply_count": 94,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢一个人就应该一直喜欢啊，对对方充满好奇 占有  控制   窥探欲望这才是喜欢  聊那么两三天半个月的突然冷淡了是啥意思啊 你告诉这是你这是什么意思呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 88,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T15:17:52.000Z",
+        "description": "04 直男 单身 enfp 服务型  喜年上   高敏感  互关+v  谢谢关注 谢谢投喂",
+        "id": "1622615522872545281",
+        "location": "石家庄",
+        "name": "面包狗的咕嘟日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657800547905449984/fQuq4kzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 267,
+          "like_count": 18482,
+          "listed_count": 7,
+          "media_count": 39,
+          "tweet_count": 403
+        },
+        "username": "mianbaogou04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049973709797249430",
+    "created_at": "2026-04-30T22:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049973709797249430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/fadai202202/status/2049806572571000848",
+          "start": 2,
+          "url": "https://t.co/DbSqMvy93z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049973709797249430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049806572571000848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/DbSqMvy93z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2049973709797249430",
+        "created_at": "2026-04-30T22:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049973709797249430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/fadai202202/status/2049806572571000848",
+              "start": 2,
+              "url": "https://t.co/DbSqMvy93z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049973709797249430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049806572571000848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/DbSqMvy93z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2049806572571000848",
+        "created_at": "2026-04-30T11:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049806572571000848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049806572571000848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9825,
+          "like_count": 131,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "盘点一有啥事只会疯狂搜小红书和疯狂发推特的奇女子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 53,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n只有一个号",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6361,
+          "following_count": 11,
+          "like_count": 589,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 554
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

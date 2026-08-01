@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059478971134386566",
+    "created_at": "2026-05-27T04:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059492740686319853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2043518388971192320",
+          "start": 0,
+          "username": "Yanvy2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059492740686319853",
+    "in_reply_to_user_id": "2043518388971192320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059492396816376117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanvy2w 我私信你😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059478971134386566",
+        "created_at": "2026-05-27T04:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059492740686319853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2043518388971192320",
+              "start": 0,
+              "username": "Yanvy2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059492740686319853",
+        "in_reply_to_user_id": "2043518388971192320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059492396816376117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanvy2w 我私信你😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043518388971192320",
+        "conversation_id": "2059478971134386566",
+        "created_at": "2026-05-27T04:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059492396816376117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059492396816376117",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059478971134386566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 怎么了宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 89,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1047
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T02:36:36.000Z",
+        "description": "谢谢泥的follow喵！！！\n重度哥控 可以找我聊天啊（求你了）\n见人说人话 见鬼说鬼话\n钟意性幻想且反差\n傻逼勿扰 妹宝我亲你",
+        "id": "2043518388971192320",
+        "name": "一键删除贱人存在证明",
+        "pinned_tweet_id": "2059163061253259279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043977070431350788/huS5xesM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 104,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 254
+        },
+        "username": "Yanvy2w",
+        "verified": false
+      }
+    ]
+  }
+}

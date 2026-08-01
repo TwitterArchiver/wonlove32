@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047308194209476778",
+    "created_at": "2026-04-23T13:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047311649997251016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012407666031628288",
+          "start": 0,
+          "username": "Qingy1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047311649997251016",
+    "in_reply_to_user_id": "2012407666031628288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047310452175319305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingy1121 可以但是一次只能买两盒😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047308194209476778",
+        "created_at": "2026-04-23T13:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047311649997251016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012407666031628288",
+              "start": 0,
+              "username": "Qingy1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047311649997251016",
+        "in_reply_to_user_id": "2012407666031628288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047310452175319305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingy1121 可以但是一次只能买两盒😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012407666031628288",
+        "conversation_id": "2047308194209476778",
+        "created_at": "2026-04-23T13:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047310452175319305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047310452175319305",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047308194209476778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我靠 真的可以吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 62,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T06:12:37.000Z",
+        "description": "转生成为只有攻略貌美腹黑温柔系妹妹头达成happy ending的苦高中生/点赞你是喜欢你 一直点赞你就是一直喜欢你/🗝@Yinairrsen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Yinairrsen"
+              }
+            ]
+          }
+        },
+        "id": "2012407666031628288",
+        "name": "Unica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043881590779150336/MR8L9vQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 179
+        },
+        "username": "Qingy1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045933897842913506",
+    "created_at": "2026-04-19T18:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045933897842913506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovouo13/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ovouo13/status/2045802956021502373",
+          "start": 5,
+          "url": "https://t.co/1d7NrPftIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045933897842913506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045802956021502373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/1d7NrPftIV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045933897842913506",
+        "created_at": "2026-04-19T18:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045933897842913506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovouo13/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ovouo13/status/2045802956021502373",
+              "start": 5,
+              "url": "https://t.co/1d7NrPftIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045933897842913506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045802956021502373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/1d7NrPftIV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784528774643814400",
+        "conversation_id": "2045802956021502373",
+        "created_at": "2026-04-19T09:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045802956021502373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045802956021502373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23224,
+          "like_count": 364,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看到推上好多和我一样没做过爱但是存在排卵期的小女孩，我们好可怜吧！只能发发牢骚，说说骚话释放一下性压抑，除了口嗨啥也不敢做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 59,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T10:23:22.000Z",
+        "description": "唉 很无趣吧",
+        "id": "1784528774643814400",
+        "name": "鱼包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784529089082351616/4VUzLE9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "ovouo13",
+        "verified": false
+      }
+    ]
+  }
+}

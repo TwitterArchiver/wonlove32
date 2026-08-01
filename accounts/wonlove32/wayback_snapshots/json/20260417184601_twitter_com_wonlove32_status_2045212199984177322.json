@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045210006715244685",
+    "created_at": "2026-04-17T18:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045212199984177322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677777117566877696",
+          "start": 0,
+          "username": "AntiFraudCenter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045212199984177322",
+    "in_reply_to_user_id": "1677777117566877696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045211570435993980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntiFraudCenter 一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045210006715244685",
+        "created_at": "2026-04-17T18:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045212199984177322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677777117566877696",
+              "start": 0,
+              "username": "AntiFraudCenter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045212199984177322",
+        "in_reply_to_user_id": "1677777117566877696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045211570435993980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntiFraudCenter 一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677777117566877696",
+        "conversation_id": "2045210006715244685",
+        "created_at": "2026-04-17T18:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045211570435993980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045211570435993980",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045210006715244685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 那我的头像好看吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 54,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T20:30:35.000Z",
+        "description": "理想型:@Meruruye_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Meruruye_x"
+              }
+            ]
+          }
+        },
+        "id": "1677777117566877696",
+        "location": "霓虹町",
+        "name": "小三饿了打开冰箱发现老公在偷吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040532113364279296/d4dBcyH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 897,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 470
+        },
+        "username": "AntiFraudCenter",
+        "verified": false
+      }
+    ]
+  }
+}

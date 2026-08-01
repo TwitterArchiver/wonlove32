@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2071604151289774222",
+    "created_at": "2026-06-29T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071604508380352515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812340145892495360",
+          "start": 0,
+          "username": "wzujsg15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071604508380352515",
+    "in_reply_to_user_id": "1812340145892495360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071604151289774222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzujsg15 我磕药之后抽电子烟立马晕 好舒服。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2071604151289774222",
+        "created_at": "2026-06-29T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071604508380352515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812340145892495360",
+              "start": 0,
+              "username": "wzujsg15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071604508380352515",
+        "in_reply_to_user_id": "1812340145892495360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071604151289774222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzujsg15 我磕药之后抽电子烟立马晕 好舒服。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812340145892495360",
+        "conversation_id": "2071604151289774222",
+        "created_at": "2026-06-29T14:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071604151289774222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071604151289774222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有比颜悦还舒服的烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071602626232492032/E4di2wyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 88,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T04:15:52.000Z",
+        "description": "需要人陪",
+        "id": "1812340145892495360",
+        "name": "衬衣",
+        "pinned_tweet_id": "2029262432926138576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027837675764588545/OShNi1D6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "wzujsg15",
+        "verified": false
+      }
+    ]
+  }
+}

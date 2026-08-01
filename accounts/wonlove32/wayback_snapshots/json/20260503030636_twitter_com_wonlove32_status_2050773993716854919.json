@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2050773993716854919",
+    "created_at": "2026-05-03T03:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050773993716854919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2050472515714318412",
+          "start": 14,
+          "url": "https://t.co/D0WD3mRotJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050773993716854919",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050472515714318412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "必须是sweet talk https://t.co/D0WD3mRotJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2050773993716854919",
+        "created_at": "2026-05-03T03:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050773993716854919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2050472515714318412",
+              "start": 14,
+              "url": "https://t.co/D0WD3mRotJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050773993716854919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050472515714318412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须是sweet talk https://t.co/D0WD3mRotJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2050472515714318412",
+        "created_at": "2026-05-02T07:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050472515714318412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050472515714318412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 50923,
+          "like_count": 731,
+          "quote_count": 7,
+          "reply_count": 198,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得在做爱的时候两个人抱在一起然后在耳边喘息着说话是最色的做爱方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 55,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 3,
+          "like_count": 106,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 42
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

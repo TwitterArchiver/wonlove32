@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045213429217259520",
+        "3_2045213429217243137",
+        "3_2045213429217243136",
+        "3_2045213429208932352"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045213456207606078",
+    "created_at": "2026-04-17T18:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045213456207606078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lp7IOq5jS4",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+          "media_key": "3_2045213429217259520",
+          "start": 14,
+          "url": "https://t.co/lp7IOq5jS4"
+        },
+        {
+          "display_url": "pic.x.com/lp7IOq5jS4",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+          "media_key": "3_2045213429217243137",
+          "start": 14,
+          "url": "https://t.co/lp7IOq5jS4"
+        },
+        {
+          "display_url": "pic.x.com/lp7IOq5jS4",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+          "media_key": "3_2045213429217243136",
+          "start": 14,
+          "url": "https://t.co/lp7IOq5jS4"
+        },
+        {
+          "display_url": "pic.x.com/lp7IOq5jS4",
+          "end": 37,
+          "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+          "media_key": "3_2045213429208932352",
+          "start": 14,
+          "url": "https://t.co/lp7IOq5jS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045213456207606078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好喜欢她 想跟她玩一辈子 https://t.co/lp7IOq5jS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_2045213429217259520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIOxyJacAAZW0y.jpg",
+        "width": 1004
+      },
+      {
+        "height": 1641,
+        "media_key": "3_2045213429217243137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIOxyJaMAEktg9.jpg",
+        "width": 1002
+      },
+      {
+        "height": 1909,
+        "media_key": "3_2045213429217243136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIOxyJaMAACI3o.jpg",
+        "width": 1007
+      },
+      {
+        "height": 1989,
+        "media_key": "3_2045213429208932352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIOxyHbYAAxuy-.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045213429217259520",
+            "3_2045213429217243137",
+            "3_2045213429217243136",
+            "3_2045213429208932352"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045213456207606078",
+        "created_at": "2026-04-17T18:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045213456207606078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lp7IOq5jS4",
+              "end": 37,
+              "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+              "media_key": "3_2045213429217259520",
+              "start": 14,
+              "url": "https://t.co/lp7IOq5jS4"
+            },
+            {
+              "display_url": "pic.x.com/lp7IOq5jS4",
+              "end": 37,
+              "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+              "media_key": "3_2045213429217243137",
+              "start": 14,
+              "url": "https://t.co/lp7IOq5jS4"
+            },
+            {
+              "display_url": "pic.x.com/lp7IOq5jS4",
+              "end": 37,
+              "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+              "media_key": "3_2045213429217243136",
+              "start": 14,
+              "url": "https://t.co/lp7IOq5jS4"
+            },
+            {
+              "display_url": "pic.x.com/lp7IOq5jS4",
+              "end": 37,
+              "expanded_url": "https://x.com/wonlove32/status/2045213456207606078/photo/1",
+              "media_key": "3_2045213429208932352",
+              "start": 14,
+              "url": "https://t.co/lp7IOq5jS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045213456207606078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢她 想跟她玩一辈子 https://t.co/lp7IOq5jS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 54,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

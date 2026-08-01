@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064654320919076864"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064654332784681207",
+    "created_at": "2026-06-10T10:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064654332784681207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5NDF20JZDv",
+          "end": 32,
+          "expanded_url": "https://x.com/wonlove32/status/2064654332784681207/photo/1",
+          "media_key": "3_2064654320919076864",
+          "start": 9,
+          "url": "https://t.co/5NDF20JZDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064654332784681207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。刚睡醒被吓晕了 https://t.co/5NDF20JZDv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064654332784681207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064654332784681207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064654332784681207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064654320919076864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcgKnZbYAAgU_v.jpg",
+        "width": 584
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063368408952164352/6Av-OMtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 90,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1210
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045109766490595567",
+    "created_at": "2026-04-17T15:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045168537057345864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892238817945616384",
+          "start": 0,
+          "username": "Iwannabe_fled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045168537057345864",
+    "in_reply_to_user_id": "1892238817945616384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045160244523978838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwannabe_fled 闺蜜我要跟你互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045109766490595567",
+        "created_at": "2026-04-17T15:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045168537057345864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892238817945616384",
+              "start": 0,
+              "username": "Iwannabe_fled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168537057345864",
+        "in_reply_to_user_id": "1892238817945616384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045160244523978838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwannabe_fled 闺蜜我要跟你互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892238817945616384",
+        "conversation_id": "2045109766490595567",
+        "created_at": "2026-04-17T15:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045160244523978838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045160244523978838",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045109766490595567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 52,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:44:45.000Z",
+        "description": "난 네가 싫어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/0Q7PMMu2…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/0Q7PMMu2ZDQDF5VjlCOBfc?si=1e005a282d0a4992",
+                "start": 0,
+                "url": "https://t.co/0qNWambDAL"
+              }
+            ]
+          }
+        },
+        "id": "1892238817945616384",
+        "location": "Chine",
+        "name": "oiaaa",
+        "pinned_tweet_id": "2014918826983621060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043933594088026112/YIOj0Gkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 46,
+          "like_count": 2134,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/0qNWambDAL",
+        "username": "Iwannabe_fled",
+        "verified": false
+      }
+    ]
+  }
+}

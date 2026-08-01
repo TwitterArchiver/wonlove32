@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045230824602415506",
+    "created_at": "2026-04-17T20:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045242088309285228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045242088309285228",
+    "in_reply_to_user_id": "2041827098244046848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045230824602415506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这里说的喜欢 是想跟我谈恋爱那种喜欢，如果是想跟我当朋友的那种喜欢我还是很欢迎的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045230824602415506",
+        "created_at": "2026-04-17T20:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045242088309285228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045242088309285228",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045230824602415506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这里说的喜欢 是想跟我谈恋爱那种喜欢，如果是想跟我当朋友的那种喜欢我还是很欢迎的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045230824602415506",
+        "created_at": "2026-04-17T20:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045230824602415506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045230824602415506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要认识几天就说喜欢我，其实只是看我在推特上太骚了带着别的目的接近我的吧。我被伤过很多次所以根本不相信这种感情，好听的话谁都会说，谁知道是不是也对别人这样。只要了解我的过去和性格就会发现我是个很差劲的人，如果不是在推特认识我的话或许我还有兴趣交流下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 54,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059487108692324438",
+    "created_at": "2026-05-27T04:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059487108692324438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1957852552286060544",
+          "start": 3,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059487108692324438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058924012236071229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qi_si72468: 我喜欢年上。\n我喜欢的不是那种只有年龄长了心理年龄像个弱智的年上，是那种能提供真正的相应的安全感和很多有用的东西的年上。\n其实这样看更偏向于我喜欢这种感觉，就算是一个靠谱的年下也会因为这些被我喜欢上的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059487108692324438",
+        "created_at": "2026-05-27T04:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059487108692324438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1957852552286060544",
+              "start": 3,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059487108692324438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058924012236071229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qi_si72468: 我喜欢年上。\n我喜欢的不是那种只有年龄长了心理年龄像个弱智的年上，是那种能提供真正的相应的安全感和很多有用的东西的年上。\n其实这样看更偏向于我喜欢这种感觉，就算是一个靠谱的年下也会因为这些被我喜欢上的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957852552286060544",
+        "conversation_id": "2058924012236071229",
+        "created_at": "2026-05-25T14:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058924012236071229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058924012236071229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 848,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢年上。\n我喜欢的不是那种只有年龄长了心理年龄像个弱智的年上，是那种能提供真正的相应的安全感和很多有用的东西的年上。\n其实这样看更偏向于我喜欢这种感觉，就算是一个靠谱的年下也会因为这些被我喜欢上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 89,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1046
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2048705021244817843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 95,
+          "like_count": 8212,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

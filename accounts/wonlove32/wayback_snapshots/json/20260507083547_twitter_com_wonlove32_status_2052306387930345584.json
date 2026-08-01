@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2052304920683147551",
+    "created_at": "2026-05-07T08:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052306387930345584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964686739282526208",
+          "start": 0,
+          "username": "NewNewHowYoung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052306387930345584",
+    "in_reply_to_user_id": "1964686739282526208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052304920683147551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewNewHowYoung 有点好奇 为什么这么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2052304920683147551",
+        "created_at": "2026-05-07T08:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052306387930345584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964686739282526208",
+              "start": 0,
+              "username": "NewNewHowYoung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052306387930345584",
+        "in_reply_to_user_id": "1964686739282526208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052304920683147551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewNewHowYoung 有点好奇 为什么这么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964686739282526208",
+        "conversation_id": "2052304920683147551",
+        "created_at": "2026-05-07T08:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052304920683147551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052304920683147551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有女朋友/男朋友，或者没有过女朋友/男朋友 的禁止讨论男女平权问题🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052268018575810560/rmu9Na2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 62,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:46:53.000Z",
+        "description": "",
+        "id": "1964686739282526208",
+        "location": "距离你21km",
+        "name": "宇宙无敌大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968123970730987522/JBqM22MT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 572,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 609
+        },
+        "username": "NewNewHowYoung",
+        "verified": false
+      }
+    ]
+  }
+}

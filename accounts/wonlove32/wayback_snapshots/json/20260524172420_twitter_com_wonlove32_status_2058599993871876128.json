@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1957678884528234496",
+          "name": "RIIZE"
+        }
+      }
+    ],
+    "conversation_id": "2058599993871876128",
+    "created_at": "2026-05-24T17:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058599993871876128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1643869479536050176",
+          "start": 3,
+          "username": "RIIZE_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/mELUgt",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/mELUgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058599993871876128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058563994710114787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIIZE_official: 'II' Trailer Photo : No Fear\n\nRIIZE 라이즈 The 2nd Mini Album 【II】 \n➫ 2026.06.15 6PM (KST)\n\n💿Pre-order\nhttps://t.co/mELUgt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2058558277211004928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF32K6aIAACL9J.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2058558284865650688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF32nbawAAYA9X.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2058558292289605632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF33DFbUAAXBPt.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2058558303651979265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF33tabYAEXf57.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          }
+        ],
+        "conversation_id": "2058599993871876128",
+        "created_at": "2026-05-24T17:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058599993871876128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1643869479536050176",
+              "start": 3,
+              "username": "RIIZE_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/mELUgt",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/mELUgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058599993871876128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058563994710114787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIIZE_official: 'II' Trailer Photo : No Fear\n\nRIIZE 라이즈 The 2nd Mini Album 【II】 \n➫ 2026.06.15 6PM (KST)\n\n💿Pre-order\nhttps://t.co/mELUgt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058558277211004928",
+            "3_2058558284865650688",
+            "3_2058558292289605632",
+            "3_2058558303651979265"
+          ]
+        },
+        "author_id": "1643869479536050176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1957678884528234496",
+              "name": "RIIZE"
+            }
+          }
+        ],
+        "conversation_id": "2058563994710114787",
+        "created_at": "2026-05-24T15:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058563994710114787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 127,
+              "tag": "RIIZE"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "라이즈"
+            },
+            {
+              "end": 154,
+              "start": 139,
+              "tag": "RISEandREALIZE"
+            },
+            {
+              "end": 159,
+              "start": 155,
+              "tag": "dyd"
+            },
+            {
+              "end": 170,
+              "start": 160,
+              "tag": "RIIZE_dyd"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Go to II - The 2nd Mini Album.",
+              "display_url": "RIIZE.lnk.to/two",
+              "end": 123,
+              "expanded_url": "http://RIIZE.lnk.to/two",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2057703004069908480/B-DTU8PT?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057703004069908480/B-DTU8PT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "II - The 2nd Mini Album",
+              "unwound_url": "https://riize.lnk.to/two",
+              "url": "https://t.co/mELUgtnoLK"
+            },
+            {
+              "display_url": "pic.x.com/nTsmdNnZIv",
+              "end": 194,
+              "expanded_url": "https://x.com/RIIZE_official/status/2058563994710114787/photo/1",
+              "media_key": "3_2058558277211004928",
+              "start": 171,
+              "url": "https://t.co/nTsmdNnZIv"
+            },
+            {
+              "display_url": "pic.x.com/nTsmdNnZIv",
+              "end": 194,
+              "expanded_url": "https://x.com/RIIZE_official/status/2058563994710114787/photo/1",
+              "media_key": "3_2058558284865650688",
+              "start": 171,
+              "url": "https://t.co/nTsmdNnZIv"
+            },
+            {
+              "display_url": "pic.x.com/nTsmdNnZIv",
+              "end": 194,
+              "expanded_url": "https://x.com/RIIZE_official/status/2058563994710114787/photo/1",
+              "media_key": "3_2058558292289605632",
+              "start": 171,
+              "url": "https://t.co/nTsmdNnZIv"
+            },
+            {
+              "display_url": "pic.x.com/nTsmdNnZIv",
+              "end": 194,
+              "expanded_url": "https://x.com/RIIZE_official/status/2058563994710114787/photo/1",
+              "media_key": "3_2058558303651979265",
+              "start": 171,
+              "url": "https://t.co/nTsmdNnZIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058563994710114787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 367530,
+          "like_count": 20187,
+          "quote_count": 1915,
+          "reply_count": 325,
+          "retweet_count": 15213
+        },
+        "reply_settings": "everyone",
+        "text": "'II' Trailer Photo : No Fear\n\nRIIZE 라이즈 The 2nd Mini Album 【II】 \n➫ 2026.06.15 6PM (KST)\n\n💿Pre-order\nhttps://t.co/mELUgtnoLK  \n\n#RIIZE #라이즈\n#RISEandREALIZE\n#dyd #RIIZE_dyd https://t.co/nTsmdNnZIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 87,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T06:54:12.000Z",
+        "description": "RIIZE 라이즈 The 2nd Mini Album 【II】 \n➫ 2026.06.15 6PM (KST)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "riizeofficial.com",
+                "end": 23,
+                "expanded_url": "https://riizeofficial.com",
+                "start": 0,
+                "url": "https://t.co/4bYNucyKH5"
+              }
+            ]
+          }
+        },
+        "id": "1643869479536050176",
+        "name": "RIIZE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057476523507306496/OBfOeYXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882511,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 1720,
+          "media_count": 2193,
+          "tweet_count": 3222
+        },
+        "url": "https://t.co/4bYNucyKH5",
+        "username": "RIIZE_official",
+        "verified": true
+      }
+    ]
+  }
+}

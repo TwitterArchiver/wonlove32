@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2081152200416563497",
+    "created_at": "2026-07-25T22:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081152200416563497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081152200416563497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想变成小猫然后心安理得依赖所有人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2081152200416563497",
+        "created_at": "2026-07-25T22:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081152200416563497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081152200416563497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想变成小猫然后心安理得依赖所有人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "ヾ(・∞・)う..",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2081143187838841277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080757542980878336/Z4fu6mX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 89,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043625990262497346",
+    "created_at": "2026-04-13T09:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043625990262497346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043625990262497346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043532369328791787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 我真的特别喜欢有深度且坦诚的人。我们完全可以谈论大自然、死亡、性、世界、人类、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度。可人与人只要一相交，总是会因为不坦诚而渐渐远离，挺可悲的。不知道什么时候开始…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043625990262497346",
+        "created_at": "2026-04-13T09:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043625990262497346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043625990262497346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043532369328791787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 我真的特别喜欢有深度且坦诚的人。我们完全可以谈论大自然、死亡、性、世界、人类、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度。可人与人只要一相交，总是会因为不坦诚而渐渐远离，挺可悲的。不知道什么时候开始…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-13T03:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043532369328791787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043532369328791787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 9414,
+          "like_count": 394,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢有深度且坦诚的人。我们完全可以谈论大自然、死亡、性、世界、人类、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度。可人与人只要一相交，总是会因为不坦诚而渐渐远离，挺可悲的。不知道什么时候开始大家都带上了让人看不懂的面具"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 19,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8215,
+          "following_count": 5,
+          "like_count": 1005,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1878
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

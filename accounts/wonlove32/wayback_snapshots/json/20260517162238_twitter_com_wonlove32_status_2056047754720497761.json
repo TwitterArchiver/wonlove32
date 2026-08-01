@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2055969557186318415",
+    "created_at": "2026-05-17T16:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056047754720497761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042467622093000704",
+          "start": 0,
+          "username": "hui04210524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056047754720497761",
+    "in_reply_to_user_id": "2042467622093000704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055969557186318415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui04210524 喜欢小动物的话可以试试去猫狗咖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2055969557186318415",
+        "created_at": "2026-05-17T16:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056047754720497761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042467622093000704",
+              "start": 0,
+              "username": "hui04210524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056047754720497761",
+        "in_reply_to_user_id": "2042467622093000704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055969557186318415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui04210524 喜欢小动物的话可以试试去猫狗咖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042467622093000704",
+        "conversation_id": "2055969557186318415",
+        "created_at": "2026-05-17T11:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055969557186318415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055969557186318415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的有適合精神病的工作嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056030860374401024/ao2RbkfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 84,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T05:00:12.000Z",
+        "description": "死馬馬斯克還我三個賬號，備用@4_hui916768",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "4_hui916768"
+              }
+            ]
+          }
+        },
+        "id": "2042467622093000704",
+        "name": "遺灰4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468438011203584/c6SR9OA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 276,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "username": "hui04210524",
+        "verified": false
+      }
+    ]
+  }
+}

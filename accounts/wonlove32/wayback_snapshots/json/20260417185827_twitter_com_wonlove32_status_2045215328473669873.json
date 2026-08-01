@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045215328473669873",
+    "created_at": "2026-04-17T18:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045215328473669873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030875315828891648",
+          "start": 3,
+          "username": "BLAWHILLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045215328473669873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045214237224792103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BLAWHILLL: 约炮还得给钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045215328473669873",
+        "created_at": "2026-04-17T18:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045215328473669873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030875315828891648",
+              "start": 3,
+              "username": "BLAWHILLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045215328473669873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045214237224792103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BLAWHILLL: 约炮还得给钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030875315828891648",
+        "conversation_id": "2045214237224792103",
+        "created_at": "2026-04-17T18:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045214237224792103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonlove32/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wonlove32/status/2044945046060126436",
+              "start": 8,
+              "url": "https://t.co/UCYOUBzAqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045214237224792103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044945046060126436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "约炮还得给钱。 https://t.co/UCYOUBzAqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 54,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T05:19:04.000Z",
+        "description": "",
+        "id": "2030875315828891648",
+        "name": "夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035068696784203776/PsIVpl7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "BLAWHILLL",
+        "verified": false
+      }
+    ]
+  }
+}

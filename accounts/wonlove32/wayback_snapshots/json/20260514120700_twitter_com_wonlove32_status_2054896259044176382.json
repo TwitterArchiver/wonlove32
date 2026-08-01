@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054856783660040504",
+    "created_at": "2026-05-14T12:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054896259044176382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573939488564604928",
+          "start": 0,
+          "username": "Really59763582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054896259044176382",
+    "in_reply_to_user_id": "1573939488564604928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054856783660040504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Really59763582 如家，300以内而且服务很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054856783660040504",
+        "created_at": "2026-05-14T12:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054896259044176382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573939488564604928",
+              "start": 0,
+              "username": "Really59763582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054896259044176382",
+        "in_reply_to_user_id": "1573939488564604928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054856783660040504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Really59763582 如家，300以内而且服务很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573939488564604928",
+        "conversation_id": "2054856783660040504",
+        "created_at": "2026-05-14T09:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054856783660040504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054856783660040504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3171,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我基本对酒店的要求就是干净，近两年开的最好，一个人住大城市我就300以内，不是很大的或者很多民宿我就150以内。这么久定来反正我没定过踩雷的，除了武汉又贵又丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054806468935761920/HqwHCApT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 81,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/不会骂人/推广自辨 /不线下不约/匿名：https://t.co/Hz6mCp3WqJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/really597635821",
+                "end": 48,
+                "expanded_url": "https://ngl.link/really597635821",
+                "start": 25,
+                "url": "https://t.co/Hz6mCp3WqJ"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "location": "🚪188/288",
+        "name": "芋泥麻薯蛋挞",
+        "pinned_tweet_id": "2048674827406557447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017653933800644608/o5GAj2yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17677,
+          "following_count": 192,
+          "like_count": 4059,
+          "listed_count": 34,
+          "media_count": 132,
+          "tweet_count": 2565
+        },
+        "username": "Really59763582",
+        "verified": false
+      }
+    ]
+  }
+}

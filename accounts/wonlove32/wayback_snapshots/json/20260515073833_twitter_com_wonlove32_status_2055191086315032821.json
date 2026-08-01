@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054888496889012593",
+    "created_at": "2026-05-15T07:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055191086315032821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979587317359939584",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055191086315032821",
+    "in_reply_to_user_id": "1979587317359939584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054888496889012593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 啊啊求教程。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054888422549114880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRuIg8aUAACuuC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054888496889012593",
+        "created_at": "2026-05-15T07:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055191086315032821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979587317359939584",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055191086315032821",
+        "in_reply_to_user_id": "1979587317359939584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054888496889012593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 啊啊求教程。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054888422549114880"
+          ]
+        },
+        "author_id": "1979587317359939584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054888496889012593",
+        "created_at": "2026-05-14T11:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054888496889012593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmbH44Pa48",
+              "end": 65,
+              "expanded_url": "https://x.com/SS12OW/status/2054888496889012593/photo/1",
+              "media_key": "3_2054888422549114880",
+              "start": 42,
+              "url": "https://t.co/kmbH44Pa48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054888496889012593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17782,
+          "like_count": 242,
+          "quote_count": 1,
+          "reply_count": 111,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当我不太饿的时候男朋友会给我做mini面\n给我做完之后他的面都面目全非了哈哈哈哈哈 https://t.co/kmbH44Pa48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054806468935761920/HqwHCApT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 82,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T16:36:39.000Z",
+        "description": "有对象｜可以叫我糯米🥰｜喜欢我可以给我打赏谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/Hgmfaaosne"
+              }
+            ]
+          }
+        },
+        "id": "1979587317359939584",
+        "location": "🚪13140",
+        "name": "糯米侠",
+        "pinned_tweet_id": "2052744180838068629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025257610543595525/wpRGU4kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 85,
+          "like_count": 354,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/Hgmfaaosne",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

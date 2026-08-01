@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2044043972020982031",
+    "created_at": "2026-04-14T13:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044051545944412274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043412581667205120",
+          "start": 0,
+          "username": "mimimio_44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044051545944412274",
+    "in_reply_to_user_id": "2043412581667205120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044043972020982031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimimio_44 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2044043972020982031",
+        "created_at": "2026-04-14T13:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044051545944412274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043412581667205120",
+              "start": 0,
+              "username": "mimimio_44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044051545944412274",
+        "in_reply_to_user_id": "2043412581667205120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044043972020982031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimio_44 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043412581667205120",
+        "conversation_id": "2044043972020982031",
+        "created_at": "2026-04-14T13:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044043972020982031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonlove32/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wonlove32/status/2043893397124268317",
+              "start": 12,
+              "url": "https://t.co/IAdq1jxs0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044043972020982031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043893397124268317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但性格像男生的猫很扣分 https://t.co/IAdq1jxs0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 27,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T19:37:06.000Z",
+        "description": "一些咪咪喵喵碎碎念",
+        "id": "2043412581667205120",
+        "name": "小苔",
+        "pinned_tweet_id": "2043416217629712458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043413901564342272/6jljSvLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "mimimio_44",
+        "verified": false
+      }
+    ]
+  }
+}

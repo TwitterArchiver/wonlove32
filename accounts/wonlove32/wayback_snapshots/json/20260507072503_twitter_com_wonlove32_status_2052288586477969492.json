@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2052266146695462986",
+    "created_at": "2026-05-07T07:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052288586477969492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052288586477969492",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052287651672138062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC omg。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2052266146695462986",
+        "created_at": "2026-05-07T07:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052288586477969492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052288586477969492",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052287651672138062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC omg。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2052266146695462986",
+        "created_at": "2026-05-07T07:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052287651672138062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 59,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E4%B8%BA%E5%AE%8C%E6%88%90%E6%9F%A5%E5%A4%84%E4%BB%BB%E5%8A%A1%EF%BC%8C%E2%80%9C%E8%AE%BE%E8%AE%A1%E2%80%9D%E8%AE%A96%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%B8%E6%AF%92%E5%86%8D%E6%9F%A5%E8%8E%B7%EF%BC%8C%E5%8D%97%E4%BA%AC%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E9%A9%AC%E6%9F%90%E7%8A%AF%E6%AC%BA%E9%AA%97%E4%BB%96%E4%BA%BA%E5%90%B8%E6%AF%92%E7%BD%AA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%88%915%E5%B9%B4.html",
+              "start": 36,
+              "status": 200,
+              "title": "为完成查处任务，“设计”让6名未成年人吸毒再查获，南京一派出所副所长马某犯欺骗他人吸毒罪一审被判刑5年 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E4%B8%BA%E5%AE%8C%E6%88%90%E6%9F%A5%E5%A4%84%E4%BB%BB%E5%8A%A1%EF%BC%8C%E2%80%9C%E8%AE%BE%E8%AE%A1%E2%80%9D%E8%AE%A96%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%B8%E6%AF%92%E5%86%8D%E6%9F%A5%E8%8E%B7%EF%BC%8C%E5%8D%97%E4%BA%AC%E4%B8%80%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E9%A9%AC%E6%9F%90%E7%8A%AF%E6%AC%BA%E9%AA%97%E4%BB%96%E4%BA%BA%E5%90%B8%E6%AF%92%E7%BD%AA%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%88%915%E5%B9%B4.html",
+              "url": "https://t.co/0ksGyQcuCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052287651672138062",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052286767945122277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 警察可以骗他们承认自己吸毒，合法地完成查处任务\n\nhttps://t.co/0ksGyQcuCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052268018575810560/rmu9Na2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 61,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 1007,
+          "like_count": 23405,
+          "listed_count": 11,
+          "media_count": 497,
+          "tweet_count": 7524
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

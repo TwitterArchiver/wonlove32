@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042865519339147269"
+      ],
+      "media_source_tweet_id": [
+        "2042867818249748830"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045804960705904813",
+    "created_at": "2026-04-19T10:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045804960705904813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HD74dYtWyZ",
+          "end": 30,
+          "expanded_url": "https://x.com/yihuaaart/status/2042867818249748830/video/1",
+          "media_key": "13_2042865519339147269",
+          "start": 7,
+          "url": "https://t.co/HD74dYtWyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045804960705904813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想被抱抱。 https://t.co/HD74dYtWyZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045804960705904813].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045804960705904813",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045804960705904813"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 562833,
+        "height": 720,
+        "media_key": "13_2042865519339147269",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042865519339147269/img/mXJ_ia1_xFYjxPwM.jpg",
+        "public_metrics": {
+          "view_count": 258927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042865519339147269/vid/avc1/480x270/tTta4eIJNA-sGoae.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042865519339147269/vid/avc1/640x360/KNDKlBf3hTvGJIlP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042865519339147269/vid/avc1/1280x720/dDR6tIdMMf1yS0oP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042865519339147269/pl/N8tvCu-9A_Jd9IAC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045168374779625472/Qy_w4yYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 57,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

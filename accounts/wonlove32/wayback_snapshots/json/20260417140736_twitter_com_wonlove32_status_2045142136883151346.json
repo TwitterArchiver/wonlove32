@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2045125598444675238",
+    "created_at": "2026-04-17T14:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045142136883151346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924635881069248512",
+          "start": 0,
+          "username": "imAaron_alun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045142136883151346",
+    "in_reply_to_user_id": "1924635881069248512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045129264153153964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imAaron_alun 那你对我滤镜也很重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2045125598444675238",
+        "created_at": "2026-04-17T14:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045142136883151346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924635881069248512",
+              "start": 0,
+              "username": "imAaron_alun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142136883151346",
+        "in_reply_to_user_id": "1924635881069248512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045129264153153964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imAaron_alun 那你对我滤镜也很重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924635881069248512",
+        "conversation_id": "2045125598444675238",
+        "created_at": "2026-04-17T13:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045129264153153964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045129264153153964",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045125598444675238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 wdf闺蜜，你是好宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 51,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T01:19:45.000Z",
+        "description": "我不会给你发屌，但你可以给我发屌",
+        "id": "1924635881069248512",
+        "name": "陈小群（见到我请喊我学数学）",
+        "pinned_tweet_id": "1924661282130825239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043649412195651584/ICx8kmVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 128
+        },
+        "username": "imAaron_alun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043684262558527488"
+      ],
+      "media_source_tweet_id": [
+        "2043684274453537048"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043808974735307023",
+    "created_at": "2026-04-13T21:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043808974735307023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5WfWoG4UW4",
+          "end": 55,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2043684274453537048/photo/1",
+          "media_key": "3_2043684262558527488",
+          "start": 32,
+          "url": "https://t.co/5WfWoG4UW4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043808974735307023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043684274453537048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 有人这么和我说我就痛哭 https://t.co/5WfWoG4UW4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2043684262558527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFygAkbbcAAmGA9.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043684262558527488"
+          ],
+          "media_source_tweet_id": [
+            "2043684274453537048"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043808974735307023",
+        "created_at": "2026-04-13T21:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043808974735307023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WfWoG4UW4",
+              "end": 55,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2043684274453537048/photo/1",
+              "media_key": "3_2043684262558527488",
+              "start": 32,
+              "url": "https://t.co/5WfWoG4UW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043808974735307023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043684274453537048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 有人这么和我说我就痛哭 https://t.co/5WfWoG4UW4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043684262558527488"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2043684274453537048",
+        "created_at": "2026-04-13T13:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043684274453537048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WfWoG4UW4",
+              "end": 35,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2043684274453537048/photo/1",
+              "media_key": "3_2043684262558527488",
+              "start": 12,
+              "url": "https://t.co/5WfWoG4UW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043684274453537048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 25331,
+          "like_count": 993,
+          "quote_count": 32,
+          "reply_count": 71,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "有人这么和我说我就痛哭 https://t.co/5WfWoG4UW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 18,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5514,
+          "following_count": 54,
+          "like_count": 5741,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1411
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

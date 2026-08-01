@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060420949900673024"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060420963188318294",
+    "created_at": "2026-05-29T18:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060420963188318294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTmGatgC02",
+          "end": 55,
+          "expanded_url": "https://x.com/wonlove32/status/2060420963188318294/photo/1",
+          "media_key": "3_2060420949900673024",
+          "start": 32,
+          "url": "https://t.co/wTmGatgC02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060420963188318294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我昨晚对时间已经没有概念了 凌晨六点问电线杆什么时候回去。 https://t.co/wTmGatgC02"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060420963188318294].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060420963188318294",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060420963188318294"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060420949900673024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgV7_aaQAA4sYH.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060351682291367936/NCycFbgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 88,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1086
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

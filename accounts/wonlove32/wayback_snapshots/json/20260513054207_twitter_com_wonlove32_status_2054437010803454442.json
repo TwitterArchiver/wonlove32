@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054437010803454442",
+    "created_at": "2026-05-13T05:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054437010803454442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2054360355728703650",
+          "start": 23,
+          "url": "https://t.co/W4uIfy8Jj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054437010803454442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054360355728703650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "adhd的共病又看不见了吗 一直在美化痛苦。 https://t.co/W4uIfy8Jj4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054437010803454442",
+        "created_at": "2026-05-13T05:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054437010803454442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2054360355728703650",
+              "start": 23,
+              "url": "https://t.co/W4uIfy8Jj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054437010803454442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054360355728703650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "adhd的共病又看不见了吗 一直在美化痛苦。 https://t.co/W4uIfy8Jj4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2054360355728703650",
+        "created_at": "2026-05-13T00:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054360355728703650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054360355728703650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20620,
+          "like_count": 257,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么会有ADHD这种病\n\n明明孩子天生就对世界充满了好奇，好动，爱玩是本性，整天被关在暗无天日的钢筋水泥盒子里，拴死在书桌上，任是哪个孩子也会心生不适....\n\n居然还有那么多人花大价钱培养孩子专注力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 75,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10727,
+          "following_count": 4296,
+          "like_count": 45768,
+          "listed_count": 35,
+          "media_count": 2205,
+          "tweet_count": 13667
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

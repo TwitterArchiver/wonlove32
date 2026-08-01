@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2046491244633956459",
+    "created_at": "2026-04-22T09:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046890323864117541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616490653218918400",
+          "start": 0,
+          "username": "MathewsSemela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046890323864117541",
+    "in_reply_to_user_id": "1616490653218918400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046886897621028908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MathewsSemela 加油^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2046491244633956459",
+        "created_at": "2026-04-22T09:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046890323864117541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616490653218918400",
+              "start": 0,
+              "username": "MathewsSemela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046890323864117541",
+        "in_reply_to_user_id": "1616490653218918400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046886897621028908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MathewsSemela 加油^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616490653218918400",
+        "conversation_id": "2046491244633956459",
+        "created_at": "2026-04-22T09:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046886897621028908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046886897621028908",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046491244633956459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我的剧情还没推进到你这）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045943444334669825/b4LJ2sAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 62,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:40:12.000Z",
+        "description": "男",
+        "id": "1616490653218918400",
+        "location": "China",
+        "name": "semela mathews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360332142739456/c9SQ2Eb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 366,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2510
+        },
+        "username": "MathewsSemela",
+        "verified": false
+      }
+    ]
+  }
+}

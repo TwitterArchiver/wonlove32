@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2041836251679261122",
+    "created_at": "2026-04-08T11:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041836251679261122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512075752",
+          "start": 3,
+          "username": "tofot3344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041836251679261122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041814826960482551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tofot3344: 什么叫做谁陪我我就喜欢谁 是我喜欢谁 谁才有资格陪我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2041836251679261122",
+        "created_at": "2026-04-08T11:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041836251679261122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512075752",
+              "start": 3,
+              "username": "tofot3344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041836251679261122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041814826960482551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tofot3344: 什么叫做谁陪我我就喜欢谁 是我喜欢谁 谁才有资格陪我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512075752",
+        "conversation_id": "2041814826960482551",
+        "created_at": "2026-04-08T09:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041814826960482551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041814826960482551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫做谁陪我我就喜欢谁 是我喜欢谁 谁才有资格陪我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-13T01:14:35.000Z",
+        "description": "粥 无畏契约陪玩d🚪d @oft8020",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "oft8020"
+              }
+            ]
+          }
+        },
+        "id": "1512075752",
+        "name": "tot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037666903607726080/G5kf6FY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "tofot3344",
+        "verified": false
+      }
+    ]
+  }
+}

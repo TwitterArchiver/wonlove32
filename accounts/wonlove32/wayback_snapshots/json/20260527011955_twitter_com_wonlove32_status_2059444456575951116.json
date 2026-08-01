@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059444456575951116",
+    "created_at": "2026-05-27T01:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059444456575951116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/2058835820665344488",
+          "start": 8,
+          "url": "https://t.co/KKSutc0Dt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059444456575951116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058835820665344488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我真不行了 https://t.co/KKSutc0Dt5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058835799093968897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0QEfagAEnWfr.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059444456575951116",
+        "created_at": "2026-05-27T01:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059444456575951116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/2058835820665344488",
+              "start": 8,
+              "url": "https://t.co/KKSutc0Dt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059444456575951116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058835820665344488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我真不行了 https://t.co/KKSutc0Dt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058835799093968897"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058835820665344488",
+        "created_at": "2026-05-25T09:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058835820665344488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbcLs80BUj",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2058835820665344488/photo/1",
+              "media_key": "3_2058835799093968897",
+              "start": 0,
+              "url": "https://t.co/nbcLs80BUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058835820665344488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 304695,
+          "like_count": 3378,
+          "quote_count": 23,
+          "reply_count": 127,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nbcLs80BUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 89,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1029
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120623,
+          "following_count": 1121,
+          "like_count": 52337,
+          "listed_count": 295,
+          "media_count": 21742,
+          "tweet_count": 32211
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

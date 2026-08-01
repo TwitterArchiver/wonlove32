@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2055211695019299242",
+    "created_at": "2026-05-15T18:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055357994519630327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "fakeeco_077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055357994519630327",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055211695019299242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakeeco_077 想要老爹站这个图纸˃ 𖥦 ˂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055211658012950528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWUHS4agAAd-5a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055211658038185984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWUHS-bkAAsJyt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055211658029744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWUHS8awAAIUPn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055211658013003776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWUHS4bUAADVWx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2055211695019299242",
+        "created_at": "2026-05-15T18:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055357994519630327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "fakeeco_077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055357994519630327",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055211695019299242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeeco_077 想要老爹站这个图纸˃ 𖥦 ˂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055211658012950528",
+            "3_2055211658038185984",
+            "3_2055211658029744128",
+            "3_2055211658013003776"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055211695019299242",
+        "created_at": "2026-05-15T09:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055211695019299242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGfp15m05F",
+              "end": 30,
+              "expanded_url": "https://x.com/fakeeco_077/status/2055211695019299242/photo/1",
+              "media_key": "3_2055211658012950528",
+              "start": 7,
+              "url": "https://t.co/jGfp15m05F"
+            },
+            {
+              "display_url": "pic.x.com/jGfp15m05F",
+              "end": 30,
+              "expanded_url": "https://x.com/fakeeco_077/status/2055211695019299242/photo/1",
+              "media_key": "3_2055211658038185984",
+              "start": 7,
+              "url": "https://t.co/jGfp15m05F"
+            },
+            {
+              "display_url": "pic.x.com/jGfp15m05F",
+              "end": 30,
+              "expanded_url": "https://x.com/fakeeco_077/status/2055211695019299242/photo/1",
+              "media_key": "3_2055211658029744128",
+              "start": 7,
+              "url": "https://t.co/jGfp15m05F"
+            },
+            {
+              "display_url": "pic.x.com/jGfp15m05F",
+              "end": 30,
+              "expanded_url": "https://x.com/fakeeco_077/status/2055211695019299242/photo/1",
+              "media_key": "3_2055211658013003776",
+              "start": 7,
+              "url": "https://t.co/jGfp15m05F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055211695019299242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼豆我拼拼拼 https://t.co/jGfp15m05F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055257802726338560/6TISjt39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 83,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "喜欢我就多给我钱让我生活得好一点 前世@momoko8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "momoko8964"
+              }
+            ]
+          }
+        },
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2040783751689441704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045159368359047168/Md0UhOmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 111,
+          "like_count": 3088,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1127
+        },
+        "username": "fakeeco_077",
+        "verified": false
+      }
+    ]
+  }
+}

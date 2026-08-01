@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058981571865219072"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2058981608645075379",
+    "created_at": "2026-05-25T18:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058981608645075379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pe6H7lOElA",
+          "end": 51,
+          "expanded_url": "https://x.com/wonlove32/status/2058981608645075379/photo/1",
+          "media_key": "3_2058981571865219072",
+          "start": 28,
+          "url": "https://t.co/pe6H7lOElA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058981608645075379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个好可爱呀可惜我没有原皮兔喵鸭 感觉摆蛋糕盒里更萌。 https://t.co/pe6H7lOElA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058981608645075379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058981608645075379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058981608645075379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058981571865219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJL41KYaEAAFjeg.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

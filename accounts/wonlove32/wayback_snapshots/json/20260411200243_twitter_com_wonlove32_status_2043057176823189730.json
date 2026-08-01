@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043028095507272082",
+    "created_at": "2026-04-11T20:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043057176823189730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042838965833662464",
+          "start": 0,
+          "username": "unipuwuda"
+        },
+        {
+          "end": 18,
+          "id": "1804454123955503104",
+          "start": 11,
+          "username": "lgy583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043057176823189730",
+    "in_reply_to_user_id": "2042838965833662464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043041323692036408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unipuwuda @lgy583 啥啊 我不是人机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043028095507272082",
+        "created_at": "2026-04-11T20:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043057176823189730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042838965833662464",
+              "start": 0,
+              "username": "unipuwuda"
+            },
+            {
+              "end": 18,
+              "id": "1804454123955503104",
+              "start": 11,
+              "username": "lgy583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043057176823189730",
+        "in_reply_to_user_id": "2042838965833662464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043041323692036408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unipuwuda @lgy583 啥啊 我不是人机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042838965833662464",
+        "conversation_id": "2043028095507272082",
+        "created_at": "2026-04-11T18:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043041323692036408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1804454123955503104",
+              "start": 0,
+              "username": "lgy583"
+            },
+            {
+              "end": 18,
+              "id": "2041827098244046848",
+              "start": 8,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043041323692036408",
+        "in_reply_to_user_id": "1804454123955503104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043032361756185075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgy583 @wonlove32 人机门姐 赞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 16,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T05:36:38.000Z",
+        "description": "04 喜欢刺激的事物",
+        "id": "2042838965833662464",
+        "location": "渝",
+        "name": "黑眼圈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043024018408902657/vG_oe9Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "unipuwuda",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T09:59:30.000Z",
+        "description": "",
+        "id": "1804454123955503104",
+        "name": "柳贯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804454244743094272/rmaYEut7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "lgy583",
+        "verified": false
+      }
+    ]
+  }
+}

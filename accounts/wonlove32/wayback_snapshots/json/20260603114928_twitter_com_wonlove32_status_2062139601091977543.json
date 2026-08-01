@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2062017781105860768",
+    "created_at": "2026-06-03T11:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062139601091977543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809604484173295620",
+          "start": 0,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062139601091977543",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062017781105860768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel bb想互关🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062017733945171968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3CNDhboAAxqoJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2062017763187785728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3COwdagAAHR3i.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062017760125952000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3COlDaoAA-o2f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2062017781105860768",
+        "created_at": "2026-06-03T11:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062139601091977543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062139601091977543",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062017781105860768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel bb想互关🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062017733945171968",
+            "3_2062017763187785728",
+            "3_2062017760125952000"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062017781105860768",
+        "created_at": "2026-06-03T03:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062017781105860768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1WLKbvZmdP",
+              "end": 83,
+              "expanded_url": "https://x.com/for_4ngel/status/2062017781105860768/photo/1",
+              "media_key": "3_2062017733945171968",
+              "start": 60,
+              "url": "https://t.co/1WLKbvZmdP"
+            },
+            {
+              "display_url": "pic.x.com/1WLKbvZmdP",
+              "end": 83,
+              "expanded_url": "https://x.com/for_4ngel/status/2062017781105860768/photo/1",
+              "media_key": "3_2062017763187785728",
+              "start": 60,
+              "url": "https://t.co/1WLKbvZmdP"
+            },
+            {
+              "display_url": "pic.x.com/1WLKbvZmdP",
+              "end": 83,
+              "expanded_url": "https://x.com/for_4ngel/status/2062017781105860768/photo/1",
+              "media_key": "3_2062017760125952000",
+              "start": 60,
+              "url": "https://t.co/1WLKbvZmdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062017781105860768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1462,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两年前还是个传奇耐药王什么雷霆药物都试过，最离谱的一次联用是普瑞巴林x盐酸美金刚x烷胺x多哌奈齐x左旋内多巴x普拉克索 https://t.co/1WLKbvZmdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 90,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1167
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 461,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 520
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

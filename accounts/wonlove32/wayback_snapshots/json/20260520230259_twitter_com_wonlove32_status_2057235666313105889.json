@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057235666313105889",
+    "created_at": "2026-05-20T23:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057235666313105889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1074915811482001408",
+          "start": 3,
+          "username": "_mrqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057235666313105889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057027422051242247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mrqn: 彼氏に毎日可愛いて言われながら生活したい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057235666313105889",
+        "created_at": "2026-05-20T23:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057235666313105889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1074915811482001408",
+              "start": 3,
+              "username": "_mrqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057235666313105889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057027422051242247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mrqn: 彼氏に毎日可愛いて言われながら生活したい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074915811482001408",
+        "conversation_id": "2057027422051242247",
+        "created_at": "2026-05-20T09:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057027422051242247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057027422051242247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8511,
+          "like_count": 333,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "彼氏に毎日可愛いて言われながら生活したい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-18T06:34:35.000Z",
+        "description": "",
+        "id": "1074915811482001408",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983722606776979456/3g88wG4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 84,
+          "like_count": 10119,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 6890
+        },
+        "username": "_mrqn",
+        "verified": false
+      }
+    ]
+  }
+}

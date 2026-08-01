@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053847564819005440",
+        "3_2053847564831559680"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053847584222183594",
+    "created_at": "2026-05-11T14:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053847584222183594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aH6XkZr7Sc",
+          "end": 56,
+          "expanded_url": "https://x.com/wonlove32/status/2053847584222183594/photo/1",
+          "media_key": "3_2053847564819005440",
+          "start": 33,
+          "url": "https://t.co/aH6XkZr7Sc"
+        },
+        {
+          "display_url": "pic.x.com/aH6XkZr7Sc",
+          "end": 56,
+          "expanded_url": "https://x.com/wonlove32/status/2053847584222183594/photo/1",
+          "media_key": "3_2053847564831559680",
+          "start": 33,
+          "url": "https://t.co/aH6XkZr7Sc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053847584222183594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我是二棒但现在二基本不发音了。我都记不清为什么突然就跑路了。 https://t.co/aH6XkZr7Sc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053847564819005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC7envWgAAGZnO.jpg",
+        "width": 872
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053847564831559680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC7enyWEAARHAc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053847564819005440",
+            "3_2053847564831559680"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053847584222183594",
+        "created_at": "2026-05-11T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053847584222183594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aH6XkZr7Sc",
+              "end": 56,
+              "expanded_url": "https://x.com/wonlove32/status/2053847584222183594/photo/1",
+              "media_key": "3_2053847564819005440",
+              "start": 33,
+              "url": "https://t.co/aH6XkZr7Sc"
+            },
+            {
+              "display_url": "pic.x.com/aH6XkZr7Sc",
+              "end": 56,
+              "expanded_url": "https://x.com/wonlove32/status/2053847584222183594/photo/1",
+              "media_key": "3_2053847564831559680",
+              "start": 33,
+              "url": "https://t.co/aH6XkZr7Sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053847584222183594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是二棒但现在二基本不发音了。我都记不清为什么突然就跑路了。 https://t.co/aH6XkZr7Sc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053833656339402752/BVSoZDmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 64,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

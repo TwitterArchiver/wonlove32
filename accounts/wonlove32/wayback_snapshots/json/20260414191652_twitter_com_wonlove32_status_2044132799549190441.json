@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2044111422574252116",
+    "created_at": "2026-04-14T19:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044132799549190441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1982053515867635712",
+          "start": 0,
+          "username": "CeciliaSte65164"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044132799549190441",
+    "in_reply_to_user_id": "1982053515867635712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044111422574252116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CeciliaSte65164 樱花猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2044111422574252116",
+        "created_at": "2026-04-14T19:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044132799549190441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1982053515867635712",
+              "start": 0,
+              "username": "CeciliaSte65164"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044132799549190441",
+        "in_reply_to_user_id": "1982053515867635712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044111422574252116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CeciliaSte65164 樱花猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982053515867635712",
+        "conversation_id": "2044111422574252116",
+        "created_at": "2026-04-14T17:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044111422574252116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044111422574252116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内有好用的梯子吗，用的免费梯子网也太卡了，有没有懂哥推荐点便宜网好的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 32,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:56:07.000Z",
+        "description": "",
+        "id": "1982053515867635712",
+        "name": "山田小凉子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043752565150818304/o8boUXUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "CeciliaSte65164",
+        "verified": false
+      }
+    ]
+  }
+}

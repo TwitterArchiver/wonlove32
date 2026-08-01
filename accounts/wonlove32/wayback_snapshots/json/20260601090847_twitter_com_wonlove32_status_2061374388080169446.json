@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061374373286813696"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2061374388080169446",
+    "created_at": "2026-06-01T09:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061374388080169446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uR61fpOt20",
+          "end": 23,
+          "expanded_url": "https://x.com/wonlove32/status/2061374388080169446/photo/1",
+          "media_key": "3_2061374373286813696",
+          "start": 0,
+          "url": "https://t.co/uR61fpOt20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061374388080169446",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uR61fpOt20"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061374388080169446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061374388080169446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061374388080169446"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2061374373286813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt5EiTaoAAtk5i.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061334636433956865/x8sehKfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 87,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1118
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2060357906755948992",
+    "created_at": "2026-05-29T13:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060357906755948992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1335261868223590401",
+          "start": 3,
+          "username": "yerayherr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060357906755948992",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059928050301554994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yerayherr: bro la gente de instagram viven una vida como que de otro planeta, puros viajes, restaurantes caros, no tienen que trabajar…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2060357906755948992",
+        "created_at": "2026-05-29T13:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060357906755948992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1335261868223590401",
+              "start": 3,
+              "username": "yerayherr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060357906755948992",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059928050301554994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yerayherr: bro la gente de instagram viven una vida como que de otro planeta, puros viajes, restaurantes caros, no tienen que trabajar…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335261868223590401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059928050301554994",
+        "created_at": "2026-05-28T09:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059928050301554994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059928050301554994",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2954,
+          "impression_count": 977750,
+          "like_count": 85676,
+          "quote_count": 454,
+          "reply_count": 579,
+          "retweet_count": 10375
+        },
+        "reply_settings": "everyone",
+        "text": "bro la gente de instagram viven una vida como que de otro planeta, puros viajes, restaurantes caros, no tienen que trabajar\n\naquí en twitter si es el guetto, puro endeudado, viejas vendiendo contenido y gente con salario mínimo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060351682291367936/NCycFbgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 88,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1084
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T16:37:01.000Z",
+        "description": "tuiteó todo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yeray.vpe",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yeray.vpe",
+                "start": 0,
+                "url": "https://t.co/v0K5hxumnE"
+              }
+            ]
+          }
+        },
+        "id": "1335261868223590401",
+        "location": "🇮🇨",
+        "name": "ًyeray•♡",
+        "pinned_tweet_id": "1574028456584790020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756067110114009088/t6G_H_hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8813,
+          "following_count": 96,
+          "like_count": 110800,
+          "listed_count": 41,
+          "media_count": 1139,
+          "tweet_count": 38344
+        },
+        "url": "https://t.co/v0K5hxumnE",
+        "username": "yerayherr",
+        "verified": false
+      }
+    ]
+  }
+}

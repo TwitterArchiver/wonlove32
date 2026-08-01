@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2044667116830257505",
+    "created_at": "2026-04-16T07:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044680387407020169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1673850165189578753",
+          "start": 0,
+          "username": "yyw27546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044680387407020169",
+    "in_reply_to_user_id": "1673850165189578753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044680182699618405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyw27546 我已经停药好久了感觉吃药只会让我变笨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2044667116830257505",
+        "created_at": "2026-04-16T07:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044680387407020169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1673850165189578753",
+              "start": 0,
+              "username": "yyw27546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044680387407020169",
+        "in_reply_to_user_id": "1673850165189578753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044680182699618405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyw27546 我已经停药好久了感觉吃药只会让我变笨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673850165189578753",
+        "conversation_id": "2044667116830257505",
+        "created_at": "2026-04-16T07:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044680182699618405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044680182699618405",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044667116830257505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 1爱自己2锻炼身体，别人欺负就打回去3吃抗抑郁药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 52,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T00:26:07.000Z",
+        "description": "三流诗人 烧开水第一名 求点赞关注",
+        "id": "1673850165189578753",
+        "name": "起名困难症犯了",
+        "pinned_tweet_id": "2043728281338331288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044613581874880515/VGNI_rGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 730,
+          "like_count": 774,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 636
+        },
+        "username": "yyw27546",
+        "verified": false
+      }
+    ]
+  }
+}

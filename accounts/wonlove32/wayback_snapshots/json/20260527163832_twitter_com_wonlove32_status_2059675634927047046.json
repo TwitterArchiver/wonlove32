@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057863449108164609"
+      ],
+      "media_source_tweet_id": [
+        "2057863455621918980"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059675634927047046",
+    "created_at": "2026-05-27T16:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059675634927047046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030304451127631872",
+          "start": 3,
+          "username": "foanax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rYZzSlRhPS",
+          "end": 57,
+          "expanded_url": "https://x.com/foanax/status/2057863455621918980/photo/1",
+          "media_key": "3_2057863449108164609",
+          "start": 34,
+          "url": "https://t.co/rYZzSlRhPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059675634927047046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057863455621918980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foanax: 反正就是时隔五万年重新发一个推图招魂一下。 https://t.co/rYZzSlRhPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057863449108164609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7_52haMAE_AXJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057863449108164609"
+          ],
+          "media_source_tweet_id": [
+            "2057863455621918980"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059675634927047046",
+        "created_at": "2026-05-27T16:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059675634927047046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030304451127631872",
+              "start": 3,
+              "username": "foanax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYZzSlRhPS",
+              "end": 57,
+              "expanded_url": "https://x.com/foanax/status/2057863455621918980/photo/1",
+              "media_key": "3_2057863449108164609",
+              "start": 34,
+              "url": "https://t.co/rYZzSlRhPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059675634927047046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057863455621918980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foanax: 反正就是时隔五万年重新发一个推图招魂一下。 https://t.co/rYZzSlRhPS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057863449108164609"
+          ]
+        },
+        "author_id": "2030304451127631872",
+        "conversation_id": "2057863455621918980",
+        "created_at": "2026-05-22T16:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057863455621918980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYZzSlRhPS",
+              "end": 45,
+              "expanded_url": "https://x.com/foanax/status/2057863455621918980/photo/1",
+              "media_key": "3_2057863449108164609",
+              "start": 22,
+              "url": "https://t.co/rYZzSlRhPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057863455621918980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "反正就是时隔五万年重新发一个推图招魂一下。 https://t.co/rYZzSlRhPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1064
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "",
+        "id": "2030304451127631872",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2057863455621918980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 55,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 195
+        },
+        "username": "foanax",
+        "verified": true
+      }
+    ]
+  }
+}

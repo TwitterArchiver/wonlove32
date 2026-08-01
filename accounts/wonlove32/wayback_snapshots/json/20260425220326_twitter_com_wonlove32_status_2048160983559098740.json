@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047621954098925802",
+    "created_at": "2026-04-25T22:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T23:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048160983559098740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011815153592049665",
+          "start": 0,
+          "username": "jiabujiabu"
+        },
+        {
+          "end": 23,
+          "id": "2842549538",
+          "start": 12,
+          "username": "Reflectier"
+        },
+        {
+          "end": 35,
+          "id": "1845194453818253312",
+          "start": 24,
+          "username": "misaki5193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048160983559098740",
+    "in_reply_to_user_id": "2011815153592049665",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047791056343937522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiabujiabu @Reflectier @misaki5193"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047621954098925802",
+        "created_at": "2026-04-25T22:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048160983559098740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011815153592049665",
+              "start": 0,
+              "username": "jiabujiabu"
+            },
+            {
+              "end": 23,
+              "id": "2842549538",
+              "start": 12,
+              "username": "Reflectier"
+            },
+            {
+              "end": 35,
+              "id": "1845194453818253312",
+              "start": 24,
+              "username": "misaki5193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048160983559098740",
+        "in_reply_to_user_id": "2011815153592049665",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047791056343937522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiabujiabu @Reflectier @misaki5193"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011815153592049665",
+        "conversation_id": "2047621954098925802",
+        "created_at": "2026-04-24T21:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047791056343937522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047791056343937522",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1611,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047621954098925802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 这文章就是典型的反毒品宣传，经典拿一个受害人当模型，然后强调这新型毒品危害性多么多么强，你们要注意，然后就完了。\n其目的就不是为受害人发声，而是用于宣传，至于受害人名誉权？家属都和解了，那就更方便用了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047898156487331840/glzC3kNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:58:16.000Z",
+        "description": "要么流芳百世，要么遗臭万年",
+        "id": "2011815153592049665",
+        "name": "贾布加布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020224306815594497/lceMD7va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 713
+        },
+        "username": "jiabujiabu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n男的。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "location": "Victoria, Australia",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 820,
+          "like_count": 39279,
+          "listed_count": 10,
+          "media_count": 1312,
+          "tweet_count": 22522
+        },
+        "username": "Reflectier",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:07:04.000Z",
+        "description": "",
+        "id": "1845194453818253312",
+        "name": "罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043361454989209601/QffaspXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 16,
+          "like_count": 452,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 118
+        },
+        "username": "misaki5193",
+        "verified": false
+      }
+    ]
+  }
+}

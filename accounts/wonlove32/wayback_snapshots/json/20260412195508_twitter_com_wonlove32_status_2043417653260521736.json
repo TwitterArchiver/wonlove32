@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043416860700344391",
+    "created_at": "2026-04-12T19:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043417653260521736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043417653260521736",
+    "in_reply_to_user_id": "2041827098244046848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043416860700344391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好无聊 谁想跟我玩提问箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043416860700344391",
+        "created_at": "2026-04-12T19:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043417653260521736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043417653260521736",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043416860700344391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好无聊 谁想跟我玩提问箱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043416860700344391",
+        "created_at": "2026-04-12T19:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043416860700344391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/wonlove32",
+              "end": 23,
+              "expanded_url": "https://ngl.link/wonlove32",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2043416893525008384/Phl0Eed8?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043416893525008384/Phl0Eed8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@wonlove32: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/wonlove32",
+              "url": "https://t.co/Kib1uPRqdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043416860700344391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kib1uPRqdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 19,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

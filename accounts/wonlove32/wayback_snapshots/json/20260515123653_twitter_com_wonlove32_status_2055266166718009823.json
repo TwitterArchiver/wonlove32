@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055135655605211136"
+      ],
+      "media_source_tweet_id": [
+        "2055135660814602286"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055266166718009823",
+    "created_at": "2026-05-15T12:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055266166718009823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1405301480316444672",
+          "start": 3,
+          "username": "twaniimals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYjK2x5yjr",
+          "end": 39,
+          "expanded_url": "https://x.com/twaniimals/status/2055135660814602286/photo/1",
+          "media_key": "3_2055135655605211136",
+          "start": 16,
+          "url": "https://t.co/WYjK2x5yjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055266166718009823",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055135660814602286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twaniimals: https://t.co/WYjK2x5yjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2055135655605211136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVO_X2WkAAfLB8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055135655605211136"
+          ],
+          "media_source_tweet_id": [
+            "2055135660814602286"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055266166718009823",
+        "created_at": "2026-05-15T12:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055266166718009823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1405301480316444672",
+              "start": 3,
+              "username": "twaniimals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYjK2x5yjr",
+              "end": 39,
+              "expanded_url": "https://x.com/twaniimals/status/2055135660814602286/photo/1",
+              "media_key": "3_2055135655605211136",
+              "start": 16,
+              "url": "https://t.co/WYjK2x5yjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055266166718009823",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055135660814602286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twaniimals: https://t.co/WYjK2x5yjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055135655605211136"
+          ]
+        },
+        "author_id": "1405301480316444672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055135660814602286",
+        "created_at": "2026-05-15T03:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055135660814602286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYjK2x5yjr",
+              "end": 23,
+              "expanded_url": "https://x.com/twaniimals/status/2055135660814602286/photo/1",
+              "media_key": "3_2055135655605211136",
+              "start": 0,
+              "url": "https://t.co/WYjK2x5yjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055135660814602286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 537305,
+          "like_count": 22274,
+          "quote_count": 193,
+          "reply_count": 119,
+          "retweet_count": 2538
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WYjK2x5yjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055257802726338560/6TISjt39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 82,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T23:09:29.000Z",
+        "description": "sígueme para más contenido diario 🐶",
+        "id": "1405301480316444672",
+        "location": "Mx",
+        "name": "💖",
+        "pinned_tweet_id": "2054946590809264217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048439884881514496/p6vbj8-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261451,
+          "following_count": 181,
+          "like_count": 13571,
+          "listed_count": 1718,
+          "media_count": 37304,
+          "tweet_count": 40484
+        },
+        "username": "twaniimals",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049128120494837760"
+      ],
+      "media_source_tweet_id": [
+        "2049128459700707490"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2049976799019561374",
+    "created_at": "2026-04-30T22:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049976799019561374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1218553739012988929",
+          "start": 3,
+          "username": "yihuaaart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47l8J8FUHu",
+          "end": 110,
+          "expanded_url": "https://x.com/yihuaaart/status/2049128459700707490/video/1",
+          "media_key": "13_2049128120494837760",
+          "start": 87,
+          "url": "https://t.co/47l8J8FUHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049976799019561374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049128459700707490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yihuaaart: 点菜：👅b\n第一视角赤壁！感觉男主要把女主整个人吃了的那种急切！香！\n这个博主的视频都很香香🤤🤤之前有推过他的自慰向视频\n原推：samslyy https://t.co/47l8J8FUHu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049976799019561374].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049976799019561374",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049976799019561374"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20166,
+        "height": 720,
+        "media_key": "13_2049128120494837760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049128120494837760/img/oVYdDsE9N1jMNMoy.jpg",
+        "public_metrics": {
+          "view_count": 99857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049128120494837760/vid/avc1/480x270/C3Y6A18ltOfMGWur.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049128120494837760/vid/avc1/640x360/ZivN441ZHXweuH-w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049128120494837760/vid/avc1/1280x720/6EZmeK0l6Otc1MH0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049128120494837760/pl/ivT1Un1S0mCTX8T1.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049128120494837760"
+          ]
+        },
+        "author_id": "1218553739012988929",
+        "conversation_id": "2049128459700707490",
+        "created_at": "2026-04-28T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049128459700707490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47l8J8FUHu",
+              "end": 95,
+              "expanded_url": "https://x.com/yihuaaart/status/2049128459700707490/video/1",
+              "media_key": "13_2049128120494837760",
+              "start": 72,
+              "url": "https://t.co/47l8J8FUHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049128459700707490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1315,
+          "impression_count": 160680,
+          "like_count": 5244,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "点菜：👅b\n第一视角赤壁！感觉男主要把女主整个人吃了的那种急切！香！\n这个博主的视频都很香香🤤🤤之前有推过他的自慰向视频\n原推：samslyy https://t.co/47l8J8FUHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 53,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-18T15:20:34.000Z",
+        "description": "人活着就是要吃美丽的饭、吃爽口的饭。\n努力成为一名做女性向口味饭的好厨子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=tjelsUQQ&from=%E6%B9%98%E6%B9%98%E5%85%B0%E5%AD%90",
+                "start": 0,
+                "url": "https://t.co/DtEgM1NG7x"
+              }
+            ]
+          }
+        },
+        "id": "1218553739012988929",
+        "location": "自用梯子！便宜好用！有需要的宝宝可以试试～",
+        "name": "湘湘兰子",
+        "pinned_tweet_id": "2041541789837115415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324988957327360/1BrZ9-Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177181,
+          "following_count": 160,
+          "like_count": 749,
+          "listed_count": 177,
+          "media_count": 97,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/DtEgM1NG7x",
+        "username": "yihuaaart",
+        "verified": false
+      }
+    ]
+  }
+}

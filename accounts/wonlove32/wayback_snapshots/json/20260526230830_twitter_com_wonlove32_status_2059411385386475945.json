@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059411385386475945",
+    "created_at": "2026-05-26T23:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059411385386475945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059411385386475945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059223560561049784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 很羡慕这样一种人，相处起来特别舒服，因为既能和他们聊搞笑又能聊不正经，在某些事情上也有独到见解，可以沟通值得分享，不至于严肃呆板或者低级趣味，特别是能换位思考真心待人的人，生活中如果能有这样的朋友或恋人真的是件很幸福的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059411385386475945",
+        "created_at": "2026-05-26T23:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059411385386475945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059411385386475945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059223560561049784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 很羡慕这样一种人，相处起来特别舒服，因为既能和他们聊搞笑又能聊不正经，在某些事情上也有独到见解，可以沟通值得分享，不至于严肃呆板或者低级趣味，特别是能换位思考真心待人的人，生活中如果能有这样的朋友或恋人真的是件很幸福的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2059223560561049784",
+        "created_at": "2026-05-26T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059223560561049784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059223560561049784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 16622,
+          "like_count": 491,
+          "quote_count": 17,
+          "reply_count": 53,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "很羡慕这样一种人，相处起来特别舒服，因为既能和他们聊搞笑又能聊不正经，在某些事情上也有独到见解，可以沟通值得分享，不至于严肃呆板或者低级趣味，特别是能换位思考真心待人的人，生活中如果能有这样的朋友或恋人真的是件很幸福的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 88,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1023
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9725,
+          "following_count": 5,
+          "like_count": 1159,
+          "listed_count": 29,
+          "media_count": 109,
+          "tweet_count": 2388
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

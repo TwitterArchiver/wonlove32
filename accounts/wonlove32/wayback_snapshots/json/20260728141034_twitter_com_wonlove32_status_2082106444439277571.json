@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2082106444439277571",
+    "created_at": "2026-07-28T14:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082106444439277571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009907458530258945",
+          "start": 3,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082106444439277571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081767679841415451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cOniqGBygQ16927: 老天爷，你妈了个逼，你把幸福给了那些畜生婊子，他们根本不懂得珍惜，你个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2082106444439277571",
+        "created_at": "2026-07-28T14:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082106444439277571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009907458530258945",
+              "start": 3,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082106444439277571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 284
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081767679841415451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cOniqGBygQ16927: 老天爷，你妈了个逼，你把幸福给了那些畜生婊子，他们根本不懂得珍惜，你个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2081767679841415451",
+        "created_at": "2026-07-27T15:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081767679841415451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081767679841415451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 60334,
+          "like_count": 1814,
+          "quote_count": 12,
+          "reply_count": 139,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷，你妈了个逼，你把幸福给了那些畜生婊子，他们根本不懂得珍惜，你个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081901597047824384/e2MrS_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 89,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 28,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

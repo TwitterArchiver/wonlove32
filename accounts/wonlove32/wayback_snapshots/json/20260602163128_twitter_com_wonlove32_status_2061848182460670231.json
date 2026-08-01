@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2061176640126984413",
+    "created_at": "2026-06-02T16:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061848182460670231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864641290144763910",
+          "start": 0,
+          "username": "cuoyuqie233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061848182460670231",
+    "in_reply_to_user_id": "1864641290144763910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061176640126984413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuoyuqie233 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2061176640126984413",
+        "created_at": "2026-06-02T16:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061848182460670231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864641290144763910",
+              "start": 0,
+              "username": "cuoyuqie233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061848182460670231",
+        "in_reply_to_user_id": "1864641290144763910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061176640126984413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuoyuqie233 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864641290144763910",
+        "conversation_id": "2061176640126984413",
+        "created_at": "2026-05-31T20:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061176640126984413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061176640126984413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的私信真的是人类打的字吗 还是一根屌？。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061581502169980929/qm2JcLWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 88,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1147
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T12:01:49.000Z",
+        "description": "如果哭能解决一切的话我要把世界淹没˃ ˄ ˂̥̥",
+        "id": "1864641290144763910",
+        "name": "cuoyuqie",
+        "pinned_tweet_id": "2035742210092900653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893716062811893760/HL2npN1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 190,
+          "like_count": 2945,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 250
+        },
+        "username": "cuoyuqie233",
+        "verified": false
+      }
+    ]
+  }
+}

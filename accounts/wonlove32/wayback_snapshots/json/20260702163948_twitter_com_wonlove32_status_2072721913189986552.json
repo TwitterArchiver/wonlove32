@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2072721913189986552",
+    "created_at": "2026-07-02T16:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072721913189986552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596794857179459584",
+          "start": 3,
+          "username": "1227uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072721913189986552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072537527916130739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1227uwu: 药效中：普瑞巴林拯救了我的生命\n药效后：普瑞巴林它把我逼到了自杀的地步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2072721913189986552",
+        "created_at": "2026-07-02T16:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072721913189986552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596794857179459584",
+              "start": 3,
+              "username": "1227uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072721913189986552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072537527916130739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1227uwu: 药效中：普瑞巴林拯救了我的生命\n药效后：普瑞巴林它把我逼到了自杀的地步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596794857179459584",
+        "conversation_id": "2072537527916130739",
+        "created_at": "2026-07-02T04:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072537527916130739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072537527916130739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3920,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "药效中：普瑞巴林拯救了我的生命\n药效后：普瑞巴林它把我逼到了自杀的地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703113396445186/wqArR4ft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 87,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜友跨｜自伤行为｜精神状态不是很良好｜可以私信互fo但是会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱｜只是按医嘱处方正常服药",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 73,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2052756261939327095",
+    "created_at": "2026-05-08T14:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052756261939327095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889273834479693824",
+          "start": 3,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052756261939327095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052600997277798839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xvxnuo: 招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2052756261939327095",
+        "created_at": "2026-05-08T14:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052756261939327095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889273834479693824",
+              "start": 3,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052756261939327095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052600997277798839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xvxnuo: 招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2052600997277798839",
+        "created_at": "2026-05-08T04:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052600997277798839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052600997277798839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14390,
+          "like_count": 228,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "招聘一条狗 要求敏感多疑 恋爱脑 玻璃心 有严重分离焦虑 干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052647166825676800/sQDrpg9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 62,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我还想和你谈论宇宙和天空",
+        "id": "1889273834479693824",
+        "name": "而我只是一只诺",
+        "pinned_tweet_id": "2034301809540595738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049478819271307264/aw1l8oDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 44,
+          "like_count": 20556,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 5834
+        },
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2074361546990334186",
+    "created_at": "2026-07-07T05:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074361546990334186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074361546990334186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得不熟没好感的健全人问我od啥感觉都好钩子没礼貌，实在想了解就去看禁毒宣传行不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2074361546990334186",
+        "created_at": "2026-07-07T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074361546990334186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074361546990334186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得不熟没好感的健全人问我od啥感觉都好钩子没礼貌，实在想了解就去看禁毒宣传行不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073112292007481344/iM2i9RCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 89,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

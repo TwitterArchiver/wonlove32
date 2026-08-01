@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043418796028030976"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043418805888758087",
+    "created_at": "2026-04-12T19:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043418805888758087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBXgtIMOsn",
+          "end": 50,
+          "expanded_url": "https://x.com/wonlove32/status/2043418805888758087/photo/1",
+          "media_key": "3_2043418796028030976",
+          "start": 27,
+          "url": "https://t.co/sBXgtIMOsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043418805888758087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "意思是跟我聊天很开心吗。那取决于我对某人是否感兴趣吧 https://t.co/sBXgtIMOsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043418796028030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuukYibcAAiCpl.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043418796028030976"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043418805888758087",
+        "created_at": "2026-04-12T19:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043418805888758087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBXgtIMOsn",
+              "end": 50,
+              "expanded_url": "https://x.com/wonlove32/status/2043418805888758087/photo/1",
+              "media_key": "3_2043418796028030976",
+              "start": 27,
+              "url": "https://t.co/sBXgtIMOsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043418805888758087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意思是跟我聊天很开心吗。那取决于我对某人是否感兴趣吧 https://t.co/sBXgtIMOsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 19,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

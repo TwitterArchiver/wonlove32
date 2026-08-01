@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059296204077600797",
+    "created_at": "2026-05-27T03:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059481571791679778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "tired_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059481571791679778",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059296204077600797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tired_8964 ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059296195936477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQW-sYbYAAHWRX.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059296204077600797",
+        "created_at": "2026-05-27T03:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059481571791679778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059481571791679778",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059296204077600797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059296195936477184"
+          ]
+        },
+        "author_id": "1513898402366439427",
+        "conversation_id": "2059296204077600797",
+        "created_at": "2026-05-26T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059296204077600797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51zbIjrNtN",
+              "end": 38,
+              "expanded_url": "https://x.com/tired_8964/status/2059296204077600797/photo/1",
+              "media_key": "3_2059296195936477184",
+              "start": 15,
+              "url": "https://t.co/51zbIjrNtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059296204077600797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9501,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给纸人点睛了？没给我吓死😹 https://t.co/51zbIjrNtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 89,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1043
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "你哭什么，苦海无边；苦海无边，你哭什么？\n匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 49,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 26,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "name": "烦烦",
+        "pinned_tweet_id": "2050236261441642895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 310,
+          "like_count": 9514,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 4459
+        },
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

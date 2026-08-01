@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2057023803939836368",
+    "created_at": "2026-05-20T09:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057023803939836368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622114910133002241",
+          "start": 3,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057023803939836368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056741250653716809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsh19068663: 被男大男高叫姐姐我会一股无名火生怕下一秒要给我撒娇哭穷卖惨了。但是被小女孩叫姐姐我会觉得很幸福🥺一股责任感油然而生，我想成为让她们觉得可以信任和依赖的姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2057023803939836368",
+        "created_at": "2026-05-20T09:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057023803939836368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622114910133002241",
+              "start": 3,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057023803939836368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056741250653716809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsh19068663: 被男大男高叫姐姐我会一股无名火生怕下一秒要给我撒娇哭穷卖惨了。但是被小女孩叫姐姐我会觉得很幸福🥺一股责任感油然而生，我想成为让她们觉得可以信任和依赖的姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2056741250653716809",
+        "created_at": "2026-05-19T14:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056741250653716809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056741250653716809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6809,
+          "like_count": 236,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "被男大男高叫姐姐我会一股无名火生怕下一秒要给我撒娇哭穷卖惨了。但是被小女孩叫姐姐我会觉得很幸福🥺一股责任感油然而生，我想成为让她们觉得可以信任和依赖的姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056864208529301506/89qJXiuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 87,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "凡事发生皆有利于我",
+        "id": "1622114910133002241",
+        "location": "2.4km",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 330,
+          "like_count": 1401,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 1942
+        },
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

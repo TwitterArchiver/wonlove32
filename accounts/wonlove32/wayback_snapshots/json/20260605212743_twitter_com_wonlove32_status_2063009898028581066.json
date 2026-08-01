@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2063009898028581066",
+    "created_at": "2026-06-05T21:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T22:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063009898028581066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1953130551914991616",
+          "start": 3,
+          "username": "iscocaholic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063009898028581066",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2057
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062675764051316903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iscocaholic: desista dos seus sonhos e morra"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2063009898028581066",
+        "created_at": "2026-06-05T21:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063009898028581066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953130551914991616",
+              "start": 3,
+              "username": "iscocaholic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063009898028581066",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2057
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062675764051316903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iscocaholic: desista dos seus sonhos e morra"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953130551914991616",
+        "conversation_id": "2062675764051316903",
+        "created_at": "2026-06-04T23:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062675764051316903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062675764051316903",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 153282,
+          "like_count": 6236,
+          "quote_count": 205,
+          "reply_count": 53,
+          "retweet_count": 2057
+        },
+        "reply_settings": "everyone",
+        "text": "desista dos seus sonhos e morra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061964775832305665/nmIYIogS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 90,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1183
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T16:26:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/isaminions",
+                "end": 23,
+                "expanded_url": "https://guns.lol/isaminions",
+                "start": 0,
+                "url": "https://t.co/zVpMkvyIoI"
+              }
+            ]
+          }
+        },
+        "id": "1953130551914991616",
+        "location": "Curitiba, Brasil",
+        "name": "⋆.˚",
+        "pinned_tweet_id": "1958030923766673711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060788945173065733/5D6s0XxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1029,
+          "like_count": 11550,
+          "listed_count": 8,
+          "media_count": 716,
+          "tweet_count": 7906
+        },
+        "url": "https://t.co/zVpMkvyIoI",
+        "username": "iscocaholic",
+        "verified": false
+      }
+    ]
+  }
+}

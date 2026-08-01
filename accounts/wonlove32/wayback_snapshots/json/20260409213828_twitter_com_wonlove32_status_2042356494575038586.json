@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2042356494575038586",
+    "created_at": "2026-04-09T21:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042356494575038586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979420921015472133",
+          "start": 3,
+          "username": "Suilyya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042356494575038586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042210688026943962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suilyya: 朋友不能在一起，炮友不能有感情，游戏搭子就只能一起打游戏，聊骚对象就只聊骚，认识你的时候是色情的可以往了解你正常生活上发展，正常生活中认识的人不可以接触到你不可告人的那一面‼️所有人拿本子记一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2042356494575038586",
+        "created_at": "2026-04-09T21:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042356494575038586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979420921015472133",
+              "start": 3,
+              "username": "Suilyya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042356494575038586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042210688026943962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suilyya: 朋友不能在一起，炮友不能有感情，游戏搭子就只能一起打游戏，聊骚对象就只聊骚，认识你的时候是色情的可以往了解你正常生活上发展，正常生活中认识的人不可以接触到你不可告人的那一面‼️所有人拿本子记一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979420921015472133",
+        "conversation_id": "2042210688026943962",
+        "created_at": "2026-04-09T11:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042210688026943962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042210688026943962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1892,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "朋友不能在一起，炮友不能有感情，游戏搭子就只能一起打游戏，聊骚对象就只聊骚，认识你的时候是色情的可以往了解你正常生活上发展，正常生活中认识的人不可以接触到你不可告人的那一面‼️所有人拿本子记一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 4,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T05:37:32.000Z",
+        "description": "本体是一只小猫！喜欢发一些碎碎念喵^ ^ ｜🚪188v｜不线下 ｜脾气恶劣喵",
+        "id": "1979420921015472133",
+        "name": "岁岁喵呜^",
+        "pinned_tweet_id": "1990407392098459794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979421639520419840/mmAlf_K8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 0,
+          "like_count": 16,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 89
+        },
+        "username": "Suilyya",
+        "verified": false
+      }
+    ]
+  }
+}

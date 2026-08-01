@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047433853149892826",
+    "created_at": "2026-04-23T21:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047433853149892826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047433853149892826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042100920209801222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 广州禁毒还有一个搞笑的点就是，说改花刀这个称呼是在美化自伤行为😂这特么不是健全比嘲讽精神病的话吗？？什么猪肉改花刀笑了多少年了，精神病们没招了用来自嘲了，你来一句这是美化，666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047433853149892826",
+        "created_at": "2026-04-23T21:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047433853149892826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047433853149892826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042100920209801222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 广州禁毒还有一个搞笑的点就是，说改花刀这个称呼是在美化自伤行为😂这特么不是健全比嘲讽精神病的话吗？？什么猪肉改花刀笑了多少年了，精神病们没招了用来自嘲了，你来一句这是美化，666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2042100920209801222",
+        "created_at": "2026-04-09T04:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042100920209801222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042100920209801222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 29377,
+          "like_count": 931,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒还有一个搞笑的点就是，说改花刀这个称呼是在美化自伤行为😂这特么不是健全比嘲讽精神病的话吗？？什么猪肉改花刀笑了多少年了，精神病们没招了用来自嘲了，你来一句这是美化，666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 63,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 543,
+          "like_count": 3495,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 694
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

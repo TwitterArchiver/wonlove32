@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2055269427390923222",
+    "created_at": "2026-05-15T13:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055276121554653224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055276121554653224",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055269427390923222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 不行我舍不得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2055269427390923222",
+        "created_at": "2026-05-15T13:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055276121554653224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055276121554653224",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055269427390923222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 不行我舍不得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997511338453876736",
+        "conversation_id": "2055269427390923222",
+        "created_at": "2026-05-15T12:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055269427390923222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055269427390923222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想销号自杀啊但是我在这里认识了好多萌萌的女孩子我舍不得你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055257802726338560/6TISjt39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 83,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 正负参半 不od对药有心理阴影 喜欢割腿催吐制造美丽淤青 我是烟民苦练吐烟圈技能中 想和美萌蕾蕾们成为好朋友~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "新世界",
+        "name": "小殇",
+        "pinned_tweet_id": "2042972670304899542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 27,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

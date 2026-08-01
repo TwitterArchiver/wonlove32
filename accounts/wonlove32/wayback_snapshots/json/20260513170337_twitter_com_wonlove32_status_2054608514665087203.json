@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054608514665087203",
+    "created_at": "2026-05-13T17:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054608514665087203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds03/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hgds03/status/2054436518069182539",
+          "start": 21,
+          "url": "https://t.co/eLgBYwRNjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054608514665087203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054436518069182539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最吓人的时候躁期发工资一个晚上就能花完。 https://t.co/eLgBYwRNjB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054608514665087203",
+        "created_at": "2026-05-13T17:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054608514665087203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hgds03/status/2054436518069182539",
+              "start": 21,
+              "url": "https://t.co/eLgBYwRNjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054608514665087203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054436518069182539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最吓人的时候躁期发工资一个晚上就能花完。 https://t.co/eLgBYwRNjB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2054436518069182539",
+        "created_at": "2026-05-13T05:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054436518069182539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054436518069182539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4414,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "每次报复性消费完 发现被报复到的只有自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 83,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2044021776032886975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 323,
+          "like_count": 2837,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 323
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

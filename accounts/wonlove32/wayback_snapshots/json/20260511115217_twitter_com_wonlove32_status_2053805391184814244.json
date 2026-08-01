@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2053803168962928665",
+    "created_at": "2026-05-11T11:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053805391184814244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053805391184814244",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053803168962928665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 什么样的，可能是割得比较深加上色素沉着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2053803168962928665",
+        "created_at": "2026-05-11T11:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053805391184814244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053805391184814244",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053803168962928665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 什么样的，可能是割得比较深加上色素沉着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997511338453876736",
+        "conversation_id": "2053803168962928665",
+        "created_at": "2026-05-11T11:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053803168962928665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053803168962928665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁知道怎么把疤痕处理掉。我割腿上的疤会发黑。为啥啊。我手上的就是白的。腿上为啥变黑了。好难看啊。我要在大腿根部纹身吗还是直接激光去掉疤。那种去疤痕的药我涂过了花了我五千多一条疤都没淡化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053495538151301120/-SUC1GXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 63,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 正负参半 不od对药有心理阴影 喜欢割腿催吐制造美丽淤青 想和美萌蕾蕾们成为好朋友~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "离开这里",
+        "name": "小殇",
+        "pinned_tweet_id": "2053467364390547456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 27,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

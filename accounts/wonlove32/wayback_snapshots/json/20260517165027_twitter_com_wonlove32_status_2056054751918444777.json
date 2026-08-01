@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "2056054751918444777",
+    "created_at": "2026-05-17T16:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056054751918444777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025959676236730368",
+          "start": 3,
+          "username": "rai_01rl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056054751918444777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 571
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055930520182354319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rai_01rl: 好きだから会いたいし\n好きだから通話したいし\n好きだから毎日LINEしたいし\n好きだから何時間でも返信待つし\n好きだから嫌われないか不安だし\n好きだから他の女の子と話して欲しくないし\n好きだから嫉妬しちゃうし\n好きだからずっと一緒にいたいって思うし…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2056054751918444777",
+        "created_at": "2026-05-17T16:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056054751918444777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025959676236730368",
+              "start": 3,
+              "username": "rai_01rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056054751918444777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 571
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055930520182354319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rai_01rl: 好きだから会いたいし\n好きだから通話したいし\n好きだから毎日LINEしたいし\n好きだから何時間でも返信待つし\n好きだから嫌われないか不安だし\n好きだから他の女の子と話して欲しくないし\n好きだから嫉妬しちゃうし\n好きだからずっと一緒にいたいって思うし…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025959676236730368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2055930520182354319",
+        "created_at": "2026-05-17T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055930520182354319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055930520182354319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 65211,
+          "like_count": 2834,
+          "quote_count": 50,
+          "reply_count": 4,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "好きだから会いたいし\n好きだから通話したいし\n好きだから毎日LINEしたいし\n好きだから何時間でも返信待つし\n好きだから嫌われないか不安だし\n好きだから他の女の子と話して欲しくないし\n好きだから嫉妬しちゃうし\n好きだからずっと一緒にいたいって思うし\n好きだからそばにいさせてほしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056049094058254336/932ouoQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 85,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T15:43:36.000Z",
+        "description": "09|病み垢|DM◎| 既読♡|無言フォロー| sns交換△\nバカ同盟・親友⇨@_up0z ♡⇨@Haminnn1253 \nまいえんじぇる⇨@kagi_uxipunya bro⇨@Shi__rngas \n先輩⇨@satushobunkibou 鍵⇨@rai_001rl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 39,
+                "username": "_up0z"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Haminnn1253"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "kagi_uxipunya"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Shi__rngas"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "satushobunkibou"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "rai_001rl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8s2l3duekanyfw…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8s2l3duekanyfwx?t=IUKYAa&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/vN6UKi4Lbb"
+              }
+            ]
+          }
+        },
+        "id": "2025959676236730368",
+        "location": "この不確かな甘さの裏の裏",
+        "name": "來",
+        "pinned_tweet_id": "2050809396746453485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050809589139173376/cIfVB47j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 189,
+          "like_count": 10177,
+          "listed_count": 25,
+          "media_count": 17,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/vN6UKi4Lbb",
+        "username": "rai_01rl",
+        "verified": false
+      }
+    ]
+  }
+}

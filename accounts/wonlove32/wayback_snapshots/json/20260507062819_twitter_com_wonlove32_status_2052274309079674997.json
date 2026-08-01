@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052274298660995072"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2052274309079674997",
+    "created_at": "2026-05-07T06:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052274309079674997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IN9PBeXCTS",
+          "end": 29,
+          "expanded_url": "https://x.com/wonlove32/status/2052274309079674997/photo/1",
+          "media_key": "3_2052274298660995072",
+          "start": 6,
+          "url": "https://t.co/IN9PBeXCTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052274309079674997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了。 https://t.co/IN9PBeXCTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2052274298660995072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHskmelaQAAPwgT.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052274298660995072"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2052274309079674997",
+        "created_at": "2026-05-07T06:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052274309079674997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IN9PBeXCTS",
+              "end": 29,
+              "expanded_url": "https://x.com/wonlove32/status/2052274309079674997/photo/1",
+              "media_key": "3_2052274298660995072",
+              "start": 6,
+              "url": "https://t.co/IN9PBeXCTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052274309079674997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了。 https://t.co/IN9PBeXCTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052268018575810560/rmu9Na2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 61,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

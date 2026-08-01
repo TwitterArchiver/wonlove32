@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2054155032124396001",
+    "created_at": "2026-05-12T11:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054155956624494680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984230278383140865",
+          "start": 0,
+          "username": "CUIYING0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054155956624494680",
+    "in_reply_to_user_id": "1984230278383140865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054155032124396001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CUIYING0717 拼豆吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054154915929571328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHTAz2awAAeTv8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054154915925381120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHTAz1a0AACFij.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2054155032124396001",
+        "created_at": "2026-05-12T11:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054155956624494680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984230278383140865",
+              "start": 0,
+              "username": "CUIYING0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054155956624494680",
+        "in_reply_to_user_id": "1984230278383140865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054155032124396001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CUIYING0717 拼豆吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054154915929571328",
+            "3_2054154915925381120"
+          ]
+        },
+        "author_id": "1984230278383140865",
+        "conversation_id": "2054155032124396001",
+        "created_at": "2026-05-12T11:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054155032124396001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANlOq87waO",
+              "end": 30,
+              "expanded_url": "https://x.com/CUIYING0717/status/2054155032124396001/photo/1",
+              "media_key": "3_2054154915929571328",
+              "start": 7,
+              "url": "https://t.co/ANlOq87waO"
+            },
+            {
+              "display_url": "pic.x.com/ANlOq87waO",
+              "end": 30,
+              "expanded_url": "https://x.com/CUIYING0717/status/2054155032124396001/photo/1",
+              "media_key": "3_2054154915925381120",
+              "start": 7,
+              "url": "https://t.co/ANlOq87waO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054155032124396001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点死掉了 https://t.co/ANlOq87waO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053888688522924032/m1pIoMd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 65,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T12:06:46.000Z",
+        "description": "碎碎念 | 女m | ADHD | 小猫 | 有🚪52\n‼️有主人‼️\n所以打视频❌语音聊天❌线下更是❌\n部分时候会卖一点自己自w的视频有偿",
+        "id": "1984230278383140865",
+        "location": "小猫的家🏠",
+        "name": "梦想全职做小猫",
+        "pinned_tweet_id": "2043023798077919600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042533916914126851/XDLzPxUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 31,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 812
+        },
+        "username": "CUIYING0717",
+        "verified": false
+      }
+    ]
+  }
+}

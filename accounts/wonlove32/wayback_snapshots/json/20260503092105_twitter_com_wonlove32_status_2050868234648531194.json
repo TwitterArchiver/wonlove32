@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2050868234648531194",
+    "created_at": "2026-05-03T09:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050868234648531194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050868234648531194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我這種情感需求高又敏感的人，好像不適合戀愛。對方沒有秒回我就會焦慮，回來了沒有解釋剛才去做什麼就開始胡思亂想。即使是在友情裏，我意識到自己在對方心裏不是最重要的那個人就開始陷入恐慌。恰恰我又對淡人特別有好感，彷彿有種天生的吸引力，我咋這麽賤。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2050868234648531194",
+        "created_at": "2026-05-03T09:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050868234648531194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050868234648531194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我這種情感需求高又敏感的人，好像不適合戀愛。對方沒有秒回我就會焦慮，回來了沒有解釋剛才去做什麼就開始胡思亂想。即使是在友情裏，我意識到自己在對方心裏不是最重要的那個人就開始陷入恐慌。恰恰我又對淡人特別有好感，彷彿有種天生的吸引力，我咋這麽賤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049723313036070912/PLwyTkwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 56,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

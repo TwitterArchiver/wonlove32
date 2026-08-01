@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059507665487929378",
+    "created_at": "2026-05-27T05:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059507928613429594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421766018897125378",
+          "start": 0,
+          "username": "nakunatoidda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059507928613429594",
+    "in_reply_to_user_id": "1421766018897125378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059507665487929378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakunatoidda 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059507665487929378",
+        "created_at": "2026-05-27T05:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059507928613429594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421766018897125378",
+              "start": 0,
+              "username": "nakunatoidda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507928613429594",
+        "in_reply_to_user_id": "1421766018897125378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059507665487929378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakunatoidda 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421766018897125378",
+        "conversation_id": "2059507665487929378",
+        "created_at": "2026-05-27T05:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059507665487929378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "母狗"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "母畜"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "肉便器"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "反差"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "洗脑"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "贱货"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "母猪"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "贱婊"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "骚逼"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "反差婊"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "社死"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "自毁"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "调教"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "羞辱"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "控制"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "媚男"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "女德"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "发情母狗"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "拱逼"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "重口"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "辱骂"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "露出"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "性奴"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "厕所奴"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "堕落"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "发情"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "中出"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "子宫奴"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "公开羞辱"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "母狗训练"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "精便器"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "跪舔"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "自辱"
+            },
+            {
+              "end": 159,
+              "start": 154,
+              "tag": "彻底驯服"
+            },
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "精液便器"
+            },
+            {
+              "end": 171,
+              "start": 166,
+              "tag": "母畜日常"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507665487929378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自助餐：\n#母狗 #母畜 #肉便器 #反差 #洗脑 #贱货 #母猪 #贱婊 #骚逼 #男尊女卑 #反差婊 #社死 #自毁 #调教 #羞辱 #控制 #媚男 #女德 #发情母狗 #拱逼 #重口 #辱骂 #露出 #性奴 #厕所奴 #堕落 #发情 #中出 #子宫奴 #公开羞辱 #母狗训练 #精便器 #跪舔 #自辱 #彻底驯服 #精液便器 #母畜日常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 89,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1050
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T09:33:37.000Z",
+        "description": "🇨🇳&🇭🇰 顺女 intp 性向不确定 擦边非黄推\n喹硫平用药中 \nds退圈\n\n随缘交交朋友",
+        "id": "1421766018897125378",
+        "name": "不能哭",
+        "pinned_tweet_id": "2035043643661459626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019296832577540096/HXSfZIZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 488,
+          "like_count": 6231,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1826
+        },
+        "username": "nakunatoidda",
+        "verified": false
+      }
+    ]
+  }
+}

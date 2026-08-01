@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2047430765798138233",
+    "created_at": "2026-04-23T21:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047430765798138233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/fadai202202/status/2047236363649679463",
+          "start": 13,
+          "url": "https://t.co/q3qQvnTbxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047430765798138233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047236363649679463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对我特别喜欢喊女生宝宝😋 https://t.co/q3qQvnTbxA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2047430765798138233",
+        "created_at": "2026-04-23T21:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047430765798138233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/fadai202202/status/2047236363649679463",
+              "start": 13,
+              "url": "https://t.co/q3qQvnTbxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047430765798138233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047236363649679463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我特别喜欢喊女生宝宝😋 https://t.co/q3qQvnTbxA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2047236363649679463",
+        "created_at": "2026-04-23T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047236363649679463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047236363649679463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12539,
+          "like_count": 376,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁把宝宝这个词给普及成全网女孩们打招呼和日常使用的？就这两个字但凡我被喊一声就会飘飘乎不知其所以然，整颗心都想跟这女孩回家了，结果人家根本没想把我往家里带。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253567657140224/2RFDdn0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 63,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你",
+        "id": "1581937806435573760",
+        "location": "不要骚扰我 不接广告",
+        "name": "呆呆",
+        "pinned_tweet_id": "2046397450181849146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 29,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 355
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

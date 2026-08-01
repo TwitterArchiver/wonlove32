@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2072089720612585532",
+    "created_at": "2026-06-30T22:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072089720612585532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961050829642928128",
+          "start": 3,
+          "username": "3qsou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072089720612585532",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071880275936895002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3qsou: 진짜나를 힘들게 하는건\n현재보다 과거임 계속 과거에 잡혀있음"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2072089720612585532",
+        "created_at": "2026-06-30T22:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072089720612585532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961050829642928128",
+              "start": 3,
+              "username": "3qsou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072089720612585532",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071880275936895002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3qsou: 진짜나를 힘들게 하는건\n현재보다 과거임 계속 과거에 잡혀있음"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961050829642928128",
+        "conversation_id": "2071880275936895002",
+        "created_at": "2026-06-30T08:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071880275936895002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071880275936895002",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 36622,
+          "like_count": 2264,
+          "quote_count": 55,
+          "reply_count": 2,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "진짜나를 힘들게 하는건\n현재보다 과거임 계속 과거에 잡혀있음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "洛希极限",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2063320325094523026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071715749941698560/1df8dxOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 88,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T12:58:56.000Z",
+        "description": "내 마음을 배신했어",
+        "id": "1961050829642928128",
+        "name": "희얀",
+        "pinned_tweet_id": "2039001277229871598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069929167681208320/G3yxAUU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 2395,
+          "like_count": 7869,
+          "listed_count": 11,
+          "media_count": 49,
+          "tweet_count": 2075
+        },
+        "url": "",
+        "username": "3qsou",
+        "verified": false
+      }
+    ]
+  }
+}

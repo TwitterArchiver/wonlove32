@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2041836408646848515",
+    "created_at": "2026-04-08T11:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041836408646848515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1434525782144012292",
+          "start": 3,
+          "username": "11Urslut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041836408646848515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041477227070841073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11Urslut: 像我这种没有性生活的女人\n可以取消生理期吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2041836408646848515",
+        "created_at": "2026-04-08T11:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041836408646848515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1434525782144012292",
+              "start": 3,
+              "username": "11Urslut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041836408646848515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041477227070841073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11Urslut: 像我这种没有性生活的女人\n可以取消生理期吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434525782144012292",
+        "conversation_id": "2041477227070841073",
+        "created_at": "2026-04-07T11:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041477227070841073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041477227070841073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 67326,
+          "like_count": 826,
+          "quote_count": 9,
+          "reply_count": 48,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种没有性生活的女人\n可以取消生理期吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T14:36:43.000Z",
+        "description": "在永恒与虚无之间 / Switch 只回门槛",
+        "id": "1434525782144012292",
+        "location": "🚪520   纯绿  🈲转推",
+        "name": "Not urslut_11",
+        "pinned_tweet_id": "1916157928689603037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011829227738578946/h8ljaNoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26957,
+          "following_count": 576,
+          "like_count": 9836,
+          "listed_count": 74,
+          "media_count": 305,
+          "tweet_count": 557
+        },
+        "username": "11Urslut",
+        "verified": false
+      }
+    ]
+  }
+}

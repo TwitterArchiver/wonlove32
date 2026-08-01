@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2060553983807426611",
+    "created_at": "2026-05-30T15:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060738930434355429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1810347337803583488",
+          "start": 0,
+          "username": "PGONE252"
+        },
+        {
+          "end": 17,
+          "id": "2030304451127631872",
+          "start": 10,
+          "username": "foanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060738930434355429",
+    "in_reply_to_user_id": "1810347337803583488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060729929323438508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PGONE252 @foanax 我知道你 爱听小众乐队装忧郁实际上还是土的要死 整天在网络上对陌生人散发恶意 你是不是现实无人在意 那你去死就好了呀😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2060553983807426611",
+        "created_at": "2026-05-30T15:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060738930434355429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1810347337803583488",
+              "start": 0,
+              "username": "PGONE252"
+            },
+            {
+              "end": 17,
+              "id": "2030304451127631872",
+              "start": 10,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060738930434355429",
+        "in_reply_to_user_id": "1810347337803583488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060729929323438508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PGONE252 @foanax 我知道你 爱听小众乐队装忧郁实际上还是土的要死 整天在网络上对陌生人散发恶意 你是不是现实无人在意 那你去死就好了呀😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810347337803583488",
+        "conversation_id": "2060553983807426611",
+        "created_at": "2026-05-30T14:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060729929323438508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030304451127631872",
+              "start": 0,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2060729929323438508",
+        "in_reply_to_user_id": "2030304451127631872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060553983807426611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foanax 呃我重新开门槛了呀没钱了。🚪52/188/300好吧。老娘豁出去了！#门槛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060481643803189248/h9w2L8NY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 88,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1098
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T16:17:09.000Z",
+        "description": "",
+        "id": "1810347337803583488",
+        "location": "Plentong, Johor",
+        "name": "绫胓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057466190558334976/h3Tepnud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 117
+        },
+        "username": "PGONE252",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "🚪52/188/300",
+        "id": "2030304451127631872",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2059677272047817047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 59,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 227
+        },
+        "username": "foanax",
+        "verified": true
+      }
+    ]
+  }
+}

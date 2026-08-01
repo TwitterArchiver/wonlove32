@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2058644222077772223",
+    "created_at": "2026-05-24T20:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058644222077772223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/urbabydoll456/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/urbabydoll456/status/2055323895985832015",
+          "start": 12,
+          "url": "https://t.co/yvA25MdJZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058644222077772223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055323895985832015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鹅许愿一个听话的主人。 https://t.co/yvA25MdJZh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31533,
+        "height": 1280,
+        "media_key": "13_2055323672035184641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055323672035184641/img/44fXxTmTiAd57RVj.jpg",
+        "public_metrics": {
+          "view_count": 803006
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055323672035184641/vid/avc1/320x568/bGmi5YHpelIpeG7B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055323672035184641/vid/avc1/480x852/-t2oaXSn5VrPQT87.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055323672035184641/vid/avc1/720x1280/sBy3Q4iZCon5iN8d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055323672035184641/pl/evAXeriqDx51S6zM.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2058644222077772223",
+        "created_at": "2026-05-24T20:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058644222077772223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/urbabydoll456/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/urbabydoll456/status/2055323895985832015",
+              "start": 12,
+              "url": "https://t.co/yvA25MdJZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058644222077772223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055323895985832015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鹅许愿一个听话的主人。 https://t.co/yvA25MdJZh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055323672035184641"
+          ]
+        },
+        "author_id": "1702989912801148928",
+        "conversation_id": "2055323895985832015",
+        "created_at": "2026-05-15T16:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055323895985832015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gG2GuxXWF",
+              "end": 38,
+              "expanded_url": "https://x.com/urBabydoll456/status/2055323895985832015/video/1",
+              "media_key": "13_2055323672035184641",
+              "start": 15,
+              "url": "https://t.co/6gG2GuxXWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055323895985832015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4479,
+          "impression_count": 402525,
+          "like_count": 10574,
+          "quote_count": 43,
+          "reply_count": 29,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "来网吧不好好打游戏吗\n#反差 https://t.co/6gG2GuxXWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "两百年后在一起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015772157628416/igO9kTAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 88,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T10:17:06.000Z",
+        "description": "分享一些和哥哥的低脂小视频 4i/1i switch     性癖复杂但是很幸运有个一样恶俗的爱人☺️ 小狗老婆的账号：@Miaowu326",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Miaowu326"
+              }
+            ]
+          }
+        },
+        "id": "1702989912801148928",
+        "name": "X1Xi",
+        "pinned_tweet_id": "2055323895985832015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015870435037007872/iVEqNp6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 115,
+          "like_count": 784,
+          "listed_count": 10,
+          "media_count": 20,
+          "tweet_count": 78
+        },
+        "username": "urBabydoll456",
+        "verified": false
+      }
+    ]
+  }
+}

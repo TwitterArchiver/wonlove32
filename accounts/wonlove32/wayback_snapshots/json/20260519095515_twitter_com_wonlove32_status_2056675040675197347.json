@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056675032248778752"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2056675040675197347",
+    "created_at": "2026-05-19T09:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056675040675197347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fomDY38Mpo",
+          "end": 52,
+          "expanded_url": "https://x.com/wonlove32/status/2056675040675197347/photo/1",
+          "media_key": "3_2056675032248778752",
+          "start": 29,
+          "url": "https://t.co/fomDY38Mpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056675040675197347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就这样继续不清关 我一点都不急不生气不难受不想哭不崩溃 https://t.co/fomDY38Mpo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056675040675197347].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056675040675197347",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056675040675197347"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 198,
+        "media_key": "3_2056675032248778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrHC4uagAA5MUk.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056475724736032768/jBuO2tC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 88,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

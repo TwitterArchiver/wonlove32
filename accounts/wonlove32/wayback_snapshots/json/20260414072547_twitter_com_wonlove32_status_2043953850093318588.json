@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043953728382759298",
+    "created_at": "2026-04-14T07:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043953850093318588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1989425441606959104",
+          "start": 0,
+          "username": "qz7TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043953850093318588",
+    "in_reply_to_user_id": "1989425441606959104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043953728382759298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qz7TvT 那很难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043953728382759298",
+        "created_at": "2026-04-14T07:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043953850093318588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1989425441606959104",
+              "start": 0,
+              "username": "qz7TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953850093318588",
+        "in_reply_to_user_id": "1989425441606959104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043953728382759298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qz7TvT 那很难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989425441606959104",
+        "conversation_id": "2043953728382759298",
+        "created_at": "2026-04-14T07:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043953728382759298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043953728382759298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我1000粉找个女粉给了得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 18,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T20:09:38.000Z",
+        "description": "只希望平静一生",
+        "id": "1989425441606959104",
+        "name": "qz6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039537194294222848/FUMhIjyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 105
+        },
+        "username": "qz7TvT",
+        "verified": false
+      }
+    ]
+  }
+}

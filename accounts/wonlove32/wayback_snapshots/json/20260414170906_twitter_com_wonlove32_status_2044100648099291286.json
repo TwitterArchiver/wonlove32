@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043893397124268317",
+    "created_at": "2026-04-14T17:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044100648099291286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1746347228703469568",
+          "start": 0,
+          "username": "fat2921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044100648099291286",
+    "in_reply_to_user_id": "1746347228703469568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044035137000866003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fat2921 嘿嘿 我也是infp 喜欢跟同类玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043893397124268317",
+        "created_at": "2026-04-14T17:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044100648099291286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1746347228703469568",
+              "start": 0,
+              "username": "fat2921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044100648099291286",
+        "in_reply_to_user_id": "1746347228703469568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044035137000866003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fat2921 嘿嘿 我也是infp 喜欢跟同类玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746347228703469568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Aquarius",
+              "id": "1138892233556369408",
+              "name": "Aquarius"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aquarius",
+              "id": "1138892233556369408",
+              "name": "Aquarius"
+            }
+          }
+        ],
+        "conversation_id": "2043893397124268317",
+        "created_at": "2026-04-14T12:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044035137000866003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044035137000866003",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043893397124268317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 可以看看水瓶座infp的男生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043419398388719616/fkKo5zSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 30,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T01:43:32.000Z",
+        "description": "4i/1i  switch偏m 直男\ninfp                                                                               \n上推只为了寻求xp一样的人",
+        "id": "1746347228703469568",
+        "location": "跟你说了你会过来吗",
+        "name": "Nori",
+        "pinned_tweet_id": "2042112237087911958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043242412022329344/wTskOydZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "username": "fat2921",
+        "verified": false
+      }
+    ]
+  }
+}

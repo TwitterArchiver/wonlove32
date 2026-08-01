@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2059500153988632648",
+    "created_at": "2026-05-27T05:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059500153988632648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1892238817945616384",
+          "start": 3,
+          "username": "Iwannabe_fled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059500153988632648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059302028262973678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iwannabe_fled: 什么时候才能意识到医生也好警察也好，回避型也好焦虑型也好，水瓶座也好摩羯座也好，贱的永远都是人……不是个标签吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2059500153988632648",
+        "created_at": "2026-05-27T05:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059500153988632648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1892238817945616384",
+              "start": 3,
+              "username": "Iwannabe_fled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059500153988632648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059302028262973678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iwannabe_fled: 什么时候才能意识到医生也好警察也好，回避型也好焦虑型也好，水瓶座也好摩羯座也好，贱的永远都是人……不是个标签吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892238817945616384",
+        "conversation_id": "2059302028262973678",
+        "created_at": "2026-05-26T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059302028262973678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059302028262973678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1051,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候才能意识到医生也好警察也好，回避型也好焦虑型也好，水瓶座也好摩羯座也好，贱的永远都是人……不是个标签吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "我保证我是那个什么天使",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059403462656606208/_s6KFi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 89,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1048
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:44:45.000Z",
+        "description": "보고싶어어어ㅜㅜㅜㅜㅠ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/abc21126",
+                "end": 23,
+                "expanded_url": "https://ngl.link/abc21126",
+                "start": 0,
+                "url": "https://t.co/fkta740MRS"
+              }
+            ]
+          }
+        },
+        "id": "1892238817945616384",
+        "location": "Chine",
+        "name": "oiaaa",
+        "pinned_tweet_id": "2014918826983621060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043933594088026112/YIOj0Gkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 38,
+          "like_count": 2635,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/fkta740MRS",
+        "username": "Iwannabe_fled",
+        "verified": false
+      }
+    ]
+  }
+}

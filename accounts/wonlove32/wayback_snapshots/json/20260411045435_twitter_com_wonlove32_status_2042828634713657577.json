@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2042828634713657577",
+    "created_at": "2026-04-11T04:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042828634713657577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960329162528530432",
+          "start": 3,
+          "username": "dapingguo77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042828634713657577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042616712777077017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dapingguo77: 有人懂在精神心理上想当s，但是肉体上想当m的感觉吗，我真的不知道怎么和人形容了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2042828634713657577",
+        "created_at": "2026-04-11T04:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042828634713657577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960329162528530432",
+              "start": 3,
+              "username": "dapingguo77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042828634713657577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042616712777077017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dapingguo77: 有人懂在精神心理上想当s，但是肉体上想当m的感觉吗，我真的不知道怎么和人形容了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960329162528530432",
+        "conversation_id": "2042616712777077017",
+        "created_at": "2026-04-10T14:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042616712777077017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042616712777077017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 39869,
+          "like_count": 285,
+          "quote_count": 9,
+          "reply_count": 90,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂在精神心理上想当s，但是肉体上想当m的感觉吗，我真的不知道怎么和人形容了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T13:11:18.000Z",
+        "description": "我负责可爱",
+        "id": "1960329162528530432",
+        "location": "🚪19",
+        "name": "小小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960330346635157504/7h6FNODA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18739,
+          "following_count": 7,
+          "like_count": 400,
+          "listed_count": 26,
+          "media_count": 118,
+          "tweet_count": 319
+        },
+        "username": "dapingguo77",
+        "verified": false
+      }
+    ]
+  }
+}

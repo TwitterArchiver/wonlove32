@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053974381089464320"
+      ],
+      "media_source_tweet_id": [
+        "2054119387008000204"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2054515389187723360",
+    "created_at": "2026-05-13T10:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054515389187723360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gu6XUCy8sO",
+          "end": 97,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2054119387008000204/video/1",
+          "media_key": "13_2053974381089464320",
+          "start": 74,
+          "url": "https://t.co/gu6XUCy8sO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054515389187723360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054119387008000204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月11日，一名博主说，心理学在中国派不上用场，因为大家的心里问题，很多根本不是情绪问题，而是结构问题。… https://t.co/gu6XUCy8sO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 117446,
+        "height": 2796,
+        "media_key": "13_2053974381089464320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053974381089464320/img/u6tawpcbhs3IwFSJ.jpg",
+        "public_metrics": {
+          "view_count": 99138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053974381089464320/pl/Nw738q3Vs9ahU74g.m3u8?v=114"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053974381089464320/vid/avc1/1290x2796/YppFL-cxtmkWfv4d.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053974381089464320/vid/avc1/320x692/rDwRa0d6dSQNJ88K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053974381089464320/vid/avc1/720x1560/MzkN4rUAn8ekixRG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053974381089464320/vid/avc1/480x1040/CsYGObERUXyerWQX.mp4"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053974381089464320"
+          ],
+          "media_source_tweet_id": [
+            "2054119387008000204"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2054515389187723360",
+        "created_at": "2026-05-13T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054515389187723360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu6XUCy8sO",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054119387008000204/video/1",
+              "media_key": "13_2053974381089464320",
+              "start": 74,
+              "url": "https://t.co/gu6XUCy8sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054515389187723360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054119387008000204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月11日，一名博主说，心理学在中国派不上用场，因为大家的心里问题，很多根本不是情绪问题，而是结构问题。… https://t.co/gu6XUCy8sO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053974381089464320"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2054119387008000204",
+        "created_at": "2026-05-12T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054119387008000204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu6XUCy8sO",
+              "end": 76,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054119387008000204/video/1",
+              "media_key": "13_2053974381089464320",
+              "start": 53,
+              "url": "https://t.co/gu6XUCy8sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054119387008000204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月11日，一名博主说，心理学在中国派不上用场，因为大家的心里问题，很多根本不是情绪问题，而是结构问题。\n\n一个高三学生，每天只能睡5个小时，刷题刷到吐焦虑到掉头发，你让他去看心理医生，医生教他接纳情绪正念呼吸。可高考好还在那里，985就招那么多人，心理学可以让他不焦虑，但不能让独木桥变宽。\n\n一个35岁被裁的程序员，房贷还有20多年，小孩刚上幼儿园。心理学可以帮他做认知重构，告诉他这不是你的错，这是市场大环境不好。但下个月银行照样催房贷，房东也不会免房租。\n\n中国人的自我是高度渗透的，你的心情不由你决定，是由你妈的期待、领导的评价、同辈的收入、还有房价的涨跌。在中国，只调节自我，不改变环境和制度，就像是在一艘漏水的船上练习冥想。你倒是平静了，可船该沉还得沉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1180,
+          "impression_count": 228347,
+          "like_count": 3605,
+          "quote_count": 23,
+          "reply_count": 699,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "5月11日，一名博主说，心理学在中国派不上用场，因为大家的心里问题，很多根本不是情绪问题，而是结构问题。 https://t.co/gu6XUCy8sO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "あたしが愛を語るのなら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054267334089687040/lRHwtQQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 78,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219384,
+          "following_count": 1049,
+          "like_count": 9497,
+          "listed_count": 8717,
+          "media_count": 46638,
+          "tweet_count": 53747
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

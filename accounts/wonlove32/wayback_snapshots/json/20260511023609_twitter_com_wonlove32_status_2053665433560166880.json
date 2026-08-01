@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2053665433560166880",
+    "created_at": "2026-05-11T02:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053665433560166880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039707989561561088",
+          "start": 3,
+          "username": "cicici1999999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053665433560166880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053375185701818655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cicici1999999: 我喜欢你才一直找你呀🥺干嘛对我那么冷淡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2053665433560166880",
+        "created_at": "2026-05-11T02:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053665433560166880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039707989561561088",
+              "start": 3,
+              "username": "cicici1999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053665433560166880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053375185701818655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cicici1999999: 我喜欢你才一直找你呀🥺干嘛对我那么冷淡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039707989561561088",
+        "conversation_id": "2053375185701818655",
+        "created_at": "2026-05-10T07:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053375185701818655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053375185701818655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4100,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢你才一直找你呀🥺干嘛对我那么冷淡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿透我的生命",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wonlove32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wonlove32",
+                "start": 0,
+                "url": "https://t.co/HLmfJ1zrJ7"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "pinned_tweet_id": "2048820283822444605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053495538151301120/-SUC1GXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 63,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/HLmfJ1zrJ7",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T14:14:28.000Z",
+        "description": "100cm/100kg 别问我在哪了。我不在地球。不约炮不线下。",
+        "id": "2039707989561561088",
+        "location": "20000000km",
+        "name": "吃吃吃吃吃吃🍽️",
+        "pinned_tweet_id": "2046171154159931608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039708423441506305/P8RMmIs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 74,
+          "like_count": 2943,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 446
+        },
+        "username": "cicici1999999",
+        "verified": false
+      }
+    ]
+  }
+}

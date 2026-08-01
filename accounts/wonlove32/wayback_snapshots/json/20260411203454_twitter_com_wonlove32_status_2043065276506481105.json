@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2043056636366065926",
+    "created_at": "2026-04-11T20:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043065276506481105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2043042332866420736",
+          "start": 0,
+          "username": "Sjozyu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043065276506481105",
+    "in_reply_to_user_id": "2043042332866420736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043063574013055374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sjozyu0 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2043056636366065926",
+        "created_at": "2026-04-11T20:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043065276506481105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2043042332866420736",
+              "start": 0,
+              "username": "Sjozyu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043065276506481105",
+        "in_reply_to_user_id": "2043042332866420736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043063574013055374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sjozyu0 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043042332866420736",
+        "conversation_id": "2043056636366065926",
+        "created_at": "2026-04-11T20:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043063574013055374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043063574013055374",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043056636366065926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 可以可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "绛岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041828892865069056/vswPcyKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 17,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:04:08.000Z",
+        "description": "海岸",
+        "id": "2043042332866420736",
+        "location": "Guizhou",
+        "name": "Sjo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043062588456452096/qi0FLlAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Sjozyu0",
+        "verified": false
+      }
+    ]
+  }
+}
