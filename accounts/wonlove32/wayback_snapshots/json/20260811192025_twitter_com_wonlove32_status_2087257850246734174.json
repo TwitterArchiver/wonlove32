@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2086638731914891603",
+    "created_at": "2026-08-11T19:20:25.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087257850246734174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069100146433126402",
+          "start": 0,
+          "username": "Rickyun9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087257850246734174",
+    "in_reply_to_user_id": "2069100146433126402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086638731914891603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rickyun9c 我笑得肚肚痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1533,
+        "media_key": "3_2086638723459067904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU63Q5aMAAHaTH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2086638731914891603",
+        "created_at": "2026-08-11T19:20:25.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087257850246734174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069100146433126402",
+              "start": 0,
+              "username": "Rickyun9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087257850246734174",
+        "in_reply_to_user_id": "2069100146433126402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086638731914891603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rickyun9c 我笑得肚肚痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086638723459067904"
+          ]
+        },
+        "author_id": "2069100146433126402",
+        "conversation_id": "2086638731914891603",
+        "created_at": "2026-08-10T02:20:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086638731914891603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sf4iXVv6AU",
+              "end": 29,
+              "expanded_url": "https://x.com/Rickyun9c/status/2086638731914891603/photo/1",
+              "media_key": "3_2086638723459067904",
+              "start": 6,
+              "url": "https://t.co/sf4iXVv6AU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086638731914891603",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086638723459067904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 244203,
+          "like_count": 9517,
+          "quote_count": 41,
+          "reply_count": 689,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "鞋带致盲者 https://t.co/sf4iXVv6AU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087257850246734174",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087148831037394945/fBEJY6by_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 85,
+          "like_count": 1721,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T16:49:40.000Z",
+        "description": "",
+        "id": "2069100146433126402",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087201806472687822",
+        "name": "ikik",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069100146433126402/1785303339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082339169502912513/TIT3fCcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Rickyun9c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

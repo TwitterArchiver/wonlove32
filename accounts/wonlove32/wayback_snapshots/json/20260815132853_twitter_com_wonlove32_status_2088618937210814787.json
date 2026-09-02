@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2088618937210814787",
+    "created_at": "2026-08-15T13:28:53.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088618937210814787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088618937210814787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想吃思诺思但是我要打游戏 一o这个我就没法好好玩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2088618937210814787",
+        "created_at": "2026-08-15T13:28:53.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088618937210814787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088618937210814787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃思诺思但是我要打游戏 一o这个我就没法好好玩了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿過我的生命",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088618937210814787",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088203534479273984/WbLwawHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 82,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

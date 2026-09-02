@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2083602456995381705",
+    "created_at": "2026-08-01T17:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083602456995381705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1886594510819590144",
+          "start": 3,
+          "username": "chichiyu159918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083602456995381705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083072329450750297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chichiyu159918: 推什么时候能够整治一下这些机器人，emo的时候随手发条贴底下评论一溜的比她好看的没她骚，真的很难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2083602456995381705",
+        "created_at": "2026-08-01T17:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083602456995381705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1886594510819590144",
+              "start": 3,
+              "username": "chichiyu159918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083602456995381705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083072329450750297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chichiyu159918: 推什么时候能够整治一下这些机器人，emo的时候随手发条贴底下评论一溜的比她好看的没她骚，真的很难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886594510819590144",
+        "conversation_id": "2083072329450750297",
+        "created_at": "2026-07-31T06:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083072329450750297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083072329450750297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 346491,
+          "like_count": 6198,
+          "quote_count": 4,
+          "reply_count": 540,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "推什么时候能够整治一下这些机器人，emo的时候随手发条贴底下评论一溜的比她好看的没她骚，真的很难绷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083572766188425216/vbJeVdQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 89,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T01:56:17.000Z",
+        "description": "你也因为无法拯救世界而失眠吗",
+        "id": "1886594510819590144",
+        "name": "吃鱼猫",
+        "pinned_tweet_id": "2078269482573984002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075109014325911552/hF3shjsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 20,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "chichiyu159918",
+        "verified": false
+      }
+    ]
+  }
+}

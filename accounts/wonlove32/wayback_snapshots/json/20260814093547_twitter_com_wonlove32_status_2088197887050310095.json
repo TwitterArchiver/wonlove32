@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2087870726233817227",
+    "created_at": "2026-08-14T09:35:47.000Z",
+    "display_text_range": [
+      27,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088197887050310095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        },
+        {
+          "end": 26,
+          "id": "1972965252280074240",
+          "start": 12,
+          "username": "Scarface23000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088197887050310095",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087870726233817227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo @Scarface23000 发达了兄弟呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_2087870720378642432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmbW7EboAAH2Rq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2087870726233817227",
+        "created_at": "2026-08-14T09:35:47.000Z",
+        "display_text_range": [
+          27,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088197887050310095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            },
+            {
+              "end": 26,
+              "id": "1972965252280074240",
+              "start": 12,
+              "username": "Scarface23000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088197887050310095",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087870726233817227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo @Scarface23000 发达了兄弟呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087870720378642432"
+          ]
+        },
+        "author_id": "2058944024078409728",
+        "conversation_id": "2087870726233817227",
+        "created_at": "2026-08-13T11:55:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087870726233817227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2zBcyPIUj",
+              "end": 23,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2087870726233817227/photo/1",
+              "media_key": "3_2087870720378642432",
+              "start": 0,
+              "url": "https://t.co/O2zBcyPIUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087870726233817227",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087870720378642432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O2zBcyPIUj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088197887050310095",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431168367161344/o2GWVnZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 84,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1702
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087888403690102800",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 33,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T10:02:46.000Z",
+        "description": "我还是死了算了",
+        "id": "1972965252280074240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087941249051263178",
+        "name": "睡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972965252280074240/1771978932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018404847515484161/jC7H8BVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 493,
+          "like_count": 10700,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Scarface23000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

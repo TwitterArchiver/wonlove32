@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2087123776840552491",
+    "created_at": "2026-08-11T11:55:48.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087145958169825519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087145958169825519",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087123776840552491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 咋回事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2087123776840552491",
+        "created_at": "2026-08-11T11:55:48.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087145958169825519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087145958169825519",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087123776840552491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 咋回事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2087123776840552491",
+        "created_at": "2026-08-11T10:27:39.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087123776840552491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087123776840552491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁在新疆认识库尔勒市二中“希爱力塔西”这个贱逼。\n狗娘养的带着一群人还特么敢计划轮奸，带着一群人跟小姑娘喝酒准备灌醉了轮奸，要不是人小姑娘酒量好不然特么真让这群贱货们得逞了。一群人渣玩意，还敢说暗恋呢。\n谁认识这人给我地址或者帮我弄他我给钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087145958169825519",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087078040660815872/kiPFRwn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 85,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087126164980777404",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 31,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

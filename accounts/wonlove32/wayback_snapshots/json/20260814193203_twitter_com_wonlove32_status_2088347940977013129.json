@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088347933624479744"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088347940977013129",
+    "created_at": "2026-08-14T19:32:03.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088347940977013129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TuGHEDnzmu",
+          "end": 28,
+          "expanded_url": "https://x.com/wonlove32/status/2088347940977013129/photo/1",
+          "media_key": "3_2088347933624479744",
+          "start": 5,
+          "url": "https://t.co/TuGHEDnzmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088347940977013129",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088347933624479744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道 https://t.co/TuGHEDnzmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2088347933624479744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtNYY8bsAACN4J.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088347933624479744"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088347940977013129",
+        "created_at": "2026-08-14T19:32:03.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088347940977013129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuGHEDnzmu",
+              "end": 28,
+              "expanded_url": "https://x.com/wonlove32/status/2088347940977013129/photo/1",
+              "media_key": "3_2088347933624479744",
+              "start": 5,
+              "url": "https://t.co/TuGHEDnzmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088347940977013129",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088347933624479744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道 https://t.co/TuGHEDnzmu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088347940977013129",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088203534479273984/WbLwawHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 84,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

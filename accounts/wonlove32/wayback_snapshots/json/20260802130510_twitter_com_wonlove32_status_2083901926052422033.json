@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2083901926052422033",
+    "created_at": "2026-08-02T13:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083901926052422033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vgwgypker24wje…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/vgwgypker24wjex/status/2083746803942600952",
+          "start": 2,
+          "url": "https://t.co/MxMBZ0xRum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083901926052422033",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083746803942600952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。 https://t.co/MxMBZ0xRum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2083901926052422033",
+        "created_at": "2026-08-02T13:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083901926052422033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vgwgypker24wje…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/vgwgypker24wjex/status/2083746803942600952",
+              "start": 2,
+              "url": "https://t.co/MxMBZ0xRum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083901926052422033",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083746803942600952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/MxMBZ0xRum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409564127916224512",
+        "conversation_id": "2083746803942600952",
+        "created_at": "2026-08-02T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083746803942600952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083746803942600952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8399,
+          "like_count": 59,
+          "quote_count": 11,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的高需求焦虑型男友，每天晚上非要跟你打电话，等你睡着了还要发一堆骚扰你的话，熬到2点，睡醒了就立马找你，要你陪我，所有软件换着看你在不在线，找不到你就哭着喊着说你不爱我了，无时无刻都要跟你在一起，有分离焦虑，5分钟不回我就打电话轰炸你说你出轨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083864123511902209/pAE6pIjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 89,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T17:27:45.000Z",
+        "description": "万达广场附近抽象爱做饭厨子🧑‍🍳｜平时写点什么关于爱与生活的！#谈谈 提问箱📩https://t.co/V22SZQXdgV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "谈谈"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aidou68117",
+                "end": 62,
+                "expanded_url": "https://ngl.link/aidou68117",
+                "start": 39,
+                "url": "https://t.co/V22SZQXdgV"
+              }
+            ]
+          }
+        },
+        "id": "1409564127916224512",
+        "location": "距离800m",
+        "name": "Aiduo",
+        "pinned_tweet_id": "2036826855203016802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171892169302017/ktOwPGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 3634,
+          "like_count": 103782,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 5289
+        },
+        "url": "",
+        "username": "VgWgypKER24wJEX",
+        "verified": false
+      }
+    ]
+  }
+}

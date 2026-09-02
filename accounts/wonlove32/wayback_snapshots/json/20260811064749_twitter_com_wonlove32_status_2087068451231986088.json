@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2087068451231986088",
+    "created_at": "2026-08-11T06:47:49.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087068451231986088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1260972782671855623",
+          "start": 3,
+          "username": "bobokiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087068451231986088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086876289898791198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bobokiui: 不回我消息的每一分钟我都在恨你。\n可是你一旦发来消息，喊我宝宝，我就心软了。恨你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2087068451231986088",
+        "created_at": "2026-08-11T06:47:49.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087068451231986088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1260972782671855623",
+              "start": 3,
+              "username": "bobokiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087068451231986088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086876289898791198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bobokiui: 不回我消息的每一分钟我都在恨你。\n可是你一旦发来消息，喊我宝宝，我就心软了。恨你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260972782671855623",
+        "conversation_id": "2086876289898791198",
+        "created_at": "2026-08-10T18:04:14.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086876289898791198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086876289898791198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4211,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不回我消息的每一分钟我都在恨你。\n可是你一旦发来消息，喊我宝宝，我就心软了。恨你。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087068451231986088",
+        "name": "4everX2",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087061843638632448/Q59Yd88B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 85,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-14T16:38:46.000Z",
+        "description": "很无聊的普通人/这是我的地盘",
+        "id": "1260972782671855623",
+        "is_identity_verified": false,
+        "location": "天堂是我家",
+        "most_recent_tweet_id": "2086955879656784103",
+        "name": "一只猫",
+        "pinned_tweet_id": "1732562296533115369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260972782671855623/1726196757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875396502098411520/KkuRViA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 298,
+          "like_count": 6491,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 4116
+        },
+        "url": "",
+        "username": "bobokiui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

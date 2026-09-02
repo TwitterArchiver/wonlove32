@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2087466985965998540",
+    "created_at": "2026-08-12T10:05:45.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087480649871732873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087480649871732873",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087466985965998540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 又在吃傻子药!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087466957281132544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgsI0UbgAAVdnL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2087466985965998540",
+        "created_at": "2026-08-12T10:05:45.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087480649871732873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087480649871732873",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087466985965998540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 又在吃傻子药!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087466957281132544"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "conversation_id": "2087466985965998540",
+        "created_at": "2026-08-12T09:11:27.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087466985965998540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtHvsCcwkH",
+              "end": 32,
+              "expanded_url": "https://x.com/2CROW19/status/2087466985965998540/photo/1",
+              "media_key": "3_2087466957281132544",
+              "start": 9,
+              "url": "https://t.co/DtHvsCcwkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087466985965998540",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087466957281132544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘药片60枚入 https://t.co/DtHvsCcwkH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087480649871732873",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431168367161344/o2GWVnZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 86,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1673
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "男的 匿名问答↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFbY3e"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "is_identity_verified": false,
+        "location": "＜500m",
+        "most_recent_tweet_id": "2087466985965998540",
+        "name": "咏洹",
+        "pinned_tweet_id": "2066106859501854809",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820594914339799040/1785869625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084689973866106880/g0Pm5Xxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 88,
+          "like_count": 11184,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/mYFeDFbY3e",
+        "username": "2CROW19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

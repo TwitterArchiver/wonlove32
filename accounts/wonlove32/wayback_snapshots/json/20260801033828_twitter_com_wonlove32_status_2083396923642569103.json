@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2083396923642569103",
+    "created_at": "2026-08-01T03:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083396923642569103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083396923642569103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你知不知道！如果没有我是一件多恐怖的事！你想想！如果没有我！谁陪你聊天？！那你的世界也太安静了吧！好悲哀！如果没有我！谁给你添乱？！那你的人生也太没意思了吧！好悲哀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2083396923642569103",
+        "created_at": "2026-08-01T03:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083396923642569103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083396923642569103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知不知道！如果没有我是一件多恐怖的事！你想想！如果没有我！谁陪你聊天？！那你的世界也太安静了吧！好悲哀！如果没有我！谁给你添乱？！那你的人生也太没意思了吧！好悲哀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083373015002456064/-bgPxzNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 89,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1564
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

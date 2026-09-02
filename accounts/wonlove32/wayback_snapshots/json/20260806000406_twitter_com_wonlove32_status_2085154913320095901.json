@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085154905506156544",
+        "3_2085154905459970048"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2085154913320095901",
+    "created_at": "2026-08-06T00:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085154913320095901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/64pS3MiQ2z",
+          "end": 29,
+          "expanded_url": "https://x.com/wonlove32/status/2085154913320095901/photo/1",
+          "media_key": "3_2085154905506156544",
+          "start": 6,
+          "url": "https://t.co/64pS3MiQ2z"
+        },
+        {
+          "display_url": "pic.x.com/64pS3MiQ2z",
+          "end": 29,
+          "expanded_url": "https://x.com/wonlove32/status/2085154913320095901/photo/1",
+          "media_key": "3_2085154905459970048",
+          "start": 6,
+          "url": "https://t.co/64pS3MiQ2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085154913320095901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就宠我吧。 https://t.co/64pS3MiQ2z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2085154905506156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_1VsRbkAAFp53.jpg",
+        "width": 1008
+      },
+      {
+        "height": 866,
+        "media_key": "3_2085154905459970048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_1VsGa0AA3oi-.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085154905506156544",
+            "3_2085154905459970048"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2085154913320095901",
+        "created_at": "2026-08-06T00:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085154913320095901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64pS3MiQ2z",
+              "end": 29,
+              "expanded_url": "https://x.com/wonlove32/status/2085154913320095901/photo/1",
+              "media_key": "3_2085154905506156544",
+              "start": 6,
+              "url": "https://t.co/64pS3MiQ2z"
+            },
+            {
+              "display_url": "pic.x.com/64pS3MiQ2z",
+              "end": 29,
+              "expanded_url": "https://x.com/wonlove32/status/2085154913320095901/photo/1",
+              "media_key": "3_2085154905459970048",
+              "start": 6,
+              "url": "https://t.co/64pS3MiQ2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085154913320095901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就宠我吧。 https://t.co/64pS3MiQ2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085154763885465600/BDt_q9Ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 84,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

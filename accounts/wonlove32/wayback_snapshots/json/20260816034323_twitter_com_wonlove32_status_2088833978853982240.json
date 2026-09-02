@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2088821097328496910",
+    "created_at": "2026-08-16T03:43:23.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088833978853982240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957003297761656832",
+          "start": 0,
+          "username": "Naga1kite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088833978853982240",
+    "in_reply_to_user_id": "1957003297761656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088821097328496910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naga1kite 一周一次刚好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2088821097328496910",
+        "created_at": "2026-08-16T03:43:23.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088833978853982240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957003297761656832",
+              "start": 0,
+              "username": "Naga1kite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088833978853982240",
+        "in_reply_to_user_id": "1957003297761656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088821097328496910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naga1kite 一周一次刚好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957003297761656832",
+        "conversation_id": "2088821097328496910",
+        "created_at": "2026-08-16T02:52:12.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088821097328496910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088821097328496910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋人とどのくらいの頻度で会いたいですか"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "苦難像流水一樣穿過我的生命",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088833978853982240",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088651647899807745/ZteMp7Eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 81,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T08:55:45.000Z",
+        "description": "高敏感 依存症 コミュ障",
+        "id": "1957003297761656832",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2088821097328496910",
+        "name": "凪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957003297761656832/1777344327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305709575368704/0UaHYd6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 50,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Naga1kite",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

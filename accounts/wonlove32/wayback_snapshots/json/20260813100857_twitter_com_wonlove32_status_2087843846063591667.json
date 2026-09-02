@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2087508748554449137",
+    "created_at": "2026-08-13T10:08:57.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087843846063591667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879184489940938752",
+          "start": 0,
+          "username": "wanyulliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087843846063591667",
+    "in_reply_to_user_id": "1879184489940938752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087834429670789468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanyulliu 香得我多吃了两碗饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2087508748554449137",
+        "created_at": "2026-08-13T10:08:57.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087843846063591667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879184489940938752",
+              "start": 0,
+              "username": "wanyulliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087843846063591667",
+        "in_reply_to_user_id": "1879184489940938752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087834429670789468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanyulliu 香得我多吃了两碗饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879184489940938752",
+        "conversation_id": "2087508748554449137",
+        "created_at": "2026-08-13T09:31:32.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087834429670789468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087834429670789468",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087508748554449137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 感觉好好吃呀😍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087843846063591667",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431168367161344/o2GWVnZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 85,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-14T15:11:24.000Z",
+        "description": "燝\n🇨🇳｜常驻🇲🇾\n我保证冉冉是个天使",
+        "id": "1879184489940938752",
+        "is_identity_verified": false,
+        "location": "89.64km",
+        "most_recent_tweet_id": "2087834429670789468",
+        "name": "雪Yuki",
+        "pinned_tweet_id": "2044575374382952664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879184489940938752/1749102957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930503792291962880/OO5-6IXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 75,
+          "like_count": 1495,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "wanyulliu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

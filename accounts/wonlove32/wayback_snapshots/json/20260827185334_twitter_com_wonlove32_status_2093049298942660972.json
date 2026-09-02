@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2092988856379523283",
+    "created_at": "2026-08-27T18:53:34.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093049298942660972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1739484545005834240",
+          "start": 0,
+          "username": "minjimeowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093049298942660972",
+    "in_reply_to_user_id": "1739484545005834240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093019328807596504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minjimeowo 可可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2092988856379523283",
+        "created_at": "2026-08-27T18:53:34.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093049298942660972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1739484545005834240",
+              "start": 0,
+              "username": "minjimeowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093049298942660972",
+        "in_reply_to_user_id": "1739484545005834240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093019328807596504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minjimeowo 可可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739484545005834240",
+        "conversation_id": "2092988856379523283",
+        "created_at": "2026-08-27T16:54:29.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093019328807596504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093019328807596504",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092988856379523283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 可可"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093049298942660972",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092965167026126848/oKPV-8Ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 75,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T03:13:49.000Z",
+        "description": "喜欢和有礼貌的人交朋友",
+        "id": "1739484545005834240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093019813283254641",
+        "name": "金玟池的小狗",
+        "pinned_tweet_id": "2056045475741233292",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054225975320391680/Y1Kmm44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 191,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "minjimeowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

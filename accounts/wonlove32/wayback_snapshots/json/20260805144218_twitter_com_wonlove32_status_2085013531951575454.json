@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2085013531951575454",
+    "created_at": "2026-08-05T14:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085013531951575454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085013531951575454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天我开到128t普瑞 够我o三次嘿嘿嘿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2085013531951575454",
+        "created_at": "2026-08-05T14:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085013531951575454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085013531951575454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我开到128t普瑞 够我o三次嘿嘿嘿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083920168527564800/ybMiZrPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 84,
+          "like_count": 1694,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

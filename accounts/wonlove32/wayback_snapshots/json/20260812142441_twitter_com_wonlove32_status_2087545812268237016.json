@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087545751488610304",
+        "3_2087545751492812800"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087545812268237016",
+    "created_at": "2026-08-12T14:24:41.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087545812268237016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c5Q1QGIrKs",
+          "end": 30,
+          "expanded_url": "https://x.com/wonlove32/status/2087545812268237016/photo/1",
+          "media_key": "3_2087545751488610304",
+          "start": 7,
+          "url": "https://t.co/c5Q1QGIrKs"
+        },
+        {
+          "display_url": "pic.x.com/c5Q1QGIrKs",
+          "end": 30,
+          "expanded_url": "https://x.com/wonlove32/status/2087545812268237016/photo/1",
+          "media_key": "3_2087545751492812800",
+          "start": 7,
+          "url": "https://t.co/c5Q1QGIrKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087545812268237016",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087545751488610304"
+      },
+      {
+        "media_key": "3_2087545751492812800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨思诺思。 https://t.co/c5Q1QGIrKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087545751488610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhzzPnawAA66tb.jpg",
+        "width": 618
+      },
+      {
+        "height": 986,
+        "media_key": "3_2087545751492812800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhzzPoa4AAVu9I.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087545751488610304",
+            "3_2087545751492812800"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087545812268237016",
+        "created_at": "2026-08-12T14:24:41.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087545812268237016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5Q1QGIrKs",
+              "end": 30,
+              "expanded_url": "https://x.com/wonlove32/status/2087545812268237016/photo/1",
+              "media_key": "3_2087545751488610304",
+              "start": 7,
+              "url": "https://t.co/c5Q1QGIrKs"
+            },
+            {
+              "display_url": "pic.x.com/c5Q1QGIrKs",
+              "end": 30,
+              "expanded_url": "https://x.com/wonlove32/status/2087545812268237016/photo/1",
+              "media_key": "3_2087545751492812800",
+              "start": 7,
+              "url": "https://t.co/c5Q1QGIrKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087545812268237016",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087545751488610304"
+          },
+          {
+            "media_key": "3_2087545751492812800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨思诺思。 https://t.co/c5Q1QGIrKs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087545812268237016",
+        "name": "绛岛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087431168367161344/o2GWVnZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 86,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1679
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2086853460860026902",
+    "created_at": "2026-08-10T16:35:51.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086854046196068840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086854046196068840",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086853460860026902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 补药这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086853389334507520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX-GdmacAAaVN5.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2086853389330292736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX-GdlaIAAmjD5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2086853389334482944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX-GdmaEAAEkU_.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2086853460860026902",
+        "created_at": "2026-08-10T16:35:51.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086854046196068840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086854046196068840",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086853460860026902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 补药这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086853389334507520",
+            "3_2086853389330292736",
+            "3_2086853389334482944"
+          ]
+        },
+        "author_id": "1991025043359608833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086853460860026902",
+        "created_at": "2026-08-10T16:33:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086853460860026902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NI0bJl3lAx",
+              "end": 23,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2086853460860026902/photo/1",
+              "media_key": "3_2086853389334507520",
+              "start": 0,
+              "url": "https://t.co/NI0bJl3lAx"
+            },
+            {
+              "display_url": "pic.x.com/NI0bJl3lAx",
+              "end": 23,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2086853460860026902/photo/1",
+              "media_key": "3_2086853389330292736",
+              "start": 0,
+              "url": "https://t.co/NI0bJl3lAx"
+            },
+            {
+              "display_url": "pic.x.com/NI0bJl3lAx",
+              "end": 23,
+              "expanded_url": "https://x.com/Qingxuntlrr/status/2086853460860026902/photo/1",
+              "media_key": "3_2086853389334482944",
+              "start": 0,
+              "url": "https://t.co/NI0bJl3lAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086853460860026902",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086853389334507520"
+          },
+          {
+            "media_key": "3_2086853389330292736"
+          },
+          {
+            "media_key": "3_2086853389334482944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NI0bJl3lAx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086854046196068840",
+        "name": "4everX2",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086849116915855360/_tAFubjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 85,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-naki\nлаванда：（\n不营业了，专心唐氏😂\n*来找我互fo吧",
+        "id": "1991025043359608833",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086853460860026902",
+        "name": "Nakinin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991025043359608833/1785623188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735081757675520/Geeba8ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 736,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Qingxuntlrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

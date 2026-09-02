@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2085155340954620293",
+    "created_at": "2026-08-06T00:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085155340954620293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085155340954620293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀下午谁打瓦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2085155340954620293",
+        "created_at": "2026-08-06T00:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085155340954620293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085155340954620293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀下午谁打瓦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085154763885465600/BDt_q9Ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 84,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2085746272498319510",
+    "created_at": "2026-08-07T15:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085746272498319510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085746272498319510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老公我好想你呀，一睡醒就好想你，一睁眼你不在身边就感觉空落落的，要是我睁眼就能看你，我觉得我就是超级幸福的人。我老公呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2085746272498319510",
+        "created_at": "2026-08-07T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085746272498319510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085746272498319510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公我好想你呀，一睡醒就好想你，一睁眼你不在身边就感觉空落落的，要是我睁眼就能看你，我觉得我就是超级幸福的人。我老公呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "name": "4everX2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726420647718912/BSTsNXfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 85,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false
+      }
+    ]
+  }
+}
