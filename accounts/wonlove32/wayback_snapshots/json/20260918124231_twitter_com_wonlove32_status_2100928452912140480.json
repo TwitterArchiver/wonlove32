@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2098828466951229808",
+    "created_at": "2026-09-18T12:42:31.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100928452912140480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796945246540201985",
+          "start": 0,
+          "username": "applegoingwall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100928452912140480",
+    "in_reply_to_user_id": "1796945246540201985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098828466951229808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@applegoingwall 谁不喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2098828466951229808",
+        "created_at": "2026-09-18T12:42:31.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100928452912140480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796945246540201985",
+              "start": 0,
+              "username": "applegoingwall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100928452912140480",
+        "in_reply_to_user_id": "1796945246540201985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098828466951229808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@applegoingwall 谁不喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796945246540201985",
+        "conversation_id": "2098828466951229808",
+        "created_at": "2026-09-12T17:37:55.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098828466951229808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098828466951229808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢帅的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100928452912140480",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100919729628004352/RUAk0o0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 73,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2021
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T16:42:00.000Z",
+        "description": "",
+        "id": "1796945246540201985",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098831840828432411",
+        "name": "₊⁺✞ᜊ.天使馨酱.ᜊ✞₊⁺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796945246540201985/1771091262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022723676387577856/-rrJ4Che_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 62,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "applegoingwall",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2096933208080494681",
+    "created_at": "2026-09-07T15:53:40.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096990291182108856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892238817945616384",
+          "start": 0,
+          "username": "Iwannabe_fled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096990291182108856",
+    "in_reply_to_user_id": "1892238817945616384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096987724909858857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwannabe_fled 我每次排到自家马超就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2096933208080494681",
+        "created_at": "2026-09-07T15:53:40.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096990291182108856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892238817945616384",
+              "start": 0,
+              "username": "Iwannabe_fled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096990291182108856",
+        "in_reply_to_user_id": "1892238817945616384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096987724909858857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwannabe_fled 我每次排到自家马超就这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892238817945616384",
+        "conversation_id": "2096933208080494681",
+        "created_at": "2026-09-07T15:43:28.000Z",
+        "display_text_range": [
+          11,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096987724909858857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096987724909858857",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096933208080494681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 我今天打巅峰赛玩奕星给马超放线帮他提速，好不容易有点优势他浪死了几波，让对面翻盘了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096990291182108856",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096924688211734528/O9yEPGz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 72,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1945
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T15:44:45.000Z",
+        "description": "보고싶어어어ㅜㅜㅜㅜㅠ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/abc21126",
+                "end": 23,
+                "expanded_url": "https://ngl.link/abc21126",
+                "start": 0,
+                "url": "https://t.co/fkta740MRS"
+              }
+            ]
+          }
+        },
+        "id": "1892238817945616384",
+        "is_identity_verified": false,
+        "location": "Chine",
+        "most_recent_tweet_id": "2096987724909858857",
+        "name": "oiaaa",
+        "pinned_tweet_id": "2014918826983621060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892238817945616384/1776135404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043933594088026112/YIOj0Gkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 32,
+          "like_count": 2652,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/fkta740MRS",
+        "username": "Iwannabe_fled",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

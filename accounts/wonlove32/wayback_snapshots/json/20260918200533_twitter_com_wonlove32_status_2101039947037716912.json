@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101039937063702528"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101039947037716912",
+    "created_at": "2026-09-18T20:05:33.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T21:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101039947037716912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLUtD0ffB0",
+          "end": 89,
+          "expanded_url": "https://x.com/wonlove32/status/2101039947037716912/photo/1",
+          "media_key": "3_2101039937063702528",
+          "start": 66,
+          "url": "https://t.co/hLUtD0ffB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101039947037716912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101039937063702528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢和小蛇聊天呀，每次我都嫌自己话多 一亢奋就发很多语音，但她会一条条引用回复，然后我俩打农还一直建设家产，玩得很开心˃ 𖥦 ˂ https://t.co/hLUtD0ffB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2101039937063702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HShksOOXUAAym7G.jpg",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101039937063702528"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101039947037716912",
+        "created_at": "2026-09-18T20:05:33.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101039947037716912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLUtD0ffB0",
+              "end": 89,
+              "expanded_url": "https://x.com/wonlove32/status/2101039947037716912/photo/1",
+              "media_key": "3_2101039937063702528",
+              "start": 66,
+              "url": "https://t.co/hLUtD0ffB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101039947037716912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101039937063702528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢和小蛇聊天呀，每次我都嫌自己话多 一亢奋就发很多语音，但她会一条条引用回复，然后我俩打农还一直建设家产，玩得很开心˃ 𖥦 ˂ https://t.co/hLUtD0ffB0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101039947037716912",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101039185515696128/-zW3xfQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 71,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2025
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

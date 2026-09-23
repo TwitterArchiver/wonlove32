@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2101477922918035735",
+    "created_at": "2026-09-20T03:23:06.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101512447618367580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101512447618367580",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101477922918035735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2101477922918035735",
+        "created_at": "2026-09-20T03:23:06.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101512447618367580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101512447618367580",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101477922918035735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991025043359608833",
+        "conversation_id": "2101477922918035735",
+        "created_at": "2026-09-20T01:05:55.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T02:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101477922918035735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101477922918035735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗我小学有一个青梅竹马，居然有这种狗血关系，我跟这个人成绩比较好然后姥姥又认识，呃，后来他小区有个人糖尿病犯了我姥就去心肺复苏跟救护车走了，丢下我我被拉去这人家里中午吃饭我就把他红豆面包都吃了，挺好吃的\n\n然后这个男的总拉我去玩，我特么也不知道有什么好玩的还总拉我手腕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101512447618367580",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101363063396159488/5wfFKDSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 72,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-kaoru🦄🫧🍬\nлаванда：（\n不营业了，专心唐氏😂\n一个完全0社交的社交孤儿、🧎\n*来找我互fo吧\n11世代",
+        "id": "1991025043359608833",
+        "is_identity_verified": false,
+        "location": "成为超级好朋友🧸非互fo 288/520/5200🚪",
+        "most_recent_tweet_id": "2101507150782796058",
+        "name": "_",
+        "pinned_tweet_id": "2101463498433917418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991025043359608833/1789778480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101276129558720512/Dj7kEHEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 880,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "Qingxuntlrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

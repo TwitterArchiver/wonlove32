@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2100955646548205837",
+    "created_at": "2026-09-18T20:01:05.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T21:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101038823631106387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101038823631106387",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100955646548205837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 可以找我呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2100955646548205837",
+        "created_at": "2026-09-18T20:01:05.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101038823631106387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101038823631106387",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100955646548205837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 可以找我呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991025043359608833",
+        "conversation_id": "2100955646548205837",
+        "created_at": "2026-09-18T14:30:34.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100955646548205837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100955646548205837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人跟我聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101038823631106387",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100919729628004352/RUAk0o0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 71,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-kaoru🦄🫧🍬\nлаванда：（\n不营业了，专心唐氏😂\n一个完全0社交的社交孤儿、🧎\n*来找我互fo吧\n11世代",
+        "id": "1991025043359608833",
+        "is_identity_verified": false,
+        "location": "成为超级好朋友🧸非互fo 288/520/5200🚪",
+        "most_recent_tweet_id": "2101033317579784455",
+        "name": "Nakinin",
+        "pinned_tweet_id": "2096729552974381351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991025043359608833/1785623188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100575271170539520/6eSTXZS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 882,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "Qingxuntlrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2096331509481275745",
+    "created_at": "2026-09-05T20:15:54.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096331509481275745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071754623484862464",
+          "start": 3,
+          "username": "h9qz6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096331509481275745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096056461990232376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h9qz6y: 对不起你的回避型朋友在没回你消息的时间里几个软件来回切换发了几十条推文分享自己的生活和大思考并且到处评论回复陌生人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2096331509481275745",
+        "created_at": "2026-09-05T20:15:54.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096331509481275745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071754623484862464",
+              "start": 3,
+              "username": "h9qz6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096331509481275745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096056461990232376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h9qz6y: 对不起你的回避型朋友在没回你消息的时间里几个软件来回切换发了几十条推文分享自己的生活和大思考并且到处评论回复陌生人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071754623484862464",
+        "conversation_id": "2096056461990232376",
+        "created_at": "2026-09-05T02:02:58.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096056461990232376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096056461990232376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12538,
+          "like_count": 350,
+          "quote_count": 11,
+          "reply_count": 36,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "对不起你的回避型朋友在没回你消息的时间里几个软件来回切换发了几十条推文分享自己的生活和大思考并且到处评论回复陌生人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "第二人格@KoiYuki41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "KoiYuki41"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096331509481275745",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096331299883474944/DRNkHind_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 72,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1901
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T00:41:51.000Z",
+        "description": "收起心，大罵一句傻逼，提醒一句別暈船😁\n現實的癔病才是屬於我的常態，不做藤壺",
+        "id": "2071754623484862464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096063750084149650",
+        "name": "諾謎",
+        "pinned_tweet_id": "2091536680150859859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071754623484862464/1786972062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089338906734936064/cyXZlBrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 256,
+          "like_count": 7221,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "h9qz6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

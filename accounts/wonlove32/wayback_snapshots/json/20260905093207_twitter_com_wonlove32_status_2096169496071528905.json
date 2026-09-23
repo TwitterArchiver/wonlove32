@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096169480770703361"
+      ]
+    },
+    "author_id": "2041827098244046848",
+    "conversation_id": "2096169496071528905",
+    "created_at": "2026-09-05T09:32:07.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096169496071528905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0l91wfjJ1",
+          "end": 50,
+          "expanded_url": "https://x.com/wonlove32/status/2096169496071528905/photo/1",
+          "media_key": "3_2096169480770703361",
+          "start": 27,
+          "url": "https://t.co/Q0l91wfjJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096169496071528905",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096169480770703361"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我游戏玩太久被禁赛了，只能去逛闲鱼，又莫名其妙花了钱 https://t.co/Q0l91wfjJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2096169480770703361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcXCWpaUAEW90x.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096169480770703361"
+          ]
+        },
+        "author_id": "2041827098244046848",
+        "conversation_id": "2096169496071528905",
+        "created_at": "2026-09-05T09:32:07.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096169496071528905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0l91wfjJ1",
+              "end": 50,
+              "expanded_url": "https://x.com/wonlove32/status/2096169496071528905/photo/1",
+              "media_key": "3_2096169480770703361",
+              "start": 27,
+              "url": "https://t.co/Q0l91wfjJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096169496071528905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096169480770703361"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我游戏玩太久被禁赛了，只能去逛闲鱼，又莫名其妙花了钱 https://t.co/Q0l91wfjJ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "第二人格@KoiYuki41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "KoiYuki41"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096169496071528905",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096101807617679360/P8nRJr_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 72,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

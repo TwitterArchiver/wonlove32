@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2089041878134198579",
+    "created_at": "2026-09-18T19:59:27.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101038411104579623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796945246540201985",
+          "start": 0,
+          "username": "applegoingwall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101038411104579623",
+    "in_reply_to_user_id": "1796945246540201985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100931919617876390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@applegoingwall 我去我才知道!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2089041878134198579",
+        "created_at": "2026-09-18T19:59:27.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101038411104579623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796945246540201985",
+              "start": 0,
+              "username": "applegoingwall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101038411104579623",
+        "in_reply_to_user_id": "1796945246540201985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100931919617876390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@applegoingwall 我去我才知道!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796945246540201985",
+        "conversation_id": "2089041878134198579",
+        "created_at": "2026-09-18T12:56:17.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100931919617876390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041827098244046848",
+              "start": 0,
+              "username": "wonlove32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100931919617876390",
+        "in_reply_to_user_id": "2041827098244046848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100928605337399668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonlove32 本来就是呀！😔🗣️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101038411104579623",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100919729628004352/RUAk0o0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 71,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2023
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T16:42:00.000Z",
+        "description": "",
+        "id": "1796945246540201985",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100931919617876390",
+        "name": "₊⁺✞ᜊ.天使馨酱.ᜊ✞₊⁺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796945246540201985/1771091262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022723676387577856/-rrJ4Che_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 62,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "applegoingwall",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

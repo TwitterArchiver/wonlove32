@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2096335867207930016",
+    "created_at": "2026-09-05T20:33:13.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096335867207930016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959338907218370560",
+          "start": 3,
+          "username": "miniworldovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096335867207930016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095906399436063048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miniworldovo: 我好想有个暧昧对象 现在和他打电话问他在干嘛呀 两个人含含糊糊说话到最后谁也不舍得挂｡ ́︿ ̀｡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2096335867207930016",
+        "created_at": "2026-09-05T20:33:13.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096335867207930016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959338907218370560",
+              "start": 3,
+              "username": "miniworldovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096335867207930016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095906399436063048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miniworldovo: 我好想有个暧昧对象 现在和他打电话问他在干嘛呀 两个人含含糊糊说话到最后谁也不舍得挂｡ ́︿ ̀｡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959338907218370560",
+        "conversation_id": "2095906399436063048",
+        "created_at": "2026-09-04T16:06:40.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095906399436063048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095906399436063048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14549,
+          "like_count": 368,
+          "quote_count": 8,
+          "reply_count": 118,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我好想有个暧昧对象 现在和他打电话问他在干嘛呀 两个人含含糊糊说话到最后谁也不舍得挂｡ ́︿ ̀｡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "第二人格@KoiYuki41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "KoiYuki41"
+              }
+            ]
+          }
+        },
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096335867207930016",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096335212779012097/HjgR2uYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 72,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-23T19:36:24.000Z",
+        "description": "",
+        "id": "1959338907218370560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096323840687452532",
+        "name": "呕吐袋",
+        "pinned_tweet_id": "2066906130144690263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959338907218370560/1788534893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095893321118060545/kNuDOiAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 43,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "miniworldovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

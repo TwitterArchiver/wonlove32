@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2097752717049659576",
+    "created_at": "2026-09-09T21:33:41.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T22:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097800636125548827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069341840927776768",
+          "start": 0,
+          "username": "ghc_071126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097800636125548827",
+    "in_reply_to_user_id": "2069341840927776768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097752717049659576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghc_071126 好伟大…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2097752708447137792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy2-VWa8AAq0UD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2097752717049659576",
+        "created_at": "2026-09-09T21:33:41.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097800636125548827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069341840927776768",
+              "start": 0,
+              "username": "ghc_071126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097800636125548827",
+        "in_reply_to_user_id": "2069341840927776768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097752717049659576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghc_071126 好伟大…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097752708447137792"
+          ]
+        },
+        "author_id": "2069341840927776768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2097752717049659576",
+        "created_at": "2026-09-09T18:23:16.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097752717049659576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "王者荣耀"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "司马懿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYxJTc2RUs",
+              "end": 36,
+              "expanded_url": "https://x.com/ghc_2778/status/2097752717049659576/photo/1",
+              "media_key": "3_2097752708447137792",
+              "start": 13,
+              "url": "https://t.co/hYxJTc2RUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097752717049659576",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097752708447137792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爾\n#王者荣耀 #司马懿 https://t.co/hYxJTc2RUs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097800636125548827",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097701525254742016/_LYsbdUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 71,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T08:49:13.000Z",
+        "description": "这里只是垃圾桶 不认识的不要私信我……\n扩列+ usuharu_0907",
+        "id": "2069341840927776768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097769854933876923",
+        "name": "滕南辙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069341840927776768/1788978043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097752070682247168/xaHGaCi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "ghc_071126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

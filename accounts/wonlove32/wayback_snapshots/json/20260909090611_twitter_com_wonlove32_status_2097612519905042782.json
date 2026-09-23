@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2097542706205724838",
+    "created_at": "2026-09-09T09:06:11.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097612519905042782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085036823252987904",
+          "start": 0,
+          "username": "Makima_0411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097612519905042782",
+    "in_reply_to_user_id": "2085036823252987904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097542706205724838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makima_0411 yyy好吞而且药效温和……好喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2097542706205724838",
+        "created_at": "2026-09-09T09:06:11.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097612519905042782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097612519905042782",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097542706205724838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 yyy好吞而且药效温和……好喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2097542704460951552"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2097542706205724838",
+        "created_at": "2026-09-09T04:28:46.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097542706205724838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097542706205724838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盐野义和玉米哪个更好吃？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097612519905042782",
+        "name": "我的悲伤是水做的",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097400634425356288/NeYiKU8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 71,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097584331921428553",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1788865001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097550031062769664/TS6jhNxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 311,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
