@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041827098244046848",
+    "conversation_id": "2102603114943857137",
+    "created_at": "2026-09-23T03:37:01.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102603114943857137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058094415504351232",
+          "start": 3,
+          "username": "Xxxxxxnans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102603114943857137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102231497919098994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Xxxxxxnans: 我很讨厌和男的聊xp因为聊了之后感觉他们下一秒就开始意淫了。只有和闺蜜聊起来才会侃侃而谈如同高山流水遇知音一般。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041827098244046848",
+        "conversation_id": "2102603114943857137",
+        "created_at": "2026-09-23T03:37:01.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102603114943857137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058094415504351232",
+              "start": 3,
+              "username": "Xxxxxxnans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102603114943857137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102231497919098994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Xxxxxxnans: 我很讨厌和男的聊xp因为聊了之后感觉他们下一秒就开始意淫了。只有和闺蜜聊起来才会侃侃而谈如同高山流水遇知音一般。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058094415504351232",
+        "conversation_id": "2102231497919098994",
+        "created_at": "2026-09-22T03:00:21.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102231497919098994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102231497919098994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 107908,
+          "like_count": 2936,
+          "quote_count": 8,
+          "reply_count": 132,
+          "retweet_count": 69
+        },
+        "reply_settings": "following",
+        "text": "我很讨厌和男的聊xp因为聊了之后感觉他们下一秒就开始意淫了。只有和闺蜜聊起来才会侃侃而谈如同高山流水遇知音一般。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T10:36:00.000Z",
+        "description": "",
+        "id": "2041827098244046848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102603114943857137",
+        "name": "不说我也会做",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041827098244046848/1785080433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102478375335895040/UZ31wPxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 74,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "wonlove32",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:56:24.000Z",
+        "description": "iiii\n互关可以加这个呀@xxoonan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "xxoonan"
+              }
+            ]
+          }
+        },
+        "id": "2058094415504351232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102602799649525902",
+        "name": "Xxxx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058094415504351232/1789757179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101019959296176128/06IYbNAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 375,
+          "like_count": 5330,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "Xxxxxxnans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
